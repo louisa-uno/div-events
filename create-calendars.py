@@ -64,8 +64,8 @@ def create_calendar(name=None, organizers=None):
 	if organizers:
 		query = {
 			"start": {
-				"$gte": now - timedelta(years=1),
-				"$lte": now + timedelta(years=1)
+				"$gte": now - timedelta(days=365),
+				"$lte": now + timedelta(days=365)
 			},
 			"meta.parent.title": {
 				"$in": organizers
@@ -74,8 +74,8 @@ def create_calendar(name=None, organizers=None):
 	else:
 		query = {
 			"start": {
-				"$gte": now - timedelta(years=1),
-				"$lte": now + timedelta(years=1)
+				"$gte": now - timedelta(days=365),
+				"$lte": now + timedelta(days=365)
 			}
 		}
 	events = div_db.find(query)
