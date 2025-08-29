@@ -1,6 +1,5 @@
 import json
 import os
-from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 from datetime import datetime, timedelta
 
 from ics import Calendar, Event
@@ -29,57 +28,43 @@ def check_organizers():
 		if not any(o == organizer["title"] for o in organizers_file):
 			print(f"Organizer {organizer['id']} - {organizer.get('title', 'No title')} is missing in organizers.json")
 
-
-# returns every combination possible from the organizers.json as an array
-# the array should use the values of the combination out of the organizers.json it is using as keys by joining them without spaces
-# the values of these keys should be a list of the keys used to create the combination
-# example:
-# input:{"JuLes": "jl","Wilma": "wi"}
-# should return for example:
-# {"jlwi": ["JuLes", "Wilma"], "jl": ["JuLes"], "wi": ["Wilma"]}
-# the combination "wijl": ["Wilma", "JuLes"] would not be valid as the order of the keys does matter
-def generate_organizer_combinations():
-    organizers = get_organizers_json()
-    keys = list(organizers.keys())
-    n = len(keys)
-    combinations = {}
-    # Use bitmask to select keys in order
-    for i in range(1, 2**n):
-        subsequence_keys = []
-        subsequence_values = []
-        for j in range(n):
-            if (i & (1 << j)) > 0:
-                subsequence_keys.append(keys[j])
-                subsequence_values.append(organizers[keys[j]])
-        combination_key = ''.join(subsequence_values)
-        combinations[combination_key] = subsequence_keys
-    return combinations
-
 def create_calendars_dir():
 	if not os.path.exists("calendars"):
 		os.makedirs("calendars")
 
-def create_calendar(name=None, organizers=None):
+
+def get_organizers_from_json():
+    organizers = []
+    for short_name, organizer in get_organizers_json().items():
+        organizers.append((organizer, short_name))
+    return organizers
+
+def create_calendar(organizer=None):
 	cal = Calendar()
 
 	now = datetime.now()
-	if organizers:
-		query = {
-			"start": {
-				"$gte": now - timedelta(days=30),
-				"$lte": now + timedelta(days=90)
-			},
-			"meta.parent.title": {
-				"$in": organizers
-			}
+	query = {
+		"start": {
+			"$gte": now - timedelta(days=30),
+			"$lte": now + timedelta(days=90)
 		}
-	else:
-		query = {
-			"start": {
-				"$gte": now - timedelta(days=30),
-				"$lte": now + timedelta(days=90)
+	}
+	if organizer:
+		if organizer[1] == "no":
+			query = {
+				"start": query["start"],
+				"$or": [
+					{"meta.parent.title": {"$exists": False}},
+					{"meta.parent.title": None},
+					{"meta.parent.title": ""},
+					{"meta.parent.title": {"$nin": [o[0] for o in get_organizers_from_json()]}}
+				]
 			}
-		}
+		else:
+			query = {
+				"start": query["start"],
+				"meta.parent.title": organizer[1]
+			}		
 	events = div_db.find(query)
 
 	no_end_date_count = 0
@@ -119,12 +104,12 @@ def create_calendar(name=None, organizers=None):
 				)
 				e.location = loc_str
 			cal.events.add(e)
-	if not organizers:
+	if not organizer:
 		print(f"{no_end_date_count} of {len(cal.events)} events had no end date")
 
-	if name:
+	if organizer:
 		create_calendars_dir()
-		filename = f"calendars/{name}.ics"
+		filename = f"calendars/{organizer[0]}.ics"
 	else:
 		filename = "all.ics"
 	with open(filename, "w", encoding="utf-8") as f:
@@ -133,12 +118,10 @@ def create_calendar(name=None, organizers=None):
 def create_calendars():
 	create_calendar()
 	create_calendars_dir()
-	organizer_combinations = generate_organizer_combinations()
-	print(f"Creating {len(organizer_combinations)} calendars for organizer combinations...")
-	with ThreadPoolExecutor(max_workers=32) as executor:
-		futures = [executor.submit(create_calendar, name, organizers) for name, organizers in organizer_combinations.items()]
-		for future in futures:
-			future.result()
+	organizers = get_organizers_from_json()
+	print(f"Creating {len(organizers)} filtered calendars...")
+	for organizer in organizers:
+		create_calendar(organizer)
 	print("Calendars created.")
 		
 def main():
