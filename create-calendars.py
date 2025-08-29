@@ -133,7 +133,7 @@ def create_calendars():
 	create_calendar()
 	organizer_combinations = generate_organizer_combinations()
 	print(f"Creating {len(organizer_combinations)} calendars for organizer combinations...")
-	with ThreadPoolExecutor(max_workers=10) as executor:
+	with ThreadPoolExecutor(max_workers=32) as executor:
 		futures = [executor.submit(create_calendar, name, organizers) for name, organizers in organizer_combinations.items()]
 		for future in futures:
 			future.result()
