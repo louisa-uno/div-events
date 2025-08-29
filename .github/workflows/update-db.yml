@@ -18,10 +18,10 @@ jobs:
               with:
                   fetch-depth: 0
 
-            - name: Checkout auto-update branch for mongo_dump
+            - name: Checkout db-update branch for mongo_dump
               run: |
-                  git fetch origin auto-update
-                  git checkout auto-update -- mongo_dump || echo "mongo_dump directory does not exist in auto-update branch"
+                  git fetch origin db-update
+                  git checkout db-update -- mongo_dump || echo "mongo_dump directory does not exist in db-update branch"
 
             - name: Set up Python 3.13
               uses: actions/setup-python@v4
