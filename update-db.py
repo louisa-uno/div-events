@@ -3,12 +3,20 @@ from datetime import datetime, timedelta
 import requests
 from dateutil.parser import parse
 from pymongo import MongoClient
-from pymongo.errors import BulkWriteError
-
+from pymongo.errors import BulkWriteError, DuplicateKeyError
 
 client = MongoClient("mongodb://localhost:27017/")
 db = client["div"]
 div_db = db["pages"]
+
+
+indexes = [
+    ("meta.parent.title", 1),
+    ("start", 1),
+    ("last_fetched", 1)
+    ]
+for index in indexes:
+	div_db.create_index([index])
 
 
 def convert_dates(obj):
