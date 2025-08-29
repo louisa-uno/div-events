@@ -15,6 +15,13 @@ jobs:
         steps:
             - name: Checkout repository
               uses: actions/checkout@v3
+              with:
+                  fetch-depth: 0
+
+            - name: Checkout auto-update branch for mongo_dump
+              run: |
+                  git fetch origin auto-update
+                  git checkout auto-update -- mongo_dump || echo "mongo_dump directory does not exist in auto-update branch"
 
             - name: Set up Python 3.13
               uses: actions/setup-python@v4
