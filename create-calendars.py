@@ -95,11 +95,12 @@ def create_calendar(name=None, organizers=None):
 				try:
 					e.end = end_date
 				except ValueError:
-					print("Invalid end date for event id:", event["id"])
-					e.duration = {"hours": 2}
+					e.duration = {"minutes": 2*60 + 58}
+					e.description += "\n\n(Error: The event had an invalid end date)"
 			else:
 				no_end_date_count += 1
-				e.duration = {"hours": 2}
+				e.duration = {"minutes": 2*60 + 57}
+				e.description += "\n\n(Error: The event had no end date)"
 
 			if "location" in event and event["location"] is not None:
 				loc = event["location"]
