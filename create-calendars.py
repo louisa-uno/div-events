@@ -134,13 +134,8 @@ def create_calendars():
 	create_calendar()
 	organizer_combinations = generate_organizer_combinations()
 	print(f"Creating {len(organizer_combinations)} calendars for organizer combinations...")
-	i = 0
 	for name, organizers in organizer_combinations.items():
-		if name.startswith("jl"):
-			i += 1
 		create_calendar(name, organizers)
-	
-	print(f"Created {i} calendars for combinations starting with 'jl'")
 	print("Calendars created.")
 		
 def main():
