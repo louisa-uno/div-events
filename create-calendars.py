@@ -1,10 +1,10 @@
 import json
 import os
+from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 from datetime import datetime, timedelta
 
 from ics import Calendar, Event
 from pymongo import MongoClient
-
 
 client = MongoClient("mongodb://localhost:27017/")
 db = client["div"]
@@ -129,13 +129,14 @@ def create_calendar(name=None, organizers=None):
 	with open(filename, "w", encoding="utf-8") as f:
 		f.writelines(cal)
 
-
 def create_calendars():
 	create_calendar()
 	organizer_combinations = generate_organizer_combinations()
 	print(f"Creating {len(organizer_combinations)} calendars for organizer combinations...")
-	for name, organizers in organizer_combinations.items():
-		create_calendar(name, organizers)
+	with ThreadPoolExecutor(max_workers=10) as executor:
+		futures = [executor.submit(create_calendar, name, organizers) for name, organizers in organizer_combinations.items()]
+		for future in futures:
+			future.result()
 	print("Calendars created.")
 		
 def main():
