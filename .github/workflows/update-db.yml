@@ -58,6 +58,8 @@ jobs:
                   fi || echo "No existing dump to import"
 
             - name: Run update-db.py
+              env:
+                  PYTHONUNBUFFERED: 1
               run: python update-db.py
 
             - name: Export MongoDB dump
