@@ -7,16 +7,20 @@ on:
     workflow_dispatch:
     schedule:
         - cron: "*/30 * * * *"
+
 jobs:
     build:
         runs-on: ubuntu-latest
+
         steps:
             - name: Checkout repository
               uses: actions/checkout@v3
+
             - name: Set up Python 3.13
               uses: actions/setup-python@v4
               with:
                   python-version: "3.13"
+
             - name: Cache pip dependencies
               uses: actions/cache@v3
               with:
@@ -24,12 +28,37 @@ jobs:
                   key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
                   restore-keys: |
                       ${{ runner.os }}-pip-
+
             - name: Install dependencies
               run: |
                   python -m pip install --upgrade pip
                   pip install -r requirements.txt
+
+            - name: Install MongoDB
+              run: |
+                  sudo apt-get update
+                  sudo apt-get install -y mongodb
+
+            - name: Start MongoDB server
+              run: |
+                  sudo mkdir -p /data/db
+                  sudo mongod --fork --logpath /var/log/mongodb.log --dbpath /data/db
+
+            - name: Import MongoDB dump if exists
+              run: |
+                  if [ -d "./mongo_dump" ]; then
+                    mongorestore ./mongo_dump
+                  fi || echo "No existing dump to import"
+
             - name: Run update-db.py
               run: python update-db.py
+
+            - name: Export MongoDB dump
+              run: |
+                  rm -rf ./mongo_dump
+                  mkdir -p ./mongo_dump
+                  mongodump --out ./mongo_dump
+
             - name: Commit files and push changes
               run: |
                   git config --local user.email "action@github.com"
@@ -39,3 +68,7 @@ jobs:
                   git add -A
                   git diff --cached --quiet || git commit -m "Updated blocklists"
                   git push origin HEAD:auto-update --force
+
+            - name: Stop MongoDB server
+              run: |
+                  sudo mongod --shutdown
