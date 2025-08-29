@@ -15,19 +15,23 @@ jobs:
         steps:
             - name: Checkout repository
               uses: actions/checkout@v3
+
             - name: Checkout db-update branch into temp folder
               uses: actions/checkout@v3
               with:
                   ref: db-update
-                  path: /tmp/div-events
+                  path: db-update
 
             - name: Copy mongo_dump from db-update branch
               run: |
-                  if [ -d "/tmp/div-events/mongo_dump" ]; then
-                    cp -r /tmp/div-events/mongo_dump ./
+                  if [ -d "db-update/mongo_dump" ]; then
+                    cp -r db-update/mongo_dump ./
                   else
                     echo "mongo_dump directory does not exist in db-update branch"
                   fi
+
+            - name: Remove temp folder
+              run: rm -rf db-update
 
             - name: Checkout db-update branch for mongo_dump
               run: |
