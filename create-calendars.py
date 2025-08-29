@@ -10,7 +10,6 @@ client = MongoClient("mongodb://localhost:27017/")
 db = client["div"]
 div_db = db["pages"]
 
-
 def get_organizers():
 	query = {
 		"meta.type": "home.EventOrganizer"
@@ -56,6 +55,9 @@ def generate_organizer_combinations():
         combinations[combination_key] = subsequence_keys
     return combinations
 
+def create_calendars_dir():
+	if not os.path.exists("calendars"):
+		os.makedirs("calendars")
 
 def create_calendar(name=None, organizers=None):
 	cal = Calendar()
@@ -121,8 +123,7 @@ def create_calendar(name=None, organizers=None):
 		print(f"{no_end_date_count} of {len(cal.events)} events had no end date")
 
 	if name:
-		if not os.path.exists("calendars"):
-			os.makedirs("calendars")
+		create_calendars_dir()
 		filename = f"calendars/{name}.ics"
 	else:
 		filename = "all.ics"
@@ -131,6 +132,7 @@ def create_calendar(name=None, organizers=None):
 
 def create_calendars():
 	create_calendar()
+	create_calendars_dir()
 	organizer_combinations = generate_organizer_combinations()
 	print(f"Creating {len(organizer_combinations)} calendars for organizer combinations...")
 	with ThreadPoolExecutor(max_workers=32) as executor:
