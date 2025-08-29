@@ -97,7 +97,7 @@ jobs:
                   git fetch origin
                   git checkout main
                   git add -A
-                  git diff --cached --quiet || git commit -m "Updated blocklists"
+                  git diff --cached --quiet || git commit -m "Update DB"
                   git push origin HEAD:db-update --force
 
             - name: Stop MongoDB server
