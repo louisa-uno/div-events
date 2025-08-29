@@ -89,6 +89,7 @@ jobs:
               run: python create-calendars.py
 
             - name: Commit files and push changes
+              if: github.event_name != 'pull_request'
               run: |
                   git config --local user.email "action@github.com"
                   git config --local user.name "GitHub Action"
