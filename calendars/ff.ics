@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>More info coming soon...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251108T130000Z
+SUMMARY:frients Treffen im November
+UID:86e6881f-13f0-4b7b-b1fb-b92efb59a13f@86e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>The frients group will meet this tuesday evening at 7pm for a relaxed chillout. There will be room for games\, talks and lemonaid.</p>
+DTEND:20251028T210000Z
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251028T180000Z
+SUMMARY:frients Abend im Oktober
+UID:bee26e14-540f-4d06-ba0d-1c125c91f7b5@bee2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> The frients group will meet this tuesday evening at 7pm for a relaxed chillout. There will be room for games\, talks and lemonaid. </p>
+DTEND:20250923T200000Z
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250923T170000Z
+SUMMARY:frients Abend im September
+UID:d9fbfb72-8969-4cc0-b07f-1edbe86d71bd@d9fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>The frients group will meet this tuesday evening at 7pm for a relaxed chillout. There will be room for games\, talks and lemonaid.</p>
+DTEND:20251125T210000Z
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251125T180000Z
+SUMMARY:frients Abend im November
+UID:04fe8377-0051-41d9-9009-172cda417674@04fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>More info coming soon...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250809T120000Z
+SUMMARY:frients Treffen im August: Kennenlernabend und Fimo
+UID:29577508-32e3-4854-83e6-2f096486769b@2957.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>More info coming soon...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250913T120000Z
+SUMMARY:frients Treffen im September
+UID:a2bded52-eb4d-44a7-8387-a1a8cfc4bb34@a2bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>More info coming soon...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251011T120000Z
+SUMMARY:frients Treffen im Oktober
+UID:2f662979-5851-447b-a282-9d02ccacc096@2f66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> The frients group will meet this tuesday evening at 7pm for a relaxed chillout. There will be room for games\, talks and lemonaid. </p>
+DTEND:20250826T200000Z
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250826T170000Z
+SUMMARY:frients Abend im August
+UID:9dd6beb8-71f9-4a0f-bc6d-5411b34f6061@9dd6.org
+END:VEVENT
+END:VCALENDAR

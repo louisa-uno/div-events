@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>The summer heat is coming back\, and AroSpAce wants to go picknicking!<br/>We will meet at 19:00 at the youth-centre\, and will then leave from there together at 19:30 towards Isar to find a cozy place for us.  Feel free to bring a picnic blanket\, your own snacks\, and some games. As is will be quite warm that day please also bring enough to drink and appropriate sun protection.</p><p>For all that want to join late we will post our location into our Telegram Channel\, or you can write us <a id="1677" linktype="page">here</a>.</p><p><i>AroSpAce is a group for teens and young adults between 14 and 27\, who identify themselves with the aromantic and/or the asexual spectrum (including Demi-\, Grey-\, etc.). If you identify with either or both of these spectra or are questioning you are very welcome to join our meetings.</i></p><p><i>Unfortunately our youth centre is not accessible. Should you have accessibility needs\, please write us at arospace[at]diversity-muenchen.de . Maybe we can find a solution.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250812T170000Z
+SUMMARY:AroSpAce: Isar-Picknick
+UID:5371ce48-08d6-4017-9907-49b98dbdfba4@5371.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Details will follow!</b></p><p><i>AroSpAce is a group for teens and young adults between 14 and 27\, who identify themselves with the aromantic and/or the asexual spectrum (including Demi-\, Grey-\, etc.). If you identify with either or both of these spectra or are questioning you are very welcome to join our meetings.</i></p><p><i>Unfortunately our youth centre is not accessible. Should you have accessibility needs\, please write us at arospace[at]diversity-muenchen.de . Maybe we can find a solution.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251111T180000Z
+SUMMARY:AroSpAce: im November
+UID:c8ff4e7e-67e7-4b41-b339-4c82dae6f472@c8ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Details will follow!</b></p><p><i>AroSpAce is a group for teens and young adults between 14 and 27\, who identify themselves with the aromantic and/or the asexual spectrum (including Demi-\, Grey-\, etc.). If you identify with either or both of these spectra or are questioning you are very welcome to join our meetings.</i></p><p><i>Unfortunately our youth centre is not accessible. Should you have accessibility needs\, please write us at arospace[at]diversity-muenchen.de . Maybe we can find a solution.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251014T170000Z
+SUMMARY:AroSpAce: im Oktober
+UID:c8c52899-6de1-42bb-b139-14c9ada1c613@c8c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Because of our co‑op with the BIPoC-Abend on September 2\, the regular meeting is cancelled this month.</b></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250909T170000Z
+SUMMARY:AroSpAce: Das Treffen im September findet eine Woche früher statt.
+UID:ab9e9080-7a3b-4c90-bcdf-c46af9ffd137@ab9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>The BIPoC Abend and AroSpAce would like to make bubble tea together with you.<br/>Of course\, you can also just come to the gathering to meet people\, chat\, and play games.<br/><b>Note: The regular AroSpAce meeting that would have taken place a week later is cancelled in September.</b></p><p></p><p><i>The BIPoC evening is for queer BIPoC between 14 and 27 years. So welcome are all LGBTIAQ*<br/>people and people who are still questioning their identity\, who do not identify as white because of<br/>their cultural background or skin color.</i></p><p></p><p><i>AroSpAce is a group for teens and young adults between 14 and 27\,<br/>who identify themselves with the aromantic and/or the asexual spectrum (including Demi-\, Grey-\, etc.).<br/>If you identify with either or both of these spectra or are questioning you are very welcome to join our meetings.</i></p><p></p><p><i>Unfortunately our youth centre is not accessible. Should you have accessibility needs\,<br/>please write us at arospace[at]diversity-muenchen.de.<br/>Maybe we can find a solution.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250902T170000Z
+SUMMARY:BIPoC-Abend & AroSpAce: Bubble Tea selber machen
+UID:e4e8ea9f-57ed-40f8-b3c2-15d69c6a454b@e4e8.org
+END:VEVENT
+END:VCALENDAR

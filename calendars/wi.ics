@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p> Let&#x27\;s do it again! Wilma will have a picnic with you on the Isar! </p><p>We&#x27\;ll  play outdoor games\, snack on fruit\, chat a lot or just relax and enjoy  the sun.<br/>If you have a picnic blanket\, bring it along! Please also  remember to bring enough water and sun protection. And if you can\, you  are also welcome to bring snacks for the picnic.<br/>The meeting point is the diversity Jugendzentrum\, Blumenstr. 11. At 19:15 we will go to the Isar together\, so if you would like to join us later\, please write to us via the contact form.<br/>If it rains\, we&#x27\;ll have an indoor picnic in the café (Blumenstraße 29)\, so bring your blanket anyway!<br/>Wilma are looking forward to a sunny and fun picnic with you! </p>
+DTEND:20250815T200000Z
+DTSTART:20250815T170000Z
+SUMMARY:Wilmas gehen an die Isar
+UID:c2304736-550e-4bbe-ab01-0c2ad8d33ca8@c230.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> </p><p>Do you paint\, write\, knit\, or engage in other creative activities? Then come to Wilma&#x27\;s creative evening! Bring along the project you are currently working on or a new project and look forward to crafting together.</p><p>If you don&#x27\;t have your own project at the moment\, you can also make bracelets using materials from diversity. </p><p>The Wilmas look forward to a creative-chatty-colourful evening with you!</p>
+DTEND:20250904T200000Z
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250904T170000Z
+SUMMARY:Wilma - Kreativabend
+UID:b84432a4-408d-4895-bfa9-8dd494bbef9f@b844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Info to come</p>
+DTEND:20250921T160000Z
+DTSTART:20250919T140000Z
+SUMMARY:Wilma Freizeitfahrt
+UID:f16ffcd2-6483-4f9e-8bdf-6eb1e56073ea@f16f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos to come</p>
+DTEND:20251002T200000Z
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251002T170000Z
+SUMMARY:Wilma Kürbissuppe kochen
+UID:454e5748-931f-42e6-a172-331bf64ccab1@454e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Info to come</p>
+DTEND:20251017T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251017T170000Z
+SUMMARY:Wilma Treffen im Oktober
+UID:8d88ef62-0d24-466c-8cfb-0b18e3bd362c@8d88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Unfortunately\, we have to cancel the event since we dont have enough organising people.</p><p><b>But if you want to\, you can come visit the diversity cafe\, Blumenstr 29\, that&#x27\;s open from 4 to 8pm! You can get coffee and cake for a good price there and it&#x27\;s definitely worth a visit!</b></p><p>We hope you have a good time and we&#x27\;ll see you on the 15th</p><p>Best wishes\, your Wilma Team. </p><p>If you ever want to help or maybe even organize and event\, write us via our contact form! We&#x27\;re happy about every helping hand!</p>
+DTEND:20250807T200000Z
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250807T170000Z
+SUMMARY:Wilma - Entfällt leider!
+UID:6e46ef53-5d2d-4ce9-995b-1e8c766108e8@6e46.org
+END:VEVENT
+END:VCALENDAR

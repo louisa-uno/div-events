@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Wir treffen uns als Team von NoDifference! jeden 3. Donnerstag im Monat und planen unsere diversen queeren Veranstaltungen.</p><p>Du möchtest Teil des Teams werden?</p><p>Dann komm gerne 10 Minuten früher zu unserem Teamtreffen\, damit wir Dir alles erklären können.</p>
+DTEND:20250821T190000Z
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250821T170000Z
+SUMMARY:Teamtreffen
+UID:b1f7818f-c442-4fce-9d78-7ace2c88ca78@b1f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Wir treffen uns als Team von NoDifference! jeden 3. Donnerstag im Monat und planen unsere diversen queeren Veranstaltungen.</p><p>Du möchtest Teil des Teams werden?</p><p>Dann komm gerne 10 Minuten früher zu unserem Teamtreffen\, damit wir Dir alles erklären können.</p>
+DTEND:20250918T190000Z
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250918T170000Z
+SUMMARY:Teamtreffen
+UID:5fb987fb-e95c-45cd-91e5-fcd34612204d@5fb9.org
+END:VEVENT
+END:VCALENDAR

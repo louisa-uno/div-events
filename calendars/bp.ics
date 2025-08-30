@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>The BIPoC Abend cordially invites everyone to a relaxed Game Night! This is the perfect opportunity to meet other BIPoC individuals in a cozy atmosphere and connect with the community. We&#x27\;ve prepared a selection of board and card games for you\, whether you&#x27\;re in the mood for quick rounds or extensive matches. While you dive into exciting game worlds and make new contacts\, delicious smoothies and ice cream await you.<br/>Whether you just want to drop by to relax with the games or have a cozy chat – a warm welcome is guaranteed for everyone here. Look forward to an evening full of new acquaintances\, community\, and enjoyment!</p>
+DTEND:20250805T200000Z
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250805T170000Z
+SUMMARY:Game Night mit Smoothies und Eis
+UID:a4cb0921-f958-4c11-a30b-d638fcc704b7@a4cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>The BIPoC Abend and AroSpAce would like to make bubble tea together with you.<br/><br/>Of course\, you can also just come to the gathering to meet people\, chat\, and play games.<br/><br/>Note: The regular AroSpAce meeting that would have taken place a week later is cancelled in September.<br/><br/>AroSpAce is a group for teens and young adults between 14 and 27\,<br/>who identify themselves with the aromantic and/or the asexual spectrum (including Demi-\, Grey-\, etc.).<br/>If you identify with either or both of these spectra or are questioning you are very welcome to join our meetings.<br/><br/>Unfortunately our youth centre is not accessible. Should you have accessibility needs\,<br/>please write us at arospace[at]diversity-muenchen.de.<br/>Maybe we can find a solution.</p>
+DTEND:20250902T200000Z
+LOCATION:diversity Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250902T170000Z
+SUMMARY:Bubble Tea selber machen mit AroSpAce
+UID:8926f87e-ba68-4751-834d-a9eb59e1ef79@8926.org
+END:VEVENT
+END:VCALENDAR
