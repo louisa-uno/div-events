@@ -71,7 +71,7 @@ def create_calendar(organizer=None):
 	for event in events:
 		e = Event()
 		e.name = event.get("title", "No title")
-		e.description = event.get("description_en") or event.get("description_de") or ""
+		e.description = event.get("description_de") or event.get("description_en") or ""
 		
 		start_date = event.get("start", None)
 		if start_date:
