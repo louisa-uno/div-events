@@ -103,6 +103,7 @@ def create_calendar(organizer=None):
 					)
 				)
 				e.location = loc_str
+				e.location = e.location.replace("diversity Jugendzentrum", "diversity München Jugendzentrum")
 			cal.events.add(e)
 	if not organizer:
 		print(f"{no_end_date_count} of {len(cal.events)} events had no end date")
