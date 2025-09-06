@@ -2,6 +2,7 @@
 [![Action Status: create-calendars.yml](https://github.com/louisa-uno/div-events/actions/workflows/update-db.yml/badge.svg)](https://github.com/louisa-uno/div-events/actions/workflows/update-db.yml)
 [![Action Status: create-calendars.yml](https://github.com/louisa-uno/div-events/actions/workflows/create-calendars.yml/badge.svg)](https://github.com/louisa-uno/div-events/actions/workflows/create-calendars.yml)
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL–3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
+
 Provides .ICS calendars for the events [diversity München](https://diversity-muenchen.de) lists on their website
 ## Calendar types
 ### General calendar
@@ -31,8 +32,11 @@ Calendars for each of the diversity groups
 | BiPoC-Abend        | bp   | [bp.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsbp.ics) |
 | Non Organizer      | no   | [no.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsno.ics) |
 
-### Combined Group calendars 
+### Combined Group calendars
 Combine group calendars into a single calendar by joining their codes with a hyphen and appending .ics
+
 Base URL: https://div-events.cdnapp.de/
+
 Pattern: "https://div-events.cdnapp.de/" + group_code + "-" + group_code + ".ics"
+
 Example: For jl and wi → https://div-events.cdnapp.de/jl-wi.ics
