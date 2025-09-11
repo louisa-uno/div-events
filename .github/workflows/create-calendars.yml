@@ -102,3 +102,10 @@ jobs:
             - name: Stop MongoDB server
               run: |
                   sudo mongod --shutdown
+       
+            - name: Upload Artifact
+              uses: actions/upload-artifact@v4
+              with:
+                path: |
+                  all.ics
+                  calendars/
