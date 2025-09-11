@@ -13,24 +13,24 @@ Calendars for each of the diversity groups
 
 | Name               | Code | Link                                                                                                     |
 | ------------------ | ---- | -------------------------------------------------------------------------------------------------------- |
-| JuLes              | jl   | [jl.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsjl.ics) |
-| Wilma              | wi   | [wi.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarswi.ics) |
-| frients            | ff   | [ff.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsff.ics) |
-| youngsters         | yo   | [yo.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsyo.ics) |
-| JUNGS              | jn   | [jn.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsjn.ics) |
-| plusPOL            | pp   | [pp.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarspp.ics) |
-| NoDifference!      | nd   | [nd.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsnd.ics) |
-| refugees@diversity | re   | [re.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsre.ics) |
-| DINOs              | di   | [di.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsdi.ics) |
-| bi.yourself        | bi   | [bi.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsbi.ics) |
-| enBees             | en   | [en.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsen.ics) |
-| diversity@school   | ds   | [ds.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsds.ics) |
-| QueerBeats         | qb   | [qb.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsqb.ics) |
-| queer-to-queer     | qq   | [qq.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsqq.ics) |
-| diversity München  | dm   | [dm.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsdm.ics) |
-| AroSpAce           | as   | [as.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsas.ics) |
-| BiPoC-Abend        | bp   | [bp.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsbp.ics) |
-| Non Organizer      | no   | [no.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendarsno.ics) |
+| JuLes              | jl   | [jl.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/jl.ics) |
+| Wilma              | wi   | [wi.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/wi.ics) |
+| frients            | ff   | [ff.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/ff.ics) |
+| youngsters         | yo   | [yo.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/yo.ics) |
+| JUNGS              | jn   | [jn.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/jn.ics) |
+| plusPOL            | pp   | [pp.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/pp.ics) |
+| NoDifference!      | nd   | [nd.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/nd.ics) |
+| refugees@diversity | re   | [re.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/re.ics) |
+| DINOs              | di   | [di.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/di.ics) |
+| bi.yourself        | bi   | [bi.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/bi.ics) |
+| enBees             | en   | [en.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/en.ics) |
+| diversity@school   | ds   | [ds.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/ds.ics) |
+| QueerBeats         | qb   | [qb.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/qb.ics) |
+| queer-to-queer     | qq   | [qq.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/qq.ics) |
+| diversity München  | dm   | [dm.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/dm.ics) |
+| AroSpAce           | as   | [as.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/as.ics) |
+| BiPoC-Abend        | bp   | [bp.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/bp.ics) |
+| Non Organizer      | no   | [no.ics](https://raw.githubusercontent.com/louisa-uno/div-events/refs/heads/auto-update/calendars/no.ics) |
 
 ### Combined Group calendars
 Combine group calendars into a single calendar by joining their codes with a hyphen and appending .ics
