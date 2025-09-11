@@ -74,7 +74,7 @@ def create_calendar(organizer=None):
 		if "meta" in event and "parent" in event["meta"]:
 			parent = event["meta"]["parent"]
 			group = parent.get("title", None)
-			if group and group.lower() not in e.name.lower():
+			if group and group.lower() not in e.name.lower() and group != "diversity München":
 				e.name = group + ": " + e.name
 		e.description = event.get("description_de") or event.get("description_en") or ""
 		
