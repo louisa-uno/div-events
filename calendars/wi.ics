@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p> </p><p>Du malst\, schreibst\, strickst oder betätigst Dich auf andere Weise  kreativ? Dann komm vorbei  zum Kreativabend von Wilma! Bringe das  Projekt\, an dem Du gerade arbeitest oder ein neues Projekt gerne mit und  freu Dich auf gemeinsames gestalten.</p><p>Falls Du aktuell kein  eigenes Projekt hast\, kannst Du auch mit Material vom diversity Armbänder basteln. </p><p>Die Wilmas freuen sich auf einen kreativ-ratschig-bunten Abend mit Dir! </p>
+DTEND:20250904T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250904T170000Z
+SUMMARY:Wilma - Kreativabend
+UID:ea467602-2f88-48a6-a2a7-1e5143f4f185@ea46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen</p>
+DTEND:20251017T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251017T170000Z
+SUMMARY:Wilma Treffen im Oktober
+UID:e237e03e-4918-4898-abe5-a984d968d937@e237.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Dieses Jahr fahren wir wieder auf Freizeitfahrt! Vom Freitag\, 19.09.2025 bis Sonntag 21.09.2025 geht es nach Grabenstätt ins Jugendübernachtungshaus Nepomuk.<br/><br/>Ob zusammen basteln und kochen\, am Lagerfeuer singen\, Spiele spielen oder noch bis in die Nacht reden\; das Wochenende wird für alle etwas ganz Besonderes.<br/><br/><b>Du hast Lust bekommen zum mitfahren? Bitte melde Dich hier an:<br/></b><a href="https://events.diversity-muenchen.de/wilma/fahrt2025/"><b>https://events.diversity-muenchen.de/wilma/fahrt2025/</b></a></p><p><b>Die Anmeldung ist noch bis Montag\, der 15.9. um 20:00 Uhr offen!</b><br/>Neulinge sind genauso willkommen wie &quot\;erfahrene&quot\; Wilmas. Mehr Infos bei der Anmeldung \;)<br/><br/>Die Wilmas freuen sich auf ein spannend-spaßiges Wochenende mit Dir!</p>
+DTEND:20250921T160000Z
+DTSTART:20250919T140000Z
+SUMMARY:Wilma Freizeitfahrt
+UID:0b3796cc-4ee1-4ad5-ba9e-96f4c935180e@0b37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen</p>
+DTEND:20251002T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251002T170000Z
+SUMMARY:Wilma Kürbissuppe kochen
+UID:5fc5fce8-927c-46f2-a63b-3081500c87de@5fc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Weils so schön war gehen Wilma nochmal picknicken gemeinsam mit Dir an  der Isar! </p><p>Es werden Outdoor-Spiele gespielt\,  Obst gesnackt\, ganz viel  geratscht oder entspannt die Sonne genießt.<br/>Wenn Du eine  Picknick-Decke hast\, bring sie gerne mit! Bitte denk auch an genug  Wasser und Sonnenschutz. Und wenn es Dir möglich ist\, kannst du auch  gerne Snacks zum Picknick beisteuern.<br/>Der Treffpunkt ist  vor dem diversity Jugendzentrum\, Blumenstr. 11. Um 19:15 Uhr werden wir gemeinsam zur Isar gehen\, also wenn du später dazukommen möchtest\, schreib uns doch bitte via Kontaktformular.<br/>Falls es regnen sollte\, machen wir ein Indoor Picknick im Café (Blumenstraße 29) also bring gern trotzdem deine Decke mit!<br/>Die Wilmas freuen sich auf ein sonnig-spaßiges Picknick mit Dir! </p>
+DTEND:20250815T200000Z
+DTSTART:20250815T170000Z
+SUMMARY:Wilmas gehen an die Isar
+UID:868f6dd7-8b48-4c54-82c7-272fc7d1c738@868f.org
+END:VEVENT
+END:VCALENDAR
