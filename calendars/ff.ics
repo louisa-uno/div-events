@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251108T130000Z
+SUMMARY:frients Treffen im November
+UID:912461dc-f69f-4a65-b4ec-d8a7d37e0d6e@9124.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251011T120000Z
+SUMMARY:frients Treffen im Oktober
+UID:99540bf1-667d-4673-a14d-76dfeed9562a@9954.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20251125T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251125T180000Z
+SUMMARY:frients Abend im November
+UID:82c49899-98fd-4a41-a274-3cf830540ee6@82c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20250923T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250923T170000Z
+SUMMARY:frients Abend im September
+UID:46ed41c3-fbd1-4a04-911a-dd8972215170@46ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20250826T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250826T170000Z
+SUMMARY:frients Abend im August
+UID:16e5ad50-9011-434f-b7b6-bed2246d2276@16e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251213T130000Z
+SUMMARY:frients Treffen im Dezember
+UID:fede657b-72fd-489e-9439-735d0b653df5@fede.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20251028T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251028T180000Z
+SUMMARY:frients Abend im Oktober
+UID:bcb93992-3eee-4e9f-bbce-91ba70839606@bcb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Im September veranstalten die frients einen entspannten Abend. Dort kannst Du mit anderen Besuchenden dich schön unterhalten und neue Brettspiele ausprobieren. Von Codenames über Werwolf bis hin zu Skyjo ist alles dabei\, Du darfst aber auch gerne eigene Spiele mitnehmen und sie mit den Leuten dort zu spielen. Wenn Du keine Lust auf Brettspiele hast kannst du dich auch gerne an der Bar mit anderen Besuchenden unterhalten oder einfach im Kissenzimmer zu chillen. Es wird auch was Veganes zum essen geben. <br/><br/>Achtung: Beachtet\, dass das Treffen dieses Mal ausnahmsweise erst ab 18 Uhr stattfindet.</p>
+DTEND:20250913T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250913T160000Z
+SUMMARY:frients Treffen im September
+UID:78630d86-d99d-486c-8ebb-e343675c1c24@7863.org
+END:VEVENT
+END:VCALENDAR

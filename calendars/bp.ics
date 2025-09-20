@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Bubble-Tea selber machen mit dem BIPoC-Abend und AroSpAce<br/>Dienstag 02. September 2025 19:00 Uhr<br/>diversity Jugendzentrum\, Blumenstraße 11<br/><br/>Der BIPoC-Abend und AroSpAce wollen zusammen mit Dir Bubble-Tea machen.<br/><br/>Selbstverständlich kannst Du auch einfach nur zum Menschen treffen\, reden und Spiele spielen kommen.<br/><br/>Info: Das reguläre AroSpAce Treffen eine Woche später entfällt im September.<br/><br/>AroSpAce ist unsere Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahren\,<br/>die sich auf dem aromantischen und/oder asexuellen Spektrum befinden oder ihre Identität dahingehend hinterfragen.<br/><br/>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest Du auf Barrierefreiheit angewiesen sein\,<br/>melde Dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns.<br/>Eventuell können wir eine kurzfristige Lösung finden.</p>
+DTEND:20250902T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250902T170000Z
+SUMMARY:BiPoC-Abend: Bubble Tea selber machen mit AroSpAce
+UID:3563a0bf-aec7-4530-baa7-2499a27625ee@3563.org
+END:VEVENT
+END:VCALENDAR

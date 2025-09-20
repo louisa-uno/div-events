@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>bi.yourself trifft sich für einen kreativen Bastelabend im Jugendzentrum. Du kannst bei uns Armbänder knüpfen oder Origami basteln. Alternativ kannst du dein eigenes Kreativprojekt mitbringen. In Gemeinschaft steigt unserer Ideenreichtum\, sowie auch unser Spaß!</p><p>Wie treffen uns ab 19 Uhr im diversity Jugendzentrum in der Blumenstraße 11. </p><p>Das bi.yourself Team freut sich auf Dich!</p>
+DTEND:20250828T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250828T170000Z
+SUMMARY:bi.yourself Armbänder knüpfen & Origami basteln
+UID:a9e86b9d-e70d-4d0f-b324-d3bccbbe5279@a9e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20251023T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251023T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:4c333758-8ee9-4e18-8b0e-c39b0501aee1@4c33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20250925T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250925T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:cd22c669-07e7-4fb5-bfba-17334836415f@cd22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20251127T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251127T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:63da1f29-dd9e-4b1b-9fce-2466a94e3c0a@63da.org
+END:VEVENT
+END:VCALENDAR
