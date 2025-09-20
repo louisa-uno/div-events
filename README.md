@@ -1,5 +1,5 @@
 # .ICS calendars for Diversity München Events
-[![Action Status: create-calendars.yml](https://github.com/louisa-uno/div-events/actions/workflows/update-db.yml/badge.svg)](https://github.com/louisa-uno/div-events/actions/workflows/update-db.yml)
+[![Action Status: update-db.yml](https://github.com/louisa-uno/div-events/actions/workflows/update-db.yml/badge.svg)](https://github.com/louisa-uno/div-events/actions/workflows/update-db.yml)
 [![Action Status: create-calendars.yml](https://github.com/louisa-uno/div-events/actions/workflows/create-calendars.yml/badge.svg)](https://github.com/louisa-uno/div-events/actions/workflows/create-calendars.yml)
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL–3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
 
