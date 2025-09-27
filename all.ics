@@ -1,0 +1,746 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p><i>Die enBees freuen sich auf alle bis 27 Jahre\, die sich nicht in das binäre Geschlechtersystem einordnen oder ihre Geschlechtsidentität dahingehend hinterfragen.</i><br/><b><br/>Infos Folgen :)</b><br/></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\,</i> <a href="https://diversity-muenchen.de/de/gruppen/enbees/kontakt/"><i>melde dich</i></a><i> bitte vorher bei ihnen. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251211T170000Z
+SUMMARY:enBees: im Dezember 1
+UID:502a1996-a283-4e5d-baee-727254f3f50f@502a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Du wolltest im diversity schon immer neue Leute kennenlernen\, hast Dich aber nicht getraut sie anzusprechen? Dann ist jetzt Deine Chance\, denn wir veranstalten gemeinsam mit den enBees im September ein Speed-Friending. Dort kannst Du in kurzer Zeit mit vielen anderen queeren Jugendlichen reden und neue Freundschaften schließen. Dazu gibt es reichlich Fingerfood. </p><p></p><p>bi.yourself ist unsere Gruppe für alle bis 27 Jahre\, die sich als bi oder pan identifizieren oder die sich auch ohne Label zu mehr als einem Geschlecht hingezogen fühlen.</p>
+DTEND:20250925T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250925T170000Z
+SUMMARY:bi.yourself & enBees Speed-Friending
+UID:d4e52fb5-f05b-45f3-9c5f-c1a0c3a1ed86@d4e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.<br/>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.</i></p>
+DTEND:20251026T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251026T140000Z
+SUMMARY:youngsters: Herbst- und Halloweendeko basteln
+UID:34f3d0a4-5373-4424-897c-7b1463ed4caf@34f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250914T170000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250914T130000Z
+SUMMARY:diversity Café
+UID:45f4534a-dd2a-4142-ae26-96b4d854fe6a@45f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250930T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250930T140000Z
+SUMMARY:diversity Café
+UID:53fbc446-d017-4223-a2c7-fb3fc847a607@53fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250911T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250911T140000Z
+SUMMARY:diversity Café
+UID:fe0a4f26-0920-4f5c-bbd8-5d4d4c1f04b6@fe0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Da das diversity Team an diesem Wochenende auf Teamfahrt ist\, muss das 2. Oktober Treffen leider ausfallen. Wir freuen uns\, euch im November wieder zu sehen! </p>
+DTEND:20251017T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251017T170000Z
+SUMMARY:Wilma Treffen - entfällt
+UID:d6f2f8db-406c-458c-a2b7-e472bcfee6b8@d6f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Planung in Arbeit...</p><p></p><p>Alle unsere Treffen sind ehrenamtlich organisiert\, deshalb dauert das Planen manchmal länger. Falls Du selbst Ideen hast oder sogar mithelfen möchtest\, melde dich doch gerne via Kontaktformular bei uns :) Wir freuen uns über jede helfende Hand!</p>
+DTEND:20251121T210000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251121T180000Z
+SUMMARY:Wilma Treffen November Freitag
+UID:8f7f607f-3b5a-4b1b-893a-c0825caf55ee@8f7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251213T130000Z
+SUMMARY:frients Treffen im Dezember
+UID:83952581-e124-4d39-827c-7642d14554db@8395.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Bis auf Weiteres finden die youngsters-JuLes-Treffen nur noch am 2. und 4. Sonntag im Monat statt.</p><p>Wenn du gerne wieder mehr Treffen möchtest und/oder dir vorstellen kannst\, bei uns im Team mitzuhelfen\, <a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/">melde dich gerne bei uns</a>.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20250831T130000Z
+SUMMARY:JuLes: fällt aus
+UID:f6c30e0d-d675-45bf-a54e-4806dccb21f7@f6c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20250923T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250923T170000Z
+SUMMARY:frients Abend im September
+UID:d562b681-20ef-4dcc-b9ae-457fe971b635@d562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251011T120000Z
+SUMMARY:frients Treffen im Oktober
+UID:84b5be8e-3717-498d-99b8-7a394aeadf8f@84b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.<br/>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.</i></p>
+DTEND:20251026T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251026T140000Z
+SUMMARY:JuLes: Herbst- und Halloweendeko basteln
+UID:7a1b8f93-4377-498b-b49e-92efca34a3b6@7a1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251102T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251102T140000Z
+SUMMARY:diversity Café
+UID:6fe825c4-78e3-4194-8744-bb27f3669660@6fe8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Bis auf Weiteres finden die youngsters-JuLes-Treffen nur noch am 2. und 4. Sonntag im Monat statt.</p><p>Wenn du gerne wieder mehr Treffen möchtest und/oder dir vorstellen kannst\, bei uns im Team mitzuhelfen\, <a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/">melde dich gerne bei uns</a>.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20250907T130000Z
+SUMMARY:youngsters: fällt aus
+UID:6ebbf0b5-a1b1-4abd-94e3-a714ffa56eef@6ebb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251012T170000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251012T130000Z
+SUMMARY:diversity Café
+UID:f0d0a80c-8fd2-4763-b545-b9fcc8a95fbe@f0d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p><b>Frisch gebacken\, warm und superlecker\, wir laden dich zu einem gemütlichen Treffen mit selbstgemachten Waffeln ein. Ob klassisch mit Puderzucker\, fruchtig mit Beeren\, oder schokoladig: Für jeden Geschmack ist etwas dabei. Und keine Sorge\, es gibt natürlich auch vegane Optionen. </b></p><p><b>Wenn dir das alles auf die Waffel geht\, kannst du aber auch gerne ein Spiel aus unserem großen Spieleschrank spielen oder im Kissenraum entspannen. </b></p><p><b>Komm vorbei\, wir freuen uns auf dich und auf einen waffelhaften Nachmittag :)</b></p><p></p><hr/><p></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis einschließlich 19 Jahre.</i><br/><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis einschließlich 19 Jahre.</i><br/></p><p>Bis auf Weiteres finden die youngsters-JuLes-Treffen nur noch am 2. und 4. Sonntag im Monat statt.<br/>Wenn du gerne wieder mehr Treffen möchtest und/oder dir vorstellen kannst\, bei uns im Team mitzuhelfen\, <a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/">melde dich gerne bei uns</a>.</p>\n\n(Error: The event had an invalid end date)
+DURATION:PT2H58M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250928T130000Z
+SUMMARY:youngsters: Waffelna(s)chmittag mit den JuLes
+UID:fbda4d9c-101e-4f17-8d85-050b7951a1e7@fbda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251108T130000Z
+SUMMARY:frients Treffen im November
+UID:e15c842e-c417-445b-9dcd-5f141f8af44c@e15c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><i>Die enBees freuen sich auf alle bis 27 Jahre\, die sich nicht in das binäre Geschlechtersystem einordnen oder ihre Geschlechtsidentität dahingehend hinterfragen.</i><br/><b><br/>Infos Folgen :)</b><br/></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\,</i> <a href="https://diversity-muenchen.de/de/gruppen/enbees/kontakt/"><i>melde dich</i></a><i> bitte vorher bei ihnen. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251122T140000Z
+SUMMARY:enBees: in November 2
+UID:c2b5f80f-ca0a-4269-b283-f3b2a3e80272@c2b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20251225T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251225T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:6d879f55-c0ae-4fc9-8e7d-f9ac8afe5177@6d87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Weitere Infos folgen. :)</b></p><p><i>AroSpAce ist die Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\, die sich auf dem aromantischen und/oder asexuellen Spektrum befinden (d.h. auch Demi-\, Grey- etc.). Du identifizierst dich auf einem oder beiden der Spektren oder hinterfragst deine Identität diesbezüglich\, dann bist du herzlich zu unserem Treffen eingeladen!</i></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251014T170000Z
+SUMMARY:AroSpAce: im Oktober
+UID:ba7e55ef-65b2-4bf3-897a-2ab8a686fc6f@ba7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Planung in Arbeit...</p><p></p><p>Alle unsere Treffen sind ehrenamtlich organisiert\, deshalb dauert das Planen manchmal länger. Falls Du selbst Ideen hast oder sogar mithelfen möchtest\, melde dich doch gerne via Kontaktformular bei uns :) Wir freuen uns über jede helfende Hand!</p>
+DTEND:20251219T210000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251219T180000Z
+SUMMARY:Wilma 3. Freitag Dezember
+UID:7ed8cd0d-54d3-45ee-ae61-4041eaf65232@7ed8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> </p><p><b><i>Die JUNGS sind die Gruppe für 18-27-jährige Männer*\, die auf Männer* stehen.</i></b></p><p>Weitere Infos folgen noch :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20251018T153000Z
+SUMMARY:JUNGS: Lange Nacht der Museen
+UID:37f1b151-1fd1-4876-8c40-d43ac85f7efa@37f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250918T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250918T140000Z
+SUMMARY:diversity Café
+UID:93eff30f-920d-4ec7-a250-0592f94108a6@93ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b><i>Die JUNGS sind die Gruppe für 18-27-jährige Männer*\, die auf Männer* stehen.</i></b></p><p>Die JUNGS laden Dich herzlich an diesen Freitag <b>(26.09.25)</b> zum gemeinsamen Koch-Abend ein! Wir haben wieder einige Gerichte geplant mit mehreren Gängen und ganz viel Spaß.</p><p>Was gibt es genau? Das verraten wir normalerweise noch nicht. Aber dieses Mal schon: Pizza! Wir werden einen Hefeteig und Tomatensoße vorbereiten. Für die Pizza kannst Du gerne Deinen Lieblingsbelag noch mitbringen\, wir werden neben Käse ansonsten noch etwas Gemüse besorgen.</p><p>Natürlich wird es auch veganen Käse geben. Damit wir besser für den veganen Käse oder mit sonstigen essenstechnischen Einschränkungen (v.a. Allergien) rechnen können\, melde Dich gerne <a href="https://diversity-muenchen.de/de/gruppen/jungs/kontakt/">hier</a> bei uns\, falls du irgendwelche Einschränkungen beim Essen hast.</p><p>Neben der Pizza wird es noch eine Vor- und Nachspeise geben. Aber auch falls du keine Lust auf das Kochen hast\, wird es natürlich die Möglichkeit geben\, zu quatschen\, eines unserer vielen Brett- und Kartenspiele auszuprobieren oder einfach nur zu entspannen.</p><p>Wir freuen uns auf Dich!</p><p>Dein JUNGS Team</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250926T170000Z
+SUMMARY:JUNGS: Kochabend
+UID:2ebbad99-c747-411a-98f0-12a8f7f0ace8@2ebb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b><i>Die JUNGS sind die Gruppe für 18-27-jährige Männer*\, die auf Männer* stehen.</i></b></p><p>Hey Du!</p><p>Am Freitag gehen die JUNGS gemeinsam mit Team München Minigolf ⛳ spielen 🎉</p><p>Es werden Ligaspieler 🏆 anwesend sein\, also kannst du dich von ihnen anleiten lassen\, oder nach Lust und Laune frei alle Bahnen bespielen und aufs Glück 🍀 hoffen.</p><p>Wir treffen uns diesmal schon um 17:15 Uhr am Minigolf Feldmoching \, Karlsfelder Str. 35\, 80995 München.</p><p>Bring bitte passend 5€ mit.</p><p></p><p>Meld Dich bitte<b> </b><a href="https://events.diversity-muenchen.de/jungs/minigolf2025/">in der Anmeldung hier</a> an\, damit wir einen Überblick haben\, wie viele Menschen voraussichtlich dabei sein werden.</p><p>Danach geht Team München normalerweise noch zum Gasthof Zur Schießstätte (selbe Adresse)\, wo noch eine feierliche Zusammenkunft stattfindet. Alternativ können wir uns abspalten und bei einem Griechen in der Nähe essen gehen. Stimm bitte für die Option ab\, die für dich am ehesten in Frage kommt!</p><p></p><p>!!!Wichtig!!!!: Die Anmeldung ist zur Teilnahme nicht notwendig!</p><p>Wir freuen uns zur Planbarkeit über deine Zusage\, aber wenn Du aus welchen Gründen auch immer nur spontan zusagen kannst\, freuen wir uns natürlich trotzdem über Dich :)</p><p></p><p>Wenn die Zahlung des Teilnahmebeitrages Dich daran hindert\, an unserer Aktion teilzunehmen\, melde Dich bitte bei uns! in diesem Fall kann z.B. diversity Teile des Beitrags oder den ganzen Beitrag übernehmen. Am besten erreichst du uns hierfür über unser Kontaktformular. Deine Anfrage wird natürlich vertraulich behandelt.</p><p></p><p>Dein JUNGS-Team 🌈</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20250912T151500Z
+SUMMARY:JUNGS: Mini-Golf mit Team München
+UID:2a1c4e87-accf-416b-88d9-cc0e5e38b917@2a1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Diesen Sonntag dürfen die kompetetiven Hasen unter uns richtig loslegen - denn von Wizzards und Catan bis hin zu Monopoly\, Poker und UNO ist alles nur noch ein Kampf um die besten Strategieköpfe (oder Glückspilze) im Boardgame extreme 3000-Nachmittag.</p><p>Um 15:00 Uhr geht es im Jugendzentrum los.</p><p>Bis Sonntag \;)</p><p></p><hr/><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis einschließlich 19 Jahre.</i><br/><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis einschließlich 19 Jahre.</i><br/></p><p>Bis auf Weiteres finden die youngsters-JuLes-Treffen nur noch am 2. und 4. Sonntag im Monat statt.<br/>Wenn du gerne wieder mehr Treffen möchtest und/oder dir vorstellen kannst\, bei uns im Team mitzuhelfen\, <a href="https://diversity-muenchen.de/de/gruppen/jules/kontakt/">melde dich gerne bei uns</a>.</p>
+DTEND:20250914T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250914T130000Z
+SUMMARY:JuLes: Boardgame extreme
+UID:b5f3a88d-6ad3-43f9-b603-ea573914903d@b5f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Jeden Mittwoch von 19:00 bis ca. 24:00 Uhr</b> findet in unserem diversity Café die diversity Bar statt!</p><p>Sie ist an jedem Mittwoch offen für alle Jugendlichen und jungen Erwachsenen unter 27 Jahren\, ganz gleich welche geschlechtliche Identität oder sexuelle Orientierung und natürlich sind auch all eure Freund*innen bis 27 Jahre herzlich eingeladen.</p><p><b>Bringt also alle eure Freund*innen mit!</b></p><p>Lerne in der diversity Bar gleichgesinnte junge lesbische\, schwule\, bi/pan/poly\, trans*\, inter*\, nicht-binäre\, aro/ace und hetero Jugendliche bis 27 Jahren bei angenehmer Atmosphäre\, leckeren Getränken und guter Stimmung kennen und genieß einen queeren Abend zu erschwinglichen Jugendpreisen.</p><p>Wie gewohnt kannst Du Dich ab 1\,70 € mit Softdrinks und ab 2\,30 € mit alkoholhaltigen Getränken versorgen.</p><h4>Kontakt</h4><p>Wenn Du unser diversity Barteam direkt kontaktieren möchtest\, wenn Du Lust hast\, ab und zu hinter der Bar zu stehen und Getränke zu mischen\, die diversity Bar mitzugestalten und Teil des Barteams zu werden\, dann melde Dich bei uns über das Kontaktformular oder sprich uns einfach an der Bar an! Mehr Informationen zur diversity Bar findest Du hier.</p><p><b>Wir freuen uns sehr\, von Dir zu hören – und Dich hoffentlich schon bald in unserem Team willkommen zu heißen.</b></p><p></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250924T170000Z
+SUMMARY:diversity Bar
+UID:de1e55c9-b756-432b-84b6-200077de8945@de1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><i>Die enBees freuen sich auf alle bis 27 Jahre\, die sich nicht in das binäre Geschlechtersystem einordnen oder ihre Geschlechtsidentität dahingehend hinterfragen.</i><br/><b><br/>ACHTUNG DATUM!!</b></p><p></p><p><b>Liebe enBees\,</b></p><p></p><p><b>diesmal treffen wir uns ausnahmsweise am Donnerstag\, um mit bi.yourself gemeinsam einen schönen Abend zu verbringen.</b></p><p><b>Bei einem Speed Friending wollen wir uns besser Kennenlernen und freuen uns auf gute Unterhaltungen und viel Spaß.</b></p><p></p><p><b>Wie immer wird es außerdem die Möglichkeit geben\, Spiele zu spielen oder einfach nur zu quatschen.</b></p><p></p><p><b>Wir freuen uns auf Euch!</b></p><p><b>Eure Orga<br/></b></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\,</i> <a href="https://diversity-muenchen.de/de/gruppen/enbees/kontakt/"><i>melde dich</i></a><i> bitte vorher bei ihnen. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250925T170000Z
+SUMMARY:enBees und bi.yourself SpeedFriending
+UID:f080e1e9-eaf2-44af-aa07-4202c9b96ccd@f080.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250923T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250923T140000Z
+SUMMARY:diversity Café
+UID:5dcfee62-7fd4-4215-9169-3381b63d2bbc@5dcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Weitere Infos folgen. :)</b></p><p><i>AroSpAce ist die Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\, die sich auf dem aromantischen und/oder asexuellen Spektrum befinden (d.h. auch Demi-\, Grey- etc.). Du identifizierst dich auf einem oder beiden der Spektren oder hinterfragst deine Identität diesbezüglich\, dann bist du herzlich zu unserem Treffen eingeladen!</i></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251111T180000Z
+SUMMARY:AroSpAce: im November
+UID:be337b8e-d21c-4f8a-baad-5602cd77ba0a@be33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.<br/>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.</i></p>
+DTEND:20251012T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251012T130000Z
+SUMMARY:JuLes: Pumkin Spice Muffins & Latte
+UID:0ef38b5a-d472-4999-ab38-0f5490380f59@0ef3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Dieses Jahr fahren wir wieder auf Freizeitfahrt! Vom Freitag\, 19.09.2025 bis Sonntag 21.09.2025 geht es nach Grabenstätt ins Jugendübernachtungshaus Nepomuk.<br/><br/>Ob zusammen basteln und kochen\, am Lagerfeuer singen\, Spiele spielen oder noch bis in die Nacht reden\; das Wochenende wird für alle etwas ganz Besonderes.<br/><br/><b>Du hast Lust bekommen zum mitfahren? Bitte melde Dich hier an:<br/></b><a href="https://events.diversity-muenchen.de/wilma/fahrt2025/"><b>https://events.diversity-muenchen.de/wilma/fahrt2025/</b></a></p><p><b>Die Anmeldung ist noch bis Montag\, der 15.9. um 20:00 Uhr offen!</b><br/>Neulinge sind genauso willkommen wie &quot\;erfahrene&quot\; Wilmas. Mehr Infos bei der Anmeldung \;)<br/><br/>Die Wilmas freuen sich auf ein spannend-spaßiges Wochenende mit Dir!</p>
+DTEND:20250921T160000Z
+DTSTART:20250919T140000Z
+SUMMARY:Wilma Freizeitfahrt
+UID:48b2280b-d293-43d4-83b0-a8315db6cb36@48b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250902T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250902T140000Z
+SUMMARY:diversity Café
+UID:0a0a83ff-9571-4704-9c11-107b51ccce69@0a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Weitere Infos folgen. :)</b></p><p><i>AroSpAce ist die Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\, die sich auf dem aromantischen und/oder asexuellen Spektrum befinden (d.h. auch Demi-\, Grey- etc.). Du identifizierst dich auf einem oder beiden der Spektren oder hinterfragst deine Identität diesbezüglich\, dann bist du herzlich zu unserem Treffen eingeladen!</i></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251209T180000Z
+SUMMARY:AroSpAce: im Dezember
+UID:c1a4b431-fe60-432d-9181-1558f4507abf@c1a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><i>Die enBees freuen sich auf alle bis 27 Jahre\, die sich nicht in das binäre Geschlechtersystem einordnen oder ihre Geschlechtsidentität dahingehend hinterfragen.</i><br/><b><br/>Infos Folgen :)</b><br/></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\,</i> <a href="https://diversity-muenchen.de/de/gruppen/enbees/kontakt/"><i>melde dich</i></a><i> bitte vorher bei ihnen. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251009T160000Z
+SUMMARY:enBees: im Oktober 1
+UID:af7b71c1-eba1-4d16-9134-29645ce02012@af7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> </p><p><b><i>Die JUNGS sind die Gruppe für 18-27-jährige Männer*\, die auf Männer* stehen.</i></b></p><p>Weitere Infos folgen noch :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20251010T170000Z
+SUMMARY:JUNGS: Kinobesuch
+UID:2b7601fa-a19d-4494-b022-1c8527a76fca@2b76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><i>Die enBees freuen sich auf alle bis 27 Jahre\, die sich nicht in das binäre Geschlechtersystem einordnen oder ihre Geschlechtsidentität dahingehend hinterfragen.</i><br/><b><br/>Infos Folgen :)</b><br/></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\,</i> <a href="https://diversity-muenchen.de/de/gruppen/enbees/kontakt/"><i>melde dich</i></a><i> bitte vorher bei ihnen. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251113T170000Z
+SUMMARY:enBees: im November 1
+UID:eef52868-4fd4-4fdb-ac03-46a2342e9a18@eef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> </p><p><b><i>Die JUNGS sind die Gruppe für 18-27-jährige Männer*\, die auf Männer* stehen.</i></b></p><p>Weitere Infos folgen noch :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251003T170000Z
+SUMMARY:JUNGS: Super Smash Bros Turnier
+UID:6e552f99-c487-4961-b891-1ecaed8f0a0e@6e55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250904T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250904T140000Z
+SUMMARY:diversity Café
+UID:b3d64fd4-f414-4351-9639-a528a1ce7c79@b3d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Einmal monatlich findet der Video Games Nachmittag während des diversity Cafés statt. Bring deine Freund*innen mit und spiele Mario Kart\, Just Dance oder Switch Sports. Wie immer gibt es Kuchen\, Sandwiches und diverse Warm- und Kaltgetränke. Natürlich kannst du aber auch einfach zum Quatschen oder Lesen vorbeischauen.</p><p></p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250907T170000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250907T130000Z
+SUMMARY:Video Games im diversity Café
+UID:e1c15222-1595-4b83-94cd-6c5cb7462849@e1c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Wir treffen uns als Team von NoDifference! jeden 3. Donnerstag im Monat und planen unsere diversen queeren Veranstaltungen.</p><p>Du möchtest Teil des Teams werden?</p><p>Dann komm gerne 10 Minuten früher zu unserem Teamtreffen\, damit wir Dir alles erklären können.</p>
+DTEND:20250918T190000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250918T170000Z
+SUMMARY:NoDifference!: Teamtreffen
+UID:9b061ef7-a7c9-4414-9cf8-58597189ff4d@9b06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250916T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250916T140000Z
+SUMMARY:diversity Café
+UID:c410dacd-9cd4-4218-8cd3-53583ab8b349@c410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250925T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250925T140000Z
+SUMMARY:diversity Café
+UID:7f0c828b-16f2-41c9-a044-8c4dd3b2c7e7@7f0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20251125T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251125T180000Z
+SUMMARY:frients Abend im November
+UID:10d14d92-6937-47bd-8282-21caa8b576a4@10d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20251127T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251127T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:edf475fa-108f-4e01-acb2-0d6b02a75286@edf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.<br/>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.</i></p>
+DTEND:20251109T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251109T140000Z
+SUMMARY:youngsters & JuLes treffen
+UID:daac9a38-fb7e-4dba-8e89-7ab785bc03c9@daac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.<br/>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.</i></p>
+DTEND:20251123T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251123T140000Z
+SUMMARY:JuLes & youngsters Gruppentreffen
+UID:833b7fbd-259a-4320-b0bf-069e4265c3de@833b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b><i>Die JUNGS sind die Gruppe für 18-27-jährige Männer*\, die auf Männer* stehen.</i></b></p><p></p><p><i>Auf die Plätze… Fertig… Los! 🏁</i></p><p>Diesen Freitag wirst Du das wohl öfters hören. Bei unserem Grossem “Schlag den Teamer”-Spiel wirst Du die Gelegenheit haben in diversen Minispielen als Teams gegen uns vom Organisationsteam anzutreten und tolle Preise zu gewinnen 🏆 Von Wissen über Geschick und Geschwindigkeit kannst Du Dein Können unter Beweis stellen 👨‍🔬🤠😱</p><p>An dem Abend kannst Du wie immer ab 19 Uhr kommen. Wir wollen mit dem Spiel um 19:30 Uhr beginnen\, falls Du also mit dabei sein willst\, komm am besten pünktlich.</p><p>Dir war die Woche schon genug Aufregung und du brauchst einen ruhigeren Abend? Dann kannst Du Dich auch einfach in unseren Barbereich chillen und mit anderen quatschen oder eines unserer Brett- und Kartenspiele spielen ♟️🗣️🍹</p><p>Du möchtest mit dabei sein? Dann komm einfach diesen Freitag vorbei! Wir freuen uns auf Dich.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250905T170000Z
+SUMMARY:JUNGS: Schlag den Teamer
+UID:6badc976-d5e0-4d8d-a0d8-74bc5befccee@6bad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Hey alle\,</p><p>kommt zum AroSpAce Acespec*German Discord Kooperationstreffen. Wir möchten uns gemeinsam austauschen und beide Gruppen vorstellen und anschließend uns in Gruppen aufteilen zum quatschen oder Spiele spielen.</p><p>Das Treffen ist altersoffen für alle Menschen die auf dem Acespec sind oder Questening.</p><p><i>AroSpAce ist unsere Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahren\,<br/>die sich auf dem aromantischen und/oder asexuellen Spektrum befinden oder ihre Identität dahingehend hinterfragen.<br/><br/>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest Du auf Barrierefreiheit angewiesen sein\,<br/>melde Dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns.<br/>Eventuell können wir eine kurzfristige Lösung finden.</i></p>
+DTEND:20250914T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250914T130000Z
+SUMMARY:AroSpAce Aspec*German Kooperationstreffen
+UID:47390695-6969-442f-ba9e-c32fa20323c9@4739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251023T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251023T140000Z
+SUMMARY:diversity Café
+UID:b831a29a-3e30-443f-bd2b-11bf78802259@b831.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Jeden Mittwoch von 19:00 bis ca. 24:00 Uhr</b> findet in unserem diversity Café die diversity Bar statt!</p><p>Sie ist an jedem Mittwoch offen für alle Jugendlichen und jungen Erwachsenen unter 27 Jahren\, ganz gleich welche geschlechtliche Identität oder sexuelle Orientierung und natürlich sind auch all eure Freund*innen bis 27 Jahre herzlich eingeladen.</p><p><b>Bringt also alle eure Freund*innen mit!</b></p><p>Lerne in der diversity Bar gleichgesinnte junge lesbische\, schwule\, bi/pan/poly\, trans*\, inter*\, nicht-binäre\, aro/ace und hetero Jugendliche bis 27 Jahren bei angenehmer Atmosphäre\, leckeren Getränken und guter Stimmung kennen und genieß einen queeren Abend zu erschwinglichen Jugendpreisen.</p><p>Wie gewohnt kannst Du Dich ab 1\,70 € mit Softdrinks und ab 2\,30 € mit alkoholhaltigen Getränken versorgen.</p><h4>Kontakt</h4><p>Wenn Du unser diversity Barteam direkt kontaktieren möchtest\, wenn Du Lust hast\, ab und zu hinter der Bar zu stehen und Getränke zu mischen\, die diversity Bar mitzugestalten und Teil des Barteams zu werden\, dann melde Dich bei uns über das Kontaktformular oder sprich uns einfach an der Bar an! Mehr Informationen zur diversity Bar findest Du hier.</p><p><b>Wir freuen uns sehr\, von Dir zu hören – und Dich hoffentlich schon bald in unserem Team willkommen zu heißen.</b></p><p></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250910T170000Z
+SUMMARY:diversity Bar
+UID:dcccb3d3-1f37-46d4-8845-2792f0aaec6a@dccc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Aufgrund unserer Co-Op mit dem BIPoC-Abend am 02. September entfällt das reguläre Treffen diesen Monat.</b></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250909T170000Z
+SUMMARY:AroSpAce: Das Treffen im September findet eine Woche früher statt.
+UID:bb4cb892-8fbc-4122-83ea-1d2c88ee83c3@bb4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251002T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251002T140000Z
+SUMMARY:diversity Café
+UID:f86b67ab-33d5-4349-ae9e-dd20e1172973@f86b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251028T190000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251028T150000Z
+SUMMARY:diversity Café
+UID:cf240f80-0176-472a-bd40-df827d91f027@cf24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b><i>Die JUNGS sind die Gruppe für 18-27-jährige Männer*\, die auf Männer* stehen.</i></b></p><p><b><i>🎩 Mister X</i></b></p><p><b><i>📅 Freitag\, 29. August </i></b></p><p><b><i>🕖 19:00 Uhr</i></b></p><p></p><p><b><i>🚨 Eine mysteriöse Gestalt wurde zuletzt beim Jugendzentrum gesehen – jetzt beginnt die Verfolgung!</i></b></p><p><b><i>Am Freitag erwartet dich ein spannendes Großstadtspiel quer durch München:</i></b></p><p><b><i>Wir spielen Mister X\, angelehnt an den Brettspiel-Klassiker Scotland Yard – aber in echt!</i></b></p><p></p><p><b><i>🔎 So läuft&#x27\;s ab:</i></b></p><p><b><i>Ein Team übernimmt die Rolle von Mister X und versucht\, mithilfe der öffentlichen Verkehrsmittel unerkannt zu bleiben. Die anderen Teams sind als Detektive unterwegs und versuchen\, Mister X aufzuspüren.</i></b></p><p><b><i>In regelmäßigen Abständen gibt Mister X seinen Standort preis – und dann heißt es: clever kombinieren\, gut koordinieren und schnell handeln!</i></b></p><p><b><i>Sobald ein Detektivteam Mister X erfolgreich findet\, wird es selbst zum neuen Mister X. Das Spiel geht weiter – Spannung garantiert!</i></b></p><p></p><p><b><i>🧥 Was du mitbringen musst:</i></b></p><ul><li><b><i> Wetterfeste\, bequeme Kleidung (wir sind draußen unterwegs)</i></b></li><li><b><i> Eigenes Ticket für den ÖPNV (z. B. Deutschlandticket)</i></b></li></ul><p></p><p><b><i>📍 Treffpunkt ist um 19:00 Uhr im Jugendzentrum.</i></b></p><p><b><i>Wir starten pünktlich um 19:30 Uhr\, also sei bitte rechtzeitig da\, damit wir die Teams einteilen und alles vorbereiten können.</i></b></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250829T170000Z
+SUMMARY:JUNGS: Mister X
+UID:5b94e7bb-e27d-4131-b9c4-bbdb5957df0d@5b94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> </p><p>Du malst\, schreibst\, strickst oder betätigst Dich auf andere Weise  kreativ? Dann komm vorbei  zum Kreativabend von Wilma! Bringe das  Projekt\, an dem Du gerade arbeitest oder ein neues Projekt gerne mit und  freu Dich auf gemeinsames gestalten.</p><p>Falls Du aktuell kein  eigenes Projekt hast\, kannst Du auch mit Material vom diversity Armbänder basteln. </p><p>Die Wilmas freuen sich auf einen kreativ-ratschig-bunten Abend mit Dir! </p>
+DTEND:20250904T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250904T170000Z
+SUMMARY:Wilma - Kreativabend
+UID:eba03cd3-4bab-44f9-b216-52fba8d8a244@eba0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.<br/>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.</i></p>
+DTEND:20251109T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251109T140000Z
+SUMMARY:JuLes & youngsters Gruppentreffen
+UID:48e08138-e9ca-4eaa-b59e-c8889d3a7529@48e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Diesen Sonntag dürfen die kompetetiven Hasen unter uns richtig loslegen - denn von Wizzards und Catan bis hin zu Monopoly\, Poker und UNO ist alles nur noch ein Kampf um die besten Strategieköpfe (oder Glückspilze) im Boardgame extreme 3000-Nachmittag.</p><p>Um 15:00 Uhr geht es im Jugendzentrum los.</p><p>Bis Sonntag \;)</p><p></p><p></p><hr/><p></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs bis einschließlich 19 Jahre.</i><br/><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls bis einschließlich 19 Jahre.</i><br/></p><p>Bis auf Weiteres finden die youngsters-JuLes-Treffen nur noch am 2. und 4. Sonntag im Monat statt.<br/>Wenn du gerne wieder mehr Treffen möchtest und/oder dir vorstellen kannst\, bei uns im Team mitzuhelfen\, <a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/">melde dich gerne bei uns</a>.</p>
+DTEND:20250914T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250914T130000Z
+SUMMARY:youngsters: Boardgame extreme
+UID:025367f9-650b-460b-8618-f3b37bfe9597@0253.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251014T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251014T140000Z
+SUMMARY:diversity Café
+UID:487a5a1c-5bdb-4caa-8105-5feb35b652b5@487a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Bis auf Weiteres finden die youngsters-JuLes-Treffen nur noch am 2. und 4. Sonntag im Monat statt.</p><p>Wenn du gerne wieder mehr Treffen möchtest und/oder dir vorstellen kannst\, bei uns im Team mitzuhelfen\, <a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/">melde dich gerne bei uns</a>.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20250921T130000Z
+SUMMARY:JuLes: fällt aus
+UID:ec51d788-894a-45f5-961a-38ef218a80ca@ec51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251030T190000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251030T150000Z
+SUMMARY:diversity Café
+UID:b685f9aa-8e64-4d04-9e26-7d2b61b576c9@b685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251019T170000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251019T130000Z
+SUMMARY:diversity Café
+UID:fbc67e21-1608-4ce1-bace-423d14832992@fbc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Bis auf Weiteres finden die youngsters-JuLes-Treffen nur noch am 2. und 4. Sonntag im Monat statt.</p><p>Wenn du gerne wieder mehr Treffen möchtest und/oder dir vorstellen kannst\, bei uns im Team mitzuhelfen\, <a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/">melde dich gerne bei uns</a>.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20250831T130000Z
+SUMMARY:youngsters: fällt aus
+UID:245d365b-234a-4cc9-8c5f-1228bda989cd@245d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Jeden Mittwoch von 19:00 bis ca. 24:00 Uhr</b> findet in unserem diversity Café die diversity Bar statt!</p><p>Sie ist an jedem Mittwoch offen für alle Jugendlichen und jungen Erwachsenen unter 27 Jahren\, ganz gleich welche geschlechtliche Identität oder sexuelle Orientierung und natürlich sind auch all eure Freund*innen bis 27 Jahre herzlich eingeladen.</p><p><b>Bringt also alle eure Freund*innen mit!</b></p><p>Lerne in der diversity Bar gleichgesinnte junge lesbische\, schwule\, bi/pan/poly\, trans*\, inter*\, nicht-binäre\, aro/ace und hetero Jugendliche bis 27 Jahren bei angenehmer Atmosphäre\, leckeren Getränken und guter Stimmung kennen und genieß einen queeren Abend zu erschwinglichen Jugendpreisen.</p><p>Wie gewohnt kannst Du Dich ab 1\,70 € mit Softdrinks und ab 2\,30 € mit alkoholhaltigen Getränken versorgen.</p><h4>Kontakt</h4><p>Wenn Du unser diversity Barteam direkt kontaktieren möchtest\, wenn Du Lust hast\, ab und zu hinter der Bar zu stehen und Getränke zu mischen\, die diversity Bar mitzugestalten und Teil des Barteams zu werden\, dann melde Dich bei uns über das Kontaktformular oder sprich uns einfach an der Bar an! Mehr Informationen zur diversity Bar findest Du hier.</p><p><b>Wir freuen uns sehr\, von Dir zu hören – und Dich hoffentlich schon bald in unserem Team willkommen zu heißen.</b></p><p></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250917T170000Z
+SUMMARY:diversity Bar
+UID:8fb5502e-fa4d-418e-b06c-a89f26cdef11@8fb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251007T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251007T140000Z
+SUMMARY:diversity Café
+UID:a4c37ebb-131c-4e8e-b043-33a8c1af928b@a4c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Der BIPoC-Abend und AroSpAce wollen zusammen mit Dir Bubble-Tea machen.<br/>Selbstverständlich kannst Du auch einfach nur zum Menschen treffen\, reden und Spiele spielen kommen.<br/><b>Info: Das reguläre AroSpAce Treffen eine Woche später entfällt im September.</b></p><p></p><p><i>Der BIPoC Abend ist für queere BIPoC zwischen 14 und 27 Jahren. Willkommen sind also alle<br/>LGBTIAQ* Personen und Personen die gerade noch ihre Identität dahingehend hinterfragen\, die sich<br/>aufgrund ihres kulturellen Hintergrunds oder ihrer Hautfarbe nicht als weiß identifizieren.</i></p><p></p><p><i>AroSpAce ist unsere Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahren\,<br/>die sich auf dem aromantischen und/oder asexuellen Spektrum befinden oder ihre Identität dahingehend hinterfragen.</i></p><p></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest Du auf Barrierefreiheit angewiesen sein\,<br/>melde Dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns.<br/>Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250902T170000Z
+SUMMARY:BIPoC-Abend & AroSpAce: Bubble Tea selber machen
+UID:2ed28a3d-e404-433e-8ca8-d329ee223f82@2ed2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250921T170000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250921T130000Z
+SUMMARY:diversity Café
+UID:18b6f551-f3a6-4921-9b2f-68163a458df3@18b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250909T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250909T140000Z
+SUMMARY:diversity Café
+UID:f724e32b-337a-4700-aee2-0bba4297faa2@f724.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Bis auf Weiteres finden die youngsters-JuLes-Treffen nur noch am 2. und 4. Sonntag im Monat statt.</p><p>Wenn du gerne wieder mehr Treffen möchtest und/oder dir vorstellen kannst\, bei uns im Team mitzuhelfen\, <a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/">melde dich gerne bei uns</a>.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20250921T130000Z
+SUMMARY:youngsters: fällt aus
+UID:072e2f69-ae1b-412f-94b8-2f48061ebd19@072e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251026T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251026T140000Z
+SUMMARY:diversity Café
+UID:7bfa21d1-6ddd-499f-af88-13e7d7a6f437@7bfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251016T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251016T140000Z
+SUMMARY:diversity Café
+UID:b8a26341-7b73-4491-8ac8-ce02a192c0ad@b8a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Planung in Arbeit...</p><p></p><p>Alle unsere Treffen sind ehrenamtlich organisiert\, deshalb dauert das Planen manchmal länger. Falls Du selbst Ideen hast oder sogar mithelfen möchtest\, melde dich doch gerne via Kontaktformular bei uns :) Wir freuen uns über jede helfende Hand!</p>
+DTEND:20251204T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251204T180000Z
+SUMMARY:Wilma 1. Donnerstag Dezember
+UID:d99f499c-26d8-49e9-80c1-72450216da42@d99f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Planung in Arbeit...</p><p></p><p>Alle unsere Treffen sind ehrenamtlich organisiert\, deshalb dauert das Planen manchmal länger. Falls Du selbst Ideen hast oder sogar mithelfen möchtest\, melde dich doch gerne via Kontaktformular bei uns :) Wir freuen uns über jede helfende Hand!</p>
+DTEND:20251106T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251106T180000Z
+SUMMARY:Wilma Treffen November
+UID:cff0c24d-e84d-4dbc-9c8f-020c2c39ce9c@cff0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><i>Die enBees freuen sich auf alle bis 27 Jahre\, die sich nicht in das binäre Geschlechtersystem einordnen oder ihre Geschlechtsidentität dahingehend hinterfragen.</i><br/><b><br/></b>Hey enBees\,</p><p></p><p>der Sommer neigt sich dem Ende zu und wir möchten euch nach so einer ereignisreichen Zeit diesen Donnerstag eine Gelegenheit bieten\, einfach mal wieder mit anderen enBees zu quatschen\, zu spielen oder im Kissenzimmer zu entspannen.<br/><br/>Wir kümmern uns um Eistee und veganes Essen für Alle und ihr dürft wie immer eure eigenen Ideen und Spiele mitbringen oder unsere Spiele und Sitz- bzw. Liegegelegenheiten im JUZ nutzen.</p><p></p><p>Wir freuen uns auf euch!</p><p></p><p><i>PS: Wir werden wie angekündigt bei diesem Treffen weiter über unseren Briefkasten Feedback für den ausFlug 2025 sammeln.</i><br/></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\,</i> <a href="https://diversity-muenchen.de/de/gruppen/enbees/kontakt/"><i>melde dich</i></a><i> bitte vorher bei ihnen. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250911T160000Z
+SUMMARY:enBees: Spätsommer Chillout
+UID:2f998e57-3136-4949-aa58-128738b4b581@2f99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Frisch gebacken\, warm und superlecker\, wir laden dich zu einem gemütlichen Treffen mit selbstgemachten Waffeln ein. Ob klassisch mit Puderzucker\, fruchtig mit Beeren\, oder schokoladig: Für jeden Geschmack ist etwas dabei. Und keine Sorge\, es gibt natürlich auch vegane Optionen.</b></p><p><b>Wenn dir das alles auf die Waffel geht\, kannst du aber auch gerne ein Spiel aus unserem großen Spieleschrank spielen oder im Kissenraum entspannen.</b></p><p><b>Komm vorbei\, wir freuen uns auf dich und auf einen waffelhaften Nachmittag :)</b></p><hr/><p></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis einschließlich 19 Jahre.</i><br/><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis einschließlich 19 Jahre.</i><br/></p><p>Bis auf Weiteres finden die youngsters-JuLes-Treffen nur noch am 2. und 4. Sonntag im Monat statt.<br/>Wenn du gerne wieder mehr Treffen möchtest und/oder dir vorstellen kannst\, bei uns im Team mitzuhelfen\, <a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/">melde dich gerne bei uns</a>.</p>
+DTEND:20250928T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250928T130000Z
+SUMMARY:JuLes: Waffelna(s)chmittag mit den youngsters
+UID:e3a9c58e-b6e1-4043-ad9b-f454b7de4b74@e3a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.<br/>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.</i></p>
+DTEND:20251123T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251123T140000Z
+SUMMARY:youngsters & JuLes Gruppentreffen
+UID:15e04fcb-515a-4468-b587-f2e52796d958@15e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251021T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251021T140000Z
+SUMMARY:diversity Café
+UID:79992f3d-5c7c-4de3-be71-70bfacbd0c77@7999.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Jeden Mittwoch von 19:00 bis ca. 24:00 Uhr</b> findet in unserem diversity Café die diversity Bar statt!</p><p>Sie ist an jedem Mittwoch offen für alle Jugendlichen und jungen Erwachsenen unter 27 Jahren\, ganz gleich welche geschlechtliche Identität oder sexuelle Orientierung und natürlich sind auch all eure Freund*innen bis 27 Jahre herzlich eingeladen.</p><p><b>Bringt also alle eure Freund*innen mit!</b></p><p>Lerne in der diversity Bar gleichgesinnte junge lesbische\, schwule\, bi/pan/poly\, trans*\, inter*\, nicht-binäre\, aro/ace und hetero Jugendliche bis 27 Jahren bei angenehmer Atmosphäre\, leckeren Getränken und guter Stimmung kennen und genieß einen queeren Abend zu erschwinglichen Jugendpreisen.</p><p>Wie gewohnt kannst Du Dich ab 1\,70 € mit Softdrinks und ab 2\,30 € mit alkoholhaltigen Getränken versorgen.</p><h4>Kontakt</h4><p>Wenn Du unser diversity Barteam direkt kontaktieren möchtest\, wenn Du Lust hast\, ab und zu hinter der Bar zu stehen und Getränke zu mischen\, die diversity Bar mitzugestalten und Teil des Barteams zu werden\, dann melde Dich bei uns über das Kontaktformular oder sprich uns einfach an der Bar an! Mehr Informationen zur diversity Bar findest Du hier.</p><p><b>Wir freuen uns sehr\, von Dir zu hören – und Dich hoffentlich schon bald in unserem Team willkommen zu heißen.</b></p><p></p>
+DTEND:20250903T215900Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250903T170000Z
+SUMMARY:diversity Bar
+UID:52454cc2-ae64-47b0-bc7c-d9220296e01c@5245.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Bis auf Weiteres finden die youngsters-JuLes-Treffen nur noch am 2. und 4. Sonntag im Monat statt.</p><p>Wenn du gerne wieder mehr Treffen möchtest und/oder dir vorstellen kannst\, bei uns im Team mitzuhelfen\, <a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/">melde dich gerne bei uns</a>.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20250907T130000Z
+SUMMARY:JuLes: fällt aus
+UID:222a8508-8fbe-45cd-9c24-26401efaf120@222a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250831T170000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250831T130000Z
+SUMMARY:diversity Café
+UID:a656cc05-40cc-4b94-bd77-d5779b777888@a656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Einmal monatlich findet der Video Games Nachmittag während des diversity Cafés statt. Bring deine Freund*innen mit und spiele Mario Kart\, Just Dance oder Switch Sports. Wie immer gibt es Kuchen\, Sandwiches und diverse Warm- und Kaltgetränke. Natürlich kannst du aber auch einfach zum Quatschen oder Lesen vorbeischauen.</p><p></p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251005T170000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251005T130000Z
+SUMMARY:Video Games im diversity Café
+UID:3b3c3a5a-6f46-4e90-acfc-093f712f6721@3b3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Einmal monatlich findet der Brettspiel Nachmittag während des diversity Cafés statt. Bring deine Freund*innen mit und spiel mit bei Monopoly\, Catan\, Skyro und Quixx. Wie immer gibt es nebenbei Kuchen\, Sandwiches und diverse Warm- und Kaltgetränken. Natürlich kannst du aber auch einfach zum Quatschen oder Lesen vorbeischauen.</p><p></p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20250928T170000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20250928T130000Z
+SUMMARY:Brettspiele im diversity Café
+UID:1b63b4bb-dec7-4eb2-8a9f-f394e2b864c9@1b63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20251223T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251223T180000Z
+SUMMARY:frients Abend im Dezember
+UID:fea854bf-2428-4154-9934-12ae24cbf937@fea8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.<br/>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.</i></p>
+DTEND:20251012T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251012T130000Z
+SUMMARY:youngsters: Pumpkin Spice Muffins & Latte
+UID:d1e84703-68c8-4aef-a228-efac91801f9c@d1e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20251028T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251028T180000Z
+SUMMARY:frients Abend im Oktober
+UID:a7980ad2-7f84-45d1-bc19-1937671c63b7@a798.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20251023T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251023T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:50283481-fbd0-4500-a001-b7d14cab22b2@5028.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Bubble-Tea selber machen mit dem BIPoC-Abend und AroSpAce<br/>Dienstag 02. September 2025 19:00 Uhr<br/>diversity Jugendzentrum\, Blumenstraße 11<br/><br/>Der BIPoC-Abend und AroSpAce wollen zusammen mit Dir Bubble-Tea machen.<br/><br/>Selbstverständlich kannst Du auch einfach nur zum Menschen treffen\, reden und Spiele spielen kommen.<br/><br/>Info: Das reguläre AroSpAce Treffen eine Woche später entfällt im September.<br/><br/>AroSpAce ist unsere Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahren\,<br/>die sich auf dem aromantischen und/oder asexuellen Spektrum befinden oder ihre Identität dahingehend hinterfragen.<br/><br/>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest Du auf Barrierefreiheit angewiesen sein\,<br/>melde Dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns.<br/>Eventuell können wir eine kurzfristige Lösung finden.</p>
+DTEND:20250902T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250902T170000Z
+SUMMARY:BiPoC-Abend: Bubble Tea selber machen mit AroSpAce
+UID:a731e36c-8519-4076-b52f-0d3ad140ecd3@a731.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Im September veranstalten die frients einen entspannten Abend. Dort kannst Du mit anderen Besuchenden dich schön unterhalten und neue Brettspiele ausprobieren. Von Codenames über Werwolf bis hin zu Skyjo ist alles dabei\, Du darfst aber auch gerne eigene Spiele mitnehmen und sie mit den Leuten dort zu spielen. Wenn Du keine Lust auf Brettspiele hast kannst du dich auch gerne an der Bar mit anderen Besuchenden unterhalten oder einfach im Kissenzimmer zu chillen. Es wird auch was Veganes zum essen geben. <br/><br/>Achtung: Beachtet\, dass das Treffen dieses Mal ausnahmsweise erst ab 18 Uhr stattfindet.</p>
+DTEND:20250913T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250913T160000Z
+SUMMARY:frients Treffen im September
+UID:572aebc5-31f5-4963-819f-eb7ae73145c3@572a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p>Unser entspannter Café-Nachmittag für alle bis 27 Jahre: Du kannst Dich in ruhiger Atmosphäre mit Deinen Freund*innen treffen oder andere LGBTIAQ* Jugendliche am Nachmittag oder über das Wochenende kennenlernen. Unser diverses Team veranstaltet unser Jugendcafé und verwöhnt Dich dabei zu gewohnt günstigen Preisen mit allerlei kalten und warmen Getränken sowie herzhaftem und süßem Essen.</p><p><b>Unser diversity Café öffnet immer regelmäßig:</b></p><ul><li>jeden      Dienstag von 16 Uhr bis 20 Uhr</li><li>jeden      Donnerstag von 16 Uhr bis 20 Uhr und</li><li>jeden      Sonntag von 15 Uhr bis 19 Uhr</li></ul><p>Tagesaktuelle Informationen findest Du auch auf Social Media (z.B. bei kurzfristigen Schließungen).</p><p><b>Kontakt</b></p><p>Wenn Du unser diversity Café direkt erreichen möchtest\, z.B. weil Du Dich ehrenamtlich engagieren möchtest\, ein kleines Event in unserem Café mit uns gemeinsam auf die Beine stellen möchtest (z.B. eine Lesung\, ein Konzert\, einen Poetry Slam)\, dann kontaktiere uns über das <b>Kontaktformular</b> oder sprich uns im diversity Café direkt an.</p><p><b>Wir freuen uns über tatkräftige Unterstützung und zeigen Dir gerne als Anfänger*in auch alles ganz in Ruhe.</b></p>
+DTEND:20251009T180000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251009T140000Z
+SUMMARY:diversity Café
+UID:d2321143-3d21-483a-9e37-43b2ced638f2@d232.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b><i>Die JUNGS sind die Gruppe für 18-27-jährige Männer*\, die auf Männer* stehen.</i></b></p><p>Weitere Infos folgen noch :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251107T180000Z
+SUMMARY:JUNGS: Neueinsteigerabend
+UID:e40418bc-cc10-40d0-961b-70ae21cd6969@e404.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Macht euch bereit!</p><p>Diesen Freitag geht’s für uns in die BMW Welt! 🚗✨ Danach schlendern wir gemütlich um den nahegelegenen Olympiasee.</p><p>WICHTIG: Da wir schon gegen 19:20 Uhr vom Diversity losgehen werden\, bitten wir euch\, möglichst pünktlich um 19:00 Uhr da zu sein! ⏰ Ansonsten könnt ihr direkt zur BMW-Welt nachkommen.</p><p>Die BMW-Welt ist kostenlos zugänglich.</p><p>Nehmt euch für den Olympiapark gerne etwas zu Essen und zu Trinken mit.</p><p>Auch Neueinsteiger sind herzlich willkommen! 🤗</p><p>Wir freuen uns auf Euch!</p><p>Euer JUNGS Team</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250919T170000Z
+SUMMARY:JUNGS: BMW-Welt + Olympiapark
+UID:e33a89a3-847e-4552-8fac-5cbb4c7e015f@e33a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><i>Die enBees freuen sich auf alle bis 27 Jahre\, die sich nicht in das binäre Geschlechtersystem einordnen oder ihre Geschlechtsidentität dahingehend hinterfragen.</i><br/><b><br/>Infos Folgen :)</b><br/></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\,</i> <a href="https://diversity-muenchen.de/de/gruppen/enbees/kontakt/"><i>melde dich</i></a><i> bitte vorher bei ihnen. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251025T130000Z
+SUMMARY:enBees: in Oktober 2
+UID:83d4e08f-817d-44db-8ca4-42a2ff124307@83d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Activity\, Dixit\, Munchkin\, Uno oder doch lieber Kickern? Der Spieleschrank im Jugendzentrum ist voll und lädt zu vielen spannenden Runden ein! Gemeinsam mit den DINOs (unserer Gruppe für Queers von 27 bis 32) kannst Du spielen was Dein Herz begehrt! Vielleicht hast Du ja sogar selbst ein Spiel\, dass Du unbedingt mal mit mehreren Leuten spielen willst - Brings ruhig mit! Im Jugendzentrum haben wir genug Raum für mehrere Spiele gleichzeitig.</p><p>Natürlich gibts wie immer zu günstigen Juzpreisen Getränke.</p><p>Wilma und die DINOs freuen sich auf einen spannend-lustigen Abend mit Dir!</p>
+DTEND:20251002T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251002T170000Z
+SUMMARY:Wilma & DINOs Spieleabend
+UID:2f0e992f-82f0-4df9-8646-352253ce878a@2f0e.org
+END:VEVENT
+END:VCALENDAR
