@@ -65,7 +65,7 @@ jobs:
             - name: Install MongoDB
               run: |
                   sudo apt-get update
-                  sudo apt-get install -y mongodb-org
+                  sudo apt-get install -y mongodb-database-tools mongodb-org-server
 
             - name: Start MongoDB server
               run: |
