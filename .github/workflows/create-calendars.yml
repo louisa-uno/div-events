@@ -58,7 +58,6 @@ jobs:
 
             - name: Add MongoDB official GPG key and repository
               run: |
-                  sudo apt-get update
                   sudo apt-get install -y gnupg curl
                   curl -fsSL https://www.mongodb.org/static/pgp/server-8.0.asc | sudo gpg -o /usr/share/keyrings/mongodb-server-8.0.gpg --dearmor
                   echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-8.0.gpg ] https://repo.mongodb.org/apt/ubuntu noble/mongodb-org/8.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-8.0.list
@@ -66,7 +65,7 @@ jobs:
 
             - name: Install MongoDB
               run: |
-                  sudo apt-get install -y mongodb-org
+                  sudo apt-get install -y mongodb-database-tools mongodb-org-server
 
             - name: Start MongoDB server
               run: |
