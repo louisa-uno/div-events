@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Da das diversity Team an diesem Wochenende auf Teamfahrt ist\, muss das 2. Oktober Treffen leider ausfallen. Wir freuen uns\, euch im November wieder zu sehen! </p>
+DTEND:20251017T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251017T170000Z
+SUMMARY:Wilma Treffen - entfällt
+UID:ca74884f-d2ae-4ef6-b60b-e06fdbb7cc85@ca74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Dieses Jahr fahren wir wieder auf Freizeitfahrt! Vom Freitag\, 19.09.2025 bis Sonntag 21.09.2025 geht es nach Grabenstätt ins Jugendübernachtungshaus Nepomuk.<br/><br/>Ob zusammen basteln und kochen\, am Lagerfeuer singen\, Spiele spielen oder noch bis in die Nacht reden\; das Wochenende wird für alle etwas ganz Besonderes.<br/><br/><b>Du hast Lust bekommen zum mitfahren? Bitte melde Dich hier an:<br/></b><a href="https://events.diversity-muenchen.de/wilma/fahrt2025/"><b>https://events.diversity-muenchen.de/wilma/fahrt2025/</b></a></p><p><b>Die Anmeldung ist noch bis Montag\, der 15.9. um 20:00 Uhr offen!</b><br/>Neulinge sind genauso willkommen wie &quot\;erfahrene&quot\; Wilmas. Mehr Infos bei der Anmeldung \;)<br/><br/>Die Wilmas freuen sich auf ein spannend-spaßiges Wochenende mit Dir!</p>
+DTEND:20250921T160000Z
+DTSTART:20250919T140000Z
+SUMMARY:Wilma Freizeitfahrt
+UID:2d82390b-9770-43e6-94d9-e72dfb3e584a@2d82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Planung in Arbeit...</p><p></p><p>Alle unsere Treffen sind ehrenamtlich organisiert\, deshalb dauert das Planen manchmal länger. Falls Du selbst Ideen hast oder sogar mithelfen möchtest\, melde dich doch gerne via Kontaktformular bei uns :) Wir freuen uns über jede helfende Hand!</p>
+DTEND:20251106T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251106T180000Z
+SUMMARY:Wilma Treffen November
+UID:efa37121-64cb-4e97-af9b-dbb994fb6f62@efa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Planung in Arbeit...</p><p></p><p>Alle unsere Treffen sind ehrenamtlich organisiert\, deshalb dauert das Planen manchmal länger. Falls Du selbst Ideen hast oder sogar mithelfen möchtest\, melde dich doch gerne via Kontaktformular bei uns :) Wir freuen uns über jede helfende Hand!</p>
+DTEND:20251121T210000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251121T180000Z
+SUMMARY:Wilma Treffen November Freitag
+UID:2ad0385a-abba-4bbb-bea3-4edb96736a0c@2ad0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Planung in Arbeit...</p><p></p><p>Alle unsere Treffen sind ehrenamtlich organisiert\, deshalb dauert das Planen manchmal länger. Falls Du selbst Ideen hast oder sogar mithelfen möchtest\, melde dich doch gerne via Kontaktformular bei uns :) Wir freuen uns über jede helfende Hand!</p>
+DTEND:20251204T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251204T180000Z
+SUMMARY:Wilma 1. Donnerstag Dezember
+UID:98a01625-1a5e-4133-9e75-1a4c31c4d4c0@98a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Planung in Arbeit...</p><p></p><p>Alle unsere Treffen sind ehrenamtlich organisiert\, deshalb dauert das Planen manchmal länger. Falls Du selbst Ideen hast oder sogar mithelfen möchtest\, melde dich doch gerne via Kontaktformular bei uns :) Wir freuen uns über jede helfende Hand!</p>
+DTEND:20251219T210000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251219T180000Z
+SUMMARY:Wilma 3. Freitag Dezember
+UID:b1764626-7a91-4ccb-b53d-d900f6654b40@b176.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Activity\, Dixit\, Munchkin\, Uno oder doch lieber Kickern? Der Spieleschrank im Jugendzentrum ist voll und lädt zu vielen spannenden Runden ein! Gemeinsam mit den DINOs (unserer Gruppe für Queers von 25 bis 32) kannst Du spielen was Dein Herz begehrt! Vielleicht hast Du ja sogar selbst ein Spiel\, dass Du unbedingt mal mit mehreren Leuten spielen willst - Brings ruhig mit! Im Jugendzentrum haben wir genug Raum für mehrere Spiele gleichzeitig.</p><p>Natürlich gibts wie immer zu günstigen Juzpreisen Getränke.</p><p>Wilma und die DINOs freuen sich auf einen spannend-lustigen Abend mit Dir!</p>
+DTEND:20251002T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251002T170000Z
+SUMMARY:Wilma & DINOs Spieleabend
+UID:f4e0bc4d-131a-4998-9210-86e51885a416@f4e0.org
+END:VEVENT
+END:VCALENDAR
