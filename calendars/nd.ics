@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Wir treffen uns als Team von NoDifference! jeden 3. Donnerstag im Monat und planen unsere diversen queeren Veranstaltungen.</p><p>Du möchtest Teil des Teams werden?</p><p>Dann komm gerne 10 Minuten früher zu unserem Teamtreffen\, damit wir Dir alles erklären können.</p>
+DTEND:20250918T190000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250918T170000Z
+SUMMARY:NoDifference!: Teamtreffen
+UID:7cf67b8c-ceb1-4313-98ea-828d7a382ece@7cf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Willkommen im Urban Jungle – wild\, heiß und voller Vibes!</p><p>(Keine Sorge: Die Klimaanlage bringt Dir die nötige Abkühlung)</p><p></p><p>Dich erwartet:</p><p>&gt\;DJ DavX &amp\; DJ Fox &amp\; DJ noname mit den besten Pop-\, Dance- &amp\; Party-Beats </p><p>&gt\;Dschungel-Deko für die richtige Atmosphäre</p><p>Cocktail-Specials die Dich tropisch verzaubern</p><p>&gt\;unser Jungle Foto-Spot – verlinke uns in Deiner Insta-Story &amp\; hol Dir einen gratis Shot</p><p></p><p>Komm einfach in Deinem Lieblingslook\, in dem Du Dich am wohlsten und heißesten fühlst.</p><p><br/>Eintritt frei &amp\; offen für alle bis 27 Jahre – egal welche Identität oder Orientierung.</p><p>Getränke wie gewohnt günstig: Softdrinks ab 1\,70 €\, Alkoholisches ab 2\,30 €.</p><p> </p><p>Tanze\, feier &amp\; mach die Nacht zum Dschungel!</p><p>NoDifference! freut sich auf Dich!</p><p> </p><p>NoDifference! ist unsere Gruppe\, die queere Veranstaltungen für junge Menschen in München veranstaltet.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251002T180000Z
+SUMMARY:NoDifference!: Jungle Party
+UID:e2611c0d-b661-4a40-9b02-94cda5e41206@e261.org
+END:VEVENT
+END:VCALENDAR

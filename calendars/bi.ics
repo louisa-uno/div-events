@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20251127T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251127T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:d26c876e-cb3c-405a-93cc-f971f25d7f69@d26c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Du wolltest im diversity schon immer neue Leute kennenlernen\, hast Dich aber nicht getraut sie anzusprechen? Dann ist jetzt Deine Chance\, denn wir veranstalten gemeinsam mit den enBees im September ein Speed-Friending. Dort kannst Du in kurzer Zeit mit vielen anderen queeren Jugendlichen reden und neue Freundschaften schließen. Dazu gibt es reichlich Fingerfood. </p><p></p><p>bi.yourself ist unsere Gruppe für alle bis 27 Jahre\, die sich als bi oder pan identifizieren oder die sich auch ohne Label zu mehr als einem Geschlecht hingezogen fühlen.</p>
+DTEND:20250925T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250925T170000Z
+SUMMARY:bi.yourself & enBees Speed-Friending
+UID:72ed6f66-30e7-416a-babd-270c92afd395@72ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20251023T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251023T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:994c6ca4-a7b0-4d93-b552-d055ae2c2380@994c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20251225T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251225T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:8478d50b-a3ac-4334-840c-9a581002b4e3@8478.org
+END:VEVENT
+END:VCALENDAR
