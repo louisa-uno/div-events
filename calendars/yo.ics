@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.<br/>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.</i></p>
+DTEND:20251026T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251026T150000Z
+SUMMARY:youngsters: (ab 16 Uhr) Herbst- und Halloweendeko basteln
+UID:348f25d3-9431-4c98-98c0-07ac178af718@348f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.<br/>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.</i></p>
+DTEND:20251123T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251123T140000Z
+SUMMARY:youngsters & JuLes Gruppentreffen
+UID:e9b40755-d8fa-4bf6-a644-5932d45735f2@e9b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.<br/>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.</i></p>
+DTEND:20251109T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251109T140000Z
+SUMMARY:youngsters & JuLes treffen
+UID:ad9cb19e-ba83-4394-b1d6-63471b29d3f2@ad9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>  </p><p><b>Frisch gebacken\, warm und superlecker\, wir laden dich zu einem gemütlichen Treffen mit selbstgemachten Waffeln ein. Ob klassisch mit Puderzucker\, fruchtig mit Beeren\, oder schokoladig: Für jeden Geschmack ist etwas dabei. Und keine Sorge\, es gibt natürlich auch vegane Optionen. </b></p><p><b>Wenn dir das alles auf die Waffel geht\, kannst du aber auch gerne ein Spiel aus unserem großen Spieleschrank spielen oder im Kissenraum entspannen. </b></p><p><b>Komm vorbei\, wir freuen uns auf dich und auf einen waffelhaften Nachmittag :)</b></p><p></p><hr/><p></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis einschließlich 19 Jahre.</i><br/><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis einschließlich 19 Jahre.</i><br/></p><p>Bis auf Weiteres finden die youngsters-JuLes-Treffen nur noch am 2. und 4. Sonntag im Monat statt.<br/>Wenn du gerne wieder mehr Treffen möchtest und/oder dir vorstellen kannst\, bei uns im Team mitzuhelfen\, <a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/">melde dich gerne bei uns</a>.</p>\n\n(Error: The event had an invalid end date)
+DURATION:PT2H58M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20250928T130000Z
+SUMMARY:youngsters: Waffelna(s)chmittag mit den JuLes
+UID:7cbe8747-48e0-4b3b-b7d9-d4772c732aa5@7cbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Schokokuchen &amp\; Pumpkin Spice mit den youngsters und den JuLes <br/> Herbstzeit ist Kuschelzeit – und was könnte besser passen als ein gemütlicher Nachmittag mit fluffigem Schokokuchen und cremigem Pumpkin Spice Latte?<br/> Ob du einfach nur naschen willst\, herbstlich schnacken oder bei einem Spiel aus unserem Fundus mitmischen möchtest – es wird lecker\, locker und gemütlich. Natürlich gibt’s auch eine vegane Kuchenvariante und etwas ohne Koffein für alle\, die lieber entspannt durch die Jahreszeit gleiten.<br/> Also schnapp dir deinen Lieblingspulli\, bring gute Laune mit und komm vorbei!<br/> Wir freuen uns auf dich und einen schokoladig-würzigen Herbstnachmittag.</b></p><p></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.<br/>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.</i></p>
+DTEND:20251012T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251012T130000Z
+SUMMARY:youngsters: Pumpkin Spice Muffins & Latte
+UID:93550d30-58c8-40cf-8659-c7779212a24c@9355.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Bis auf Weiteres finden die youngsters-JuLes-Treffen nur noch am 2. und 4. Sonntag im Monat statt.</p><p>Wenn du gerne wieder mehr Treffen möchtest und/oder dir vorstellen kannst\, bei uns im Team mitzuhelfen\, <a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/">melde dich gerne bei uns</a>.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20250921T130000Z
+SUMMARY:youngsters: fällt aus
+UID:7ffc28cd-c118-4532-b8f6-1f4a8be6b3ad@7ffc.org
+END:VEVENT
+END:VCALENDAR

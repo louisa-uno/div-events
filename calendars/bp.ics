@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Langsam bemerkt man am Wetter das es wirklich Herbst wird. Was gibt es da besseres als sich drinnen gemütlich einzukuscheln und Süßes zu essen? Diesmal will der BiPoC-Abend Dich zum gemeinsamen Karamelläpfel machen und Schokofondue dippen einladen. Fühl Dich gerne dazu eingeladen vorbei zu kommen\, selbst wenn es nur zum chillen oder miteinander reden ist!<br/></p><p>Der BIPoC Abend ist für queere BIPoC zwischen 14 und 27 Jahren. Willkommen sind also alle<br/>LGBTIAQ* Personen und Personen die gerade noch ihre Identität dahingehend hinterfragen\, die sich<br/>aufgrund ihres kulturellen Hintergrunds oder ihrer Hautfarbe nicht als weiß identifizieren.<br/></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251007T170000Z
+SUMMARY:BiPoC-Abend: Karamelläpfel und Schokofondue
+UID:8fe0abb0-c32c-4a07-a450-8133843f7b71@8fe0.org
+END:VEVENT
+END:VCALENDAR
