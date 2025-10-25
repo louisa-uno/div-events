@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Im Oktober steht ein kulturelles Highlight an! Gemeinsam besuchen die frients die Pinakothek der Moderne und tauchen ein in die spannende Welt der Kunst\, Architektur und Design. Ob moderne Gemälde\, kreative Installationen oder futuristische Objekte – hier gibt’s viel zu entdecken und zu diskutieren. Treffpunkt ist um 14:00 Uhr vor dem Haupteingang der Pinakothek der Moderne (Barer Str. 40). Der Eintritt ist ermäßigt auf 4 €\, für Schüler*innen sogar kostenlos (bitte Schüler*innen-Ausweis mitbringen). Wenn dich der Eintrittspreis abhalten sollte\, teilnehmen zu können\, dann schreib den frients über das Kontaktformular der Website und sie finden eine Lösung.<br/>Nach dem Museumsbesuch gehen die frients zurück ins Jugendzentrum\, wo sie ab 18 Uhr gemeinsam chillen und zusammen Abend essen\, um den Tag entspannt ausklingen zu lassen und sich über die Eindrücke auszutauschen.</p>
+DTEND:20251011T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251011T120000Z
+SUMMARY:frients Treffen im Oktober
+UID:a89ce36e-334c-4574-970b-bde8ebd57a22@a89c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251213T130000Z
+SUMMARY:frients Treffen im Dezember
+UID:7a3bccf4-c503-49cd-a1c1-aea3b33dd7c2@7a3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>frients &amp\; bi.yourself Halloween Chillout</p><p>Lust auf einen schaurig-entspannten Abend mit gruselig-guten Snacks und einem Kostümwettbewerb? Dann ist der 28. Oktober Deine Nacht des Jahres\, denn die frients und bi.yourself laden Dich zu einem Halloween Chillout ein! Dort wird es nicht nur herbstliches Essen und passende Schauersnacks geben\, sondern auch jede Menge Spaß. Neben einigen außerweltlichen Spielen wird es nämlich auch einen Kostümwettbewerb geben. Schmeiß Dich also ordentlich in Schale oder komm einfach in deiner Lieblingsverkleidung. Gerne kannst Du auch selbst Tarot Karten\, ein Ouija Board oder andere passende Spiele mitbringen.</p><p></p><p>Achte aber bitte darauf\, dass Dein Kostüm angemessen ist und keine Personengruppe beleidigt\, diskriminiert oder herabsetzt. Wenn Du Dir hierbei unsicher bist\, dann melde Dich gerne bei bi.yourself über das Kontaktformular auf unserer Website.</p><p></p>
+DTEND:20251028T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251028T180000Z
+SUMMARY:frients & bi.yourself Halloween Chillout
+UID:83ec47f1-5a5e-4e25-868e-00a4620b29f9@83ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251108T130000Z
+SUMMARY:frients Treffen im November
+UID:8f8b85e5-dd15-4eb2-b1de-d8203d37055d@8f8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20251223T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251223T180000Z
+SUMMARY:frients Abend im Dezember
+UID:35a8aef8-9eff-4a8c-9a3a-8b52a9cbe319@35a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20251125T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251125T180000Z
+SUMMARY:frients Abend im November
+UID:ff83b717-e063-4b8f-bdfb-d3549026bac8@ff83.org
+END:VEVENT
+END:VCALENDAR
