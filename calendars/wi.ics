@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Herbstzeit ist Kürbiszeit!</p><p>Beim allerersten Wilma-Treffen vor etwa zehn Jahren wurde Kürbissuppe gekocht. Daraus hat sich die schöne Tradition entwickelt\, dass wir jedes Jahr im Herbst gemeinsam Kürbissuppe kochen. Das wollen wir auch dieses Jahr wieder tun – die Kürbisse besorgen wir.</p><p>Auch wenn es schon ein wenig nach Halloween ist: Wer Lust auf Kürbisschnitzen hat\, ist dazu ebenfalls herzlich eingeladen!</p>
+DTEND:20251106T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251106T180000Z
+SUMMARY:Wilma - Kürbisabend
+UID:a750f813-9ebf-4acb-839d-bd14a9e6692b@a750.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Planung in Arbeit...</p><p></p><p>Alle unsere Treffen sind ehrenamtlich organisiert\, deshalb dauert das Planen manchmal länger. Falls Du selbst Ideen hast oder sogar mithelfen möchtest\, melde dich doch gerne via Kontaktformular bei uns :) Wir freuen uns über jede helfende Hand!</p>
+DTEND:20251219T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251219T180000Z
+SUMMARY:Weihnachtsfeier mit Wilma & Jungs!
+UID:b1dbc650-4794-4135-b597-8882feb6b4fb@b1db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Da das diversity Team an diesem Wochenende auf Teamfahrt ist\, muss das 2. Oktober Treffen leider ausfallen. Wir freuen uns\, euch im November wieder zu sehen! </p>
+DTEND:20251017T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251017T170000Z
+SUMMARY:Wilma Treffen - entfällt
+UID:e54263b4-9f46-46e7-a979-b0e49ece0ed0@e542.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Planung in Arbeit...</p><p></p><p>Alle unsere Treffen sind ehrenamtlich organisiert\, deshalb dauert das Planen manchmal länger. Falls Du selbst Ideen hast oder sogar mithelfen möchtest\, melde dich doch gerne via Kontaktformular bei uns :) Wir freuen uns über jede helfende Hand!</p>
+DTEND:20251121T210000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251121T180000Z
+SUMMARY:Wilma Just Dance Abend (Nintendo)
+UID:b37b89bc-216e-46d2-b215-ac632be9fe4a@b37b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Planung in Arbeit...</p><p></p><p>Alle unsere Treffen sind ehrenamtlich organisiert\, deshalb dauert das Planen manchmal länger. Falls Du selbst Ideen hast oder sogar mithelfen möchtest\, melde dich doch gerne via Kontaktformular bei uns :) Wir freuen uns über jede helfende Hand!</p>
+DTEND:20251204T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251204T180000Z
+SUMMARY:Wilma Filmabend
+UID:e41d043f-b189-4b70-8cb3-241050d84fc2@e41d.org
+END:VEVENT
+END:VCALENDAR
