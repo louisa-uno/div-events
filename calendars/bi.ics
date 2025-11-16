@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Lust auf einen schaurig-entspannten Abend mit gruselig-guten Snacks und einem Kostümwettbewerb? Dann ist der 28. Oktober Deine Nacht des Jahres\, denn die wir laden Dich gemeinsam mit den frients zu einem Halloween Chillout ein! Dort wird es nicht nur herbstliches Essen und passende Schauersnacks geben\, sondern auch jede Menge Spaß. Neben einigen außerweltlichen Spielen veranstalten wir nämlich auch einen Kostümwettbewerb. Schmeiß Dich also ordentlich in Schale oder komm einfach in deiner Lieblingsverkleidung. Gerne kannst Du auch selbst Tarot Karten\, ein Ouija Board oder andere passende Spiele mitbringen.</p><p></p><p>‼️‼️Achte aber bitte darauf\, dass Dein Kostüm angemessen ist und keine Personengruppe beleidigt\, diskriminiert oder herabsetzt. Wenn Du Dir hierbei unsicher bist\, dann melde Dich gerne bei bi.yourself über das Kontaktformular auf unserer Website.‼️‼️</p><p></p><p>bi.yourself ist unsere Gruppe für alle bis 27 Jahre\, die sich als bi oder pan identifizieren oder die sich auch ohne Label zu mehr als einem Geschlecht hingezogen fühlen.</p>
+DTEND:20251028T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251028T180000Z
+SUMMARY:bi.yourself & frients Halloween Chillout
+UID:9e8cf09d-51f1-42c5-a7c2-8ebaabd35e3e@9e8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20251127T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251127T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:bc66dd59-82f4-4ac9-acb9-c69e2152393c@bc66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20251218T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251218T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:aecf974d-aae2-4517-8578-54e7ec8545c1@aecf.org
+END:VEVENT
+END:VCALENDAR

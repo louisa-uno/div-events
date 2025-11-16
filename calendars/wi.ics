@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Planung in Arbeit...</p><p></p><p>Alle unsere Treffen sind ehrenamtlich organisiert\, deshalb dauert das Planen manchmal länger. Falls Du selbst Ideen hast oder sogar mithelfen möchtest\, melde dich doch gerne via Kontaktformular bei uns :) Wir freuen uns über jede helfende Hand!</p>
+DTEND:20251204T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251204T180000Z
+SUMMARY:Wilma Filmabend
+UID:4389dd17-6c21-4b86-b780-3d3b2df3e85d@4389.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><br/>Tanzen macht glücklich - zusammen noch mehr als allein! Aus diesem Grund laden die Wilmas Dich ein\, Deine tänzerischen Fähigkeiten beim gemeinsamen &#x27\;Just Dance&#x27\; - Spielen auf der Switch unter Beweis zu stellen. Egal ob du rhythmisch auf den Punkt oder nach deiner eigenen Pfeife tanzt -  Spaß macht&#x27\;s auf jeden Fall!<br/>Wie immer gibt es natürlich auch Getränke zu günstigen Jugendcafé-Preisen. <br/><br/>Die Wilmas freuen sich auf einen tanztastischen Abend mit Dir!</p>
+DTEND:20251121T220000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251121T180000Z
+SUMMARY:Wilma Just Dance Abend (Nintendo)
+UID:348d8e21-cf0b-4095-8226-f780593a8af3@348d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Herbstzeit ist Kürbiszeit!</p><p>Beim allerersten Wilma-Treffen vor etwa zehn Jahren wurde Kürbissuppe gekocht. Daraus hat sich die schöne Tradition entwickelt\, dass wir jedes Jahr im Herbst gemeinsam Kürbissuppe kochen. Das wollen wir auch dieses Jahr wieder tun – die Kürbisse besorgen wir.</p><p>Auch wenn es schon ein wenig nach Halloween ist: Wer Lust auf Kürbisschnitzen hat\, ist dazu ebenfalls herzlich eingeladen!</p>
+DTEND:20251106T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251106T180000Z
+SUMMARY:Wilma - Kürbisabend
+UID:09e1ec03-223f-4050-a7de-0632d2aaaf2a@09e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Da das diversity Team an diesem Wochenende auf Teamfahrt ist\, muss das 2. Oktober Treffen leider ausfallen. Wir freuen uns\, euch im November wieder zu sehen! </p>
+DTEND:20251017T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20251017T170000Z
+SUMMARY:Wilma Treffen - entfällt
+UID:de2fb769-09f8-40b2-94b2-12003fc5a1f1@de2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Egal\, ob Du gerne laut\, leise\, alleine\, in der Gruppe\, mit oder ohne Sänger*in singst\; Bei unserer Weihnachtsfeier ist für alle etwas dabei! Du kannst Dir Deine Musik selbst aussuchen von Weihnachtslied bis Rocksong ist alles möglich. Dieses Mal singen die JUNGS und WILMA wieder gemeinsam\, denn je mehr Leute\, desto mehr Spaß!<br/><br/>Um den Abend noch weihnachtlicher zu machen\, versorgen Dich die WILMAs und die JUNGS hinter der Bar neben dem üblichen Sortiment auch mit heißem Punsch und Glühwein.<br/><br/>Achtung an alle WILMA Besuchenden: Wir sind dieses mal im Jugendzentrum (Blumenstr. 11)!<br/><br/>Vorwarnung für Menschen mit sensory issues: Der Abend wird laut. Du kannst Dich gerne in unser Hinterzimmer zurückziehen\, wo wir eine Ruhezone einrichten werden. Bitte denk ggf. an Ohrstöpsel und wende Dich bei Problemen ans Team.<br/><br/>Die JUNGS und die WILMAs freuen sich auf einen stimmungsvolle Weihnachtsfeier mit Dir!<br/><br/>WILMA ist eine Gruppe aus jungen frauenliebenden Frauen* und nichtbinären Menschen von 18-27 Jahren. Sie identifizieren sich z.B. als lesbisch\, bi\, pan.<br/><br/>Die JUNGS sind unsere Gruppe für schwule\, bisexuelle\, queere und neugierige Jungs* von 18 bis 27 Jahre.<br/></p>
+DTEND:20251219T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251219T180000Z
+SUMMARY:Karaoke-Weihnachtsfeier mit Wilma & Jungs!
+UID:8516a0c8-193b-4ea2-aaef-86ccedfae174@8516.org
+END:VEVENT
+END:VCALENDAR

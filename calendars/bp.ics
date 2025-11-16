@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Der BiPoC-Abend hat auch dieses Mal etwas spannendes für euch geplant! Jetzt wo die Tage immer kürzer werden und die Dunkelheit sich schneller breit macht ist man dankbar für alles Licht das man bekommen kann. Was bietet sich da mehr an als ein Teelicht\, welches man selbst gestaltet hat? Kommt gerne zahlreich vorbei! Wie immer könnt ihr auch nur zum quatschen oder Brettspiele spielen vorbei kommen. </p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251104T180000Z
+SUMMARY:BiPoC-Abend: Teelichter basteln
+UID:04bc9696-b3ba-477c-b63b-4fa68bf9b4ad@04bc.org
+END:VEVENT
+END:VCALENDAR

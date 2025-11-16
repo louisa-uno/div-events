@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20251223T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251223T180000Z
+SUMMARY:frients Abend im Dezember
+UID:a1ce8666-651e-4b93-ac42-92c914572929@a1ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20260127T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260127T180000Z
+SUMMARY:frients Abend im Januar
+UID:b27180a7-7d76-4a55-98f3-874996c3f603@b271.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251213T130000Z
+SUMMARY:frients Treffen im Dezember
+UID:621f063b-7d19-442c-9b4e-ea22832a27e1@621f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Am 8. November veranstalten die frients einen Kleiderkreisel. Höchste Zeit deinen Kleiderschrank mal wieder auszusortieren und Platz für neue alte Schätze zu schaffen. Los geht es wie immer um 14:00 Uhr im Jugendzentrum in der Blumenstraße 11. Nach dem Kleiderkreisel werden wir gemeinsam vegan Kochen und den Abend mit Spielen\, Gesprächen und Getränken ausklingen lassen.<br/></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251108T130000Z
+SUMMARY:frients Kleiderkreisel im November
+UID:5f56e2f6-78e3-470a-989b-2eb6baa09b1d@5f56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>frients &amp\; bi.yourself Halloween Chillout</p><p>Lust auf einen schaurig-entspannten Abend mit gruselig-guten Snacks und einem Kostümwettbewerb? Dann ist der 28. Oktober Deine Nacht des Jahres\, denn die frients und bi.yourself laden Dich zu einem Halloween Chillout ein! Dort wird es nicht nur herbstliches Essen und passende Schauersnacks geben\, sondern auch jede Menge Spaß. Neben einigen außerweltlichen Spielen wird es nämlich auch einen Kostümwettbewerb geben. Schmeiß Dich also ordentlich in Schale oder komm einfach in deiner Lieblingsverkleidung. Gerne kannst Du auch selbst Tarot Karten\, ein Ouija Board oder andere passende Spiele mitbringen.</p><p></p><p>Achte aber bitte darauf\, dass Dein Kostüm angemessen ist und keine Personengruppe beleidigt\, diskriminiert oder herabsetzt. Wenn Du Dir hierbei unsicher bist\, dann melde Dich gerne bei bi.yourself über das Kontaktformular auf unserer Website.</p><p></p>
+DTEND:20251028T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251028T180000Z
+SUMMARY:frients & bi.yourself Halloween Chillout
+UID:1b5b63d5-cf3c-44d5-967d-76ed998ac13e@1b5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20251125T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251125T180000Z
+SUMMARY:frients Abend im November
+UID:3795eba3-da75-4634-8c44-57c37ad76996@3795.org
+END:VEVENT
+END:VCALENDAR

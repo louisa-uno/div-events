@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Weitere Infos folgen. :)</b></p><p><i>AroSpAce ist die Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\, die sich auf dem aromantischen und/oder asexuellen Spektrum befinden (d.h. auch Demi-\, Grey- etc.). Du identifizierst dich auf einem oder beiden der Spektren oder hinterfragst deine Identität diesbezüglich\, dann bist du herzlich zu unserem Treffen eingeladen!</i></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251209T180000Z
+SUMMARY:AroSpAce: im Dezember
+UID:acd230f6-2e1a-4d1c-b864-ce75842600e9@acd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Beim nächsten Treffen von AroSpAce wird es wieder einen Aro/Ace‑Spec Talk geben\,<br/>das heißt\, Du kannst alle Deine Fragen zu Themen des aromantischen und asexuellen Spektrums<br/>mitbringen und Deine Erfahrungen mit anderen Menschen teilen.<br/><br/>Alle Fragen werden von uns gesammelt und anonym gestellt.<br/><br/>Selbstverständlich kannst Du auch Spiele spielen und Dich mit anderen Teilnehmer*innen<br/>abseits des Talks austauschen.<br/><br/>AroSpAce wird wieder vegan kochen.<br/><br/>Eure AroSpAce Orga</b><br/><br/><i>AroSpAce ist die Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\, die sich auf dem aromantischen und/oder asexuellen Spektrum befinden (d.h. auch Demi-\, Grey- etc.). Du identifizierst dich auf einem oder beiden der Spektren oder hinterfragst deine Identität diesbezüglich\, dann bist du herzlich zu unserem Treffen eingeladen!</i></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251111T180000Z
+SUMMARY:AroSpAce: Aro/Ace-Spec-Talk
+UID:e01a3335-6acd-415a-b7a7-886d0d07ea23@e01a.org
+END:VEVENT
+END:VCALENDAR
