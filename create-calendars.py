@@ -2,12 +2,37 @@ import json
 import os
 from datetime import datetime, timedelta
 
+
+<<<<<<< Conflict 1 of 1
+%%%%%%% Changes from base #1 to side #1
++print ("Creating calendars..., Mrowr! 134")
++print ("Creating calendars..., Mrowr!")
+ print ("Creating calendars..., Mrowr!")
+ print ("Creating calendars..., Mrowr! 134, 123")
+ print("Connecting to database..., Mrowr! 134, 123")
+ print ("Loading organizers..., Mrowr! 134, 123")
+ print ("Creating calendars..., Mrowr! 134, 123")
+ print("Connecting to database..., Mrowr! 134, 123")
+ print ("Loading organizers..., Mrowr! 134, 123")
+ print ("Creating calendars..., Mrowr! 134, 123")
+%%%%%%% Changes from base #2 to side #2
+-print ("Creating calendars..., Mrowr! 134")
++print ("Creating calendars..., Mrowr!")
++++++++ Contents of side #3
+print ("Creating calendars..., Mrowr! 134")
+print ("Creating calendars..., Mrowr!")
+print ("Creating calendars..., Mrowr!")
+print ("Creating calendars..., Mrowr! 134, 123")
+print("Connecting to database..., Mrowr! 134, 123")
+print ("Loading organizers..., Mrowr! 134, 123")
+print ("Creating calendars..., Mrowr! 134, 123")
+print("Connecting to database..., Mrowr! 134, 123")
+print ("Loading organizers..., Mrowr! 134, 123")
+print ("Creating calendars..., Mrowr! 134, 123")
+
 from ics import Calendar, Event
 from pymongo import MongoClient
 
-client = MongoClient("mongodb://localhost:27017/")
-db = client["div"]
-div_db = db["pages"]
 
 def get_organizers():
 	query = {
