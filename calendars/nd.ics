@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Endlich ist es soweit: NoDifference! lädt ein zu diversitys erstem queeren Winterball in der Rogatekirche!</p><p>Wenn Du zwischen 14 und 27 bist\, bist Du herzlich eingeladen Dir dein schönstes Balloutfit zu schnappen\, das Tanzbein zu schwingen und einen magischen Abend zu verbringen. Es besteht\, sowohl für Anfänger*innen\, als auch für Fortgeschrittene\, die Möglichkeit vorab an einem Tanzkurs teilzunehmen. Der Standard Ticket Preis liegt bei 15€. Getränke gibt es zu gewohnt günstigen Preisen vor Ort und ein Buffet mit einer Auswahl an süßen und deftigen Häppchen wird dafür sorgen\, dass immer ausreichend Tanzenergie vorhanden ist. Wichtig: es handelt sich nicht um eine Party\, sondern um ein alkoholfreies Tanzevent.</p><p></p><p>Sicher Dir jetzt schnell dein Ticket: <a href="https://events.diversity-muenchen.de/nodifference/ball2026/">https://events.diversity-muenchen.de/nodifference/ball2026/</a></p><p>NoDifference! freut sich auf einen unvergesslichen Abend mit Dir!</p><p></p>
+DTEND:20260125T000000Z
+DTSTART:20260124T173000Z
+SUMMARY:NoDifference!: Queerer Winterball 2026
+UID:2680048e-f11f-4b30-abad-f7a41afbe76a@2680.org
+END:VEVENT
+END:VCALENDAR

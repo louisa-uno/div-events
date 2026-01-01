@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Weitere Infos folgen... :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20260110T130000Z
+SUMMARY:frients Treffen im Januar
+UID:d2575e47-9e2c-4c18-b14b-bb8634ca39f4@d257.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260324T180000Z
+SUMMARY:frients Abend im März
+UID:cd041bb6-b48b-450d-b21f-ba649499c166@cd04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Im Dezember werden bei den frients die Weihnachtsglocken geläutet\, denn die frients wollen wieder Wichteln. Bring dafür\, wenn du möchtest\, ein kleines Geschenk mit zum frients Treffen. Das Geschenk darf gerne selbstgemacht\, oder gebacken (mit Zutatenliste) sein\, du kannst aber auch für max. 10€ etwas kaufen. Bitte achte bei der Auswahl deines Wichtelgeschenks darauf\, dass es für eine zufällige Person zwischen 14 und 27 Jahren passend sein muss (also lieber keinen Alkohol oder ähnliches). Es wird bei den frients auch die Möglichkeit geben\, Plätzchen zu verzieren oder andere kleine Geschenke zu basteln. Wie immer wird es ein veganes Abendessen und danach einen gemütlichen Abend geben.   </p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251213T130000Z
+SUMMARY:frients Treffen im Dezember Wichteln
+UID:316e485b-4c22-422b-b331-eeba70bd5475@316e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Weitere Infos folgen... :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260314T130000Z
+SUMMARY:frients Treffen im März
+UID:461e0352-ab7f-47e4-a347-e795c9294fd7@461e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20260224T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260224T180000Z
+SUMMARY:frients Abend im Februar
+UID:743c9417-3b9f-4a7e-8d3a-14befe198829@743c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Den Abend vor Weihnachten wollen die frients gemütlich mit Plätzchen und Kinderpunsch im Jugendzentrum verbringen. Wir freuen uns ab 19:00 Uhr auf euch!</p>
+DTEND:20251223T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251223T180000Z
+SUMMARY:frients Abend im Dezember
+UID:df210cd5-dcee-4632-98f6-daaf9d56fb82@df21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los. </p>
+DTEND:20260127T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260127T180000Z
+SUMMARY:frients Abend im Januar
+UID:8afbf0f8-7718-4615-b607-982d4d53ca0a@8afb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Weitere Infos folgen... :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260214T130000Z
+SUMMARY:frients Treffen im Februar
+UID:e0d42254-c985-47f4-8c07-62939ac24a91@e0d4.org
+END:VEVENT
+END:VCALENDAR

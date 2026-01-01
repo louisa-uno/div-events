@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Infos werden noch bekannt gegeben.</p>
+DTEND:20260129T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260129T180000Z
+SUMMARY:Wilma Schlittschuhlaufen
+UID:64364fc8-2e50-4e7f-9482-fe1dbcb31751@6436.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Wilma Gruppentreffen im LeZ - Spieleabend </p>
+DTEND:20260115T210000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20260115T180000Z
+SUMMARY:Wilma goes LeZ
+UID:13f7e5f0-eae9-46c9-9226-870489e94065@13f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Damit wir alle von Silvester ausschlafen können\, haben wir dieses Treffen verschoben auf den 15.01.2026!<br/>Liebe Grüße und schöne Feiertage!</p>
+DTEND:20260101T180100Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260101T180000Z
+SUMMARY:Wilma Treffen entfällt!
+UID:1c488e51-0c7f-466d-b57d-fb945e405ca7@1c48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Die Kälte ist ins Land gezogen\, was ist da schöner als ein Filmabend? Ein Filmabend mit Cookies! Deshalb wollen die Wilmas es sich gemütlich machen und einen Film eurer Wahl anschauen. Du kannst DVDs mitbringen oder einen Film vorschlagen\, den es auf Netflix gibt. Es wird Cookies und weitere Snacks geben\, sowie für kleines Geld die passenden Getränke. Wie Kino - nur besser!</p><p></p><p>WILMA freut sich auf einen gemütlichen Abend mit Dir!</p><p></p><p><i>WILMA ist eine Gruppe aus jungen frauenliebenden Frauen* und nichtbinären Menschen von 18-27 Jahren. Sie identifizieren sich z.B. als lesbisch\, bi\, pan oder queer.</i></p>
+DTEND:20251204T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251204T180000Z
+SUMMARY:WILMA macht nen Filmeabend!
+UID:71635b6a-c12e-416d-9ee2-e45ae253e08e@7163.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Nähere Informationen folgen.</p>
+DTEND:20260205T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260205T180000Z
+SUMMARY:Wilma Lego Kettenreaktion
+UID:f207e449-8898-43b6-9da3-dd17c8649295@f207.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen </p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260305T180000Z
+SUMMARY:Wilma Gruppentreffen
+UID:d6490413-f1f6-4c26-a520-a86c9a2af318@d649.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Wilma Spieleabend</p>\n\n(Error: The event had an invalid end date)
+DURATION:PT2H58M
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20260220T180000Z
+SUMMARY:Wilma Spieleabend
+UID:adfc0e57-2447-42eb-a750-0d48c0723d5d@adfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Egal\, ob Du gerne laut\, leise\, alleine\, in der Gruppe\, mit oder ohne Sänger*in singst\; Bei unserer Weihnachtsfeier ist für alle etwas dabei! Du kannst Dir Deine Musik selbst aussuchen von Weihnachtslied bis Rocksong ist alles möglich. Dieses Mal singen die JUNGS und WILMA wieder gemeinsam\, denn je mehr Leute\, desto mehr Spaß!<br/><br/>Um den Abend noch weihnachtlicher zu machen\, versorgen Dich die WILMAs und die JUNGS hinter der Bar neben dem üblichen Sortiment auch mit heißem Punsch und Glühwein.<br/><br/>Achtung an alle WILMA Besuchenden: Wir sind dieses mal im Jugendzentrum (Blumenstr. 11)!<br/><br/>Vorwarnung für Menschen mit sensory issues: Der Abend wird laut. Du kannst Dich gerne in unser Hinterzimmer zurückziehen\, wo wir eine Ruhezone einrichten werden. Bitte denk ggf. an Ohrstöpsel und wende Dich bei Problemen ans Team.<br/><br/>Die JUNGS und die WILMAs freuen sich auf einen stimmungsvolle Weihnachtsfeier mit Dir!<br/><br/>WILMA ist eine Gruppe aus jungen frauenliebenden Frauen* und nichtbinären Menschen von 18-27 Jahren. Sie identifizieren sich z.B. als lesbisch\, bi\, pan.<br/><br/>Die JUNGS sind unsere Gruppe für schwule\, bisexuelle\, queere und neugierige Jungs* von 18 bis 27 Jahre.<br/></p>
+DTEND:20251219T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251219T180000Z
+SUMMARY:Karaoke-Weihnachtsfeier mit Wilma & Jungs!
+UID:bd034141-0c8e-4198-b217-c4e1a53faa06@bd03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20260320T210000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20260320T180000Z
+SUMMARY:Wilma Gruppentreffen
+UID:a86c304d-7dab-465f-98a5-14b3f6148b13@a86c.org
+END:VEVENT
+END:VCALENDAR

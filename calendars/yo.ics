@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>In der Weihnachtsbäckerei… gibt es diesmal vegane Plätzchen!!</p><p>Komm doch diesen Sonntag vorbei\, denn wir backen endlich mal wieder zusammen :)</p><p>Teig ausrollen\, Plätzchen ausstechen\, Schüsseln ausschlecken… und einfach zusammen in Weihnachtsstimmung kommen.</p><p>Außerdem machen wir ein Schrottwichteln!</p><p>Bringt dafür einfach eine lustige\, ungewöhnliche\, oder kleine Sache mit\, die ihr nicht mehr braucht\, die aber zu schade zum Wegwerfen ist\, pack sie ein\, und wir tauschen danach den ganzen Krimskrams - Pardon\, die Schätze\, aus.</p><p>Wenn Dir das viel zu viel Trubel oder viel zu weihnachtlich ist\, kannst Du dich aber natürlich auch ins Kissenzimmer zurückziehen\, entspannen und Spiele spielen.</p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.</i></p>
+DTEND:20251214T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251214T140000Z
+SUMMARY:youngsters: Plätzchen & Schrottwichteln
+UID:7dd5e777-1848-4456-bfc7-813231cf7f34@7dd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.</i></p>
+DTEND:20260111T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260111T140000Z
+SUMMARY:youngsters: Neueinstiegstag
+UID:2d642f34-c4e1-4706-a4cb-3f4b45ca99bd@2d64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>In der gemütlichen Runde gibt’s Punsch und kreative Silvestercracker! Komm doch diesen Sonntag vorbei\, denn wir werden endlich wieder zusammen kreativ. Wir bereiten gemeinsam köstliche Punschvariationen zu – warm und festlich! Außerdem gestalten wir bunte und lustige Silvestercracker\, die für viel Spaß an Silvester sorgen werden.</p><p></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.</i></p>
+DTEND:20251228T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251228T140000Z
+SUMMARY:youngsters: Kinderpunsch & Silvesterkracher basteln mit den JuLes
+UID:18bc88c8-c47a-47af-bdcb-3fe189554f8f@18bc.org
+END:VEVENT
+END:VCALENDAR

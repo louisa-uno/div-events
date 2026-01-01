@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Es duftet verführerisch nach Zimt und Vanille\, der Winter steht vor der Tür – die perfekte Zeit für unsere gemütliche Plätzchenbäckerei! 🎅🍪</p><p>Dieses Jahr treffen wir uns gemeinsam mit den JUNGS\, um gemeinsam kreativ zu werden und köstliche Leckereien zu zaubern. Gemeinsam werden wir den Plätzchenteig machen\, Plätzchen ausstechen\, backen und noch kreativ verzieren. Bringe gerne deine Lieblings-Ausstecher und Dekorationen mit – für alle\, die keine haben\, ist natürlich bestens gesorgt.</p><p>Wer zwischendurch eine Pause vom Backen braucht oder lieber entspannt quatschen\, Brettspiele spielen und chillen möchte\, kann sich in unseren Barbereich zurückziehen. Dort ist Raum zum Austauschen und gemütlichen Beisammensein. ♟️🗣️🍹</p><p>Das Event ist kostenlos\, wir freuen uns aber über eine kleine Spende für die Zutaten. Es wird auch vegane Plätzchen geben! Falls du Allergien oder Unverträglichkeiten hast\, melde dich bitte bei mir\, damit wir das möglichst berücksichtigen können.</p><p>Also komm gerne vorbei und mach bei unserer kleinen Weihnachtsbäckerei mit! 🎄🎁🍪</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251205T180000Z
+SUMMARY:DINOs: Coop Plätzchenbacken mit den JUNGS
+UID:f99939ae-5e49-4dae-9ae0-08115f399372@f999.org
+END:VEVENT
+END:VCALENDAR
