@@ -85,7 +85,11 @@ def create_calendar(organizer=None):
 			end_date = event.get("end", None)
 			if end_date:
 				try:
-					e.end = end_date
+					if end_date <= start_date + timedelta(days=7):
+						e.end = end_date
+					else:
+						e.duration = {"minutes": 2*60 + 56}
+						e.description += "\n\n(Error: The event had an end date more than 7 days after the start date)"
 				except ValueError:
 					e.duration = {"minutes": 2*60 + 58}
 					e.description += "\n\n(Error: The event had an invalid end date)"
