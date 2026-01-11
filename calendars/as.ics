@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Weitere Infos folgen. :)</b></p><p><i>AroSpAce ist die Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\, die sich auf dem aromantischen und/oder asexuellen Spektrum befinden (d.h. auch Demi-\, Grey- etc.). Du identifizierst dich auf einem oder beiden der Spektren oder hinterfragst deine Identität diesbezüglich\, dann bist du herzlich zu unserem Treffen eingeladen!</i></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260310T180000Z
+SUMMARY:AroSpAce: im März
+UID:fb0b6d0b-1128-4c6f-82d7-7a1802d78812@fb0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Weitere Infos folgen. :)</b></p><p><i>AroSpAce ist die Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\, die sich auf dem aromantischen und/oder asexuellen Spektrum befinden (d.h. auch Demi-\, Grey- etc.). Du identifizierst dich auf einem oder beiden der Spektren oder hinterfragst deine Identität diesbezüglich\, dann bist du herzlich zu unserem Treffen eingeladen!</i></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260210T180000Z
+SUMMARY:AroSpAce: im Februar
+UID:3c4113ec-3149-4f35-873b-2d1c95a1fa91@3c41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><br/>Das neue Jahr hat begonnen und AroSpAce lädt Dich zu einem gemütlichen Spieleabend im Jugendzentrum ein. Im Spieleschrank findest Du eine große Auswahl an Spielen und es sind ein Werwolfspiel und ein Schachtunier geplant. Gerne kannst Du auch ein eigenes Spiel mitbringen\, oder Dich einfach an der Bar unterhalten.</p><p>AroSpAce wird wieder vegan kochen\, wenn Du Unverträglichkeiten hast\, gib uns gerne Bescheid.</p><p><br/><i>AroSpAce ist unsere Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\,<br/>die sich auf dem aromantischen und/oder asexuellen Spektrum befinden oder ihre Identität dahingehend hinterfragen.<br/><br/>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest Du auf Barrierefreiheit angewiesen sein\, melde Dich bitte vorher unter arospace[at]</i><a href="http://diversity-muenchen.de/"><i>diversity-muenchen.de</i></a><i> bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260113T180000Z
+SUMMARY:AroSpAce Spieleabend
+UID:3da56b8e-5fe3-42c2-8cc5-edced8c9ff65@3da5.org
+END:VEVENT
+END:VCALENDAR

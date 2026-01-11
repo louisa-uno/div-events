@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260122T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260122T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:d300f623-8ec1-4be4-9b6c-c1755410bff3@d300.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>In weniger als zwei Wochen steht Weihnachten vor der Tür! Zum Abschluss des Jahres wollen wir mit Dir noch ein letztes gemütliches Treffen verbringen\, bevor wir im Januar neu durchstarten. Für das bi.yourself Treffen im Dezember werden wir Plätzchen backen und diese natürlich auch verzieren und anschließend vernaschen. An einem gemeinsamen Essen darf es selbstverständlich auch nicht mangeln und für den extra Kick Gemütlichkeit gibt es heiße Schokolade. Bring also gerne ganz viel Weihnachtsstimmung mit und lass uns das bi.yourself Jahr gemeinsam abschließen!</p><p></p><p>bi.yourself ist unsere Gruppe für alle bis 27 Jahre\, die sich als bi oder pan identifizieren oder die sich auch ohne Label zu mehr als einem Geschlecht hingezogen fühlen.</p>
+DTEND:20251218T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251218T180000Z
+SUMMARY:bi.yourself Plätzchen Backen
+UID:ce9e8cc0-2c3b-4534-931a-3e05549b4166@ce9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260326T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260326T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:799585fe-55f2-44f0-82fb-048d5725cfc9@7995.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260226T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260226T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:bcffb623-c3d9-4f7d-b7f5-d6e3dbd310ec@bcff.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Egal\, ob Du gerne laut\, leise\, alleine\, in der Gruppe\, mit oder ohne Sänger*in singst\; Bei unserer Weihnachtsfeier ist für alle etwas dabei! Du kannst Dir Deine Musik selbst aussuchen von Weihnachtslied bis Rocksong ist alles möglich. Dieses Mal singen die JUNGS und WILMA wieder gemeinsam\, denn je mehr Leute\, desto mehr Spaß!<br/><br/>Um den Abend noch weihnachtlicher zu machen\, versorgen Dich die WILMAs und die JUNGS hinter der Bar neben dem üblichen Sortiment auch mit heißem Punsch und Glühwein.<br/><br/>Achtung an alle WILMA Besuchenden: Wir sind dieses mal im Jugendzentrum (Blumenstr. 11)!<br/><br/>Vorwarnung für Menschen mit sensory issues: Der Abend wird laut. Du kannst Dich gerne in unser Hinterzimmer zurückziehen\, wo wir eine Ruhezone einrichten werden. Bitte denk ggf. an Ohrstöpsel und wende Dich bei Problemen ans Team.<br/><br/>Die JUNGS und die WILMAs freuen sich auf einen stimmungsvolle Weihnachtsfeier mit Dir!<br/><br/>WILMA ist eine Gruppe aus jungen frauenliebenden Frauen* und nichtbinären Menschen von 18-27 Jahren. Sie identifizieren sich z.B. als lesbisch\, bi\, pan.<br/><br/>Die JUNGS sind unsere Gruppe für schwule\, bisexuelle\, queere und neugierige Jungs* von 18 bis 27 Jahre.<br/></p>
+DTEND:20251219T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20251219T180000Z
+SUMMARY:Karaoke-Weihnachtsfeier mit Wilma & Jungs!
+UID:adfb8a82-231c-4837-b0db-5a379998fc26@adfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Treffpunkt: LeZ Lesbisch-queeres Zentrum </b></p><p><b>Müllerstr 26\, München </b></p><p></p><p>Das neue Jahr hat begonnen und wir starten gleich mit etwas neuem: einem Besuch im lesbisch-queeren Zentrum in der Müllerstraße! <br/>Wenn Du gerne strickst\, malst\, häkelst oder ein anderes unfertiges Kreativprojekt hast\, brings gerne mit! Dann können wir gemeinsam gestalten. <br/>Keine Lust auf Kreatives? Das LEZ bietet auch viele andere coole Sachen! Es gibt einen Kicker\, queere Bücher und Magazine\, eine Kleidertauschstange und Spiele. Natürlich ist auch immer Zeit zum ratschen und entspannt etwas trinken. <br/><br/>Das Lesbisch-queere Zentrum ist alters- und geschlechtsoffen\, also eine super Ort um sich außerhalb vom diversity mit Freund*innen zu treffen. <br/><br/>Damit niemand draußen frieren muss\, treffen wir uns um 19:00 Uhr direkt im LEZ. Du erkennst uns am blauen Diversity T-Shirt. <br/>Die Wilmas freuen sich auf einen kreativ-ratschigen Abend mit Dir!</p>
+DTEND:20260115T210000Z
+DTSTART:20260115T180000Z
+SUMMARY:Wilma geht ins Lez
+UID:3a3b5307-f405-4410-b5a1-f3ff8ae5cf2c@3a3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Damit wir alle von Silvester ausschlafen können\, haben wir dieses Treffen verschoben auf den 15.01.2026!<br/>Liebe Grüße und schöne Feiertage!</p>
+DTEND:20260101T180100Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260101T180000Z
+SUMMARY:Wilma Treffen entfällt!
+UID:db4122da-6f1f-4352-afc4-37aafed29397@db41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen </p>\n\n(Error: The event had an end date more than 7 days after the start date)
+DURATION:PT2H56M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260402T170000Z
+SUMMARY:Wilma Gruppentreffen
+UID:5e49b0a8-497d-43a1-8abe-7c44e4ef1e4f@5e49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Infos werden noch bekannt gegeben.</p>
+DTEND:20260129T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260129T180000Z
+SUMMARY:Wilma Schlittschuhlaufen
+UID:a196c2b0-9390-4416-a815-e2183a01101c@a196.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Nähere Informationen folgen.</p>
+DTEND:20260205T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260205T180000Z
+SUMMARY:Wilma Lego Kettenreaktion
+UID:d39a9432-883b-4bb4-84d5-78b7d3d34599@d39a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Wilma Spieleabend</p>\n\n(Error: The event had an invalid end date)
+DURATION:PT2H58M
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20260220T180000Z
+SUMMARY:Wilma Spieleabend
+UID:b4e594f9-27c3-4485-9e58-c0b84a64668e@b4e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20260320T210000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20260320T180000Z
+SUMMARY:Wilma Gruppentreffen
+UID:f93f0288-f9ac-42a0-a0d9-b26953954808@f93f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260305T180000Z
+SUMMARY:Wilma Kennenlernabend
+UID:c918cec2-6257-4d68-8b8f-6a10d24014ea@c918.org
+END:VEVENT
+END:VCALENDAR
