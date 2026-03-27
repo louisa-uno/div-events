@@ -25,7 +25,7 @@ def check_organizers():
 	organizers_file = get_organizers_json()
 	organizers = get_organizers()
 	for organizer in organizers:
-		if not any(o == organizer["title"] for o in organizers_file):
+		if not any(o == organizer.get("title") for o in organizers_file):
 			print(f"Organizer {organizer['id']} - {organizer.get('title', 'No title')} is missing in organizers.json")
 
 def create_calendars_dir():
@@ -50,14 +50,14 @@ def create_calendar(organizer=None):
 		}
 	}
 	if organizer:
-		if organizer[1] == "no":
+		if organizer[0] == "no":
 			query = {
 				"start": query["start"],
 				"$or": [
 					{"meta.parent.title": {"$exists": False}},
 					{"meta.parent.title": None},
 					{"meta.parent.title": ""},
-					{"meta.parent.title": {"$nin": [o[0] for o in get_organizers_from_json()]}}
+					{"meta.parent.title": {"$nin": [o[1] for o in get_organizers_from_json()]}}
 				]
 			}
 		else:

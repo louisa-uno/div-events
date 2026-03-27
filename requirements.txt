@@ -3,3 +3,4 @@ requests==2.32.4
 python-dateutil==2.9.0
 ics==0.7.2
 TatSu==5.16.0
+pytest==8.3.5
