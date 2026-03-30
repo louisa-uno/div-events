@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>VROOM VROOM!! Kommt da ein Auto um die Ecke? Nein\, es ist nur das nächste bi.yourself Treffen! Mit ein paar hitzigen Runden Mario Kart sausen wir gemeinsam in den Frühling und lassen die kalten Wintertage hinter uns. Mario Kart ist nichts für Dich? Dann kannst Du dir natürlich auch eines unserer anderen Switch Spiele aussuchen. Bei uns ist nicht nur was das Gaming angeht für jeden Geschmack etwas dabei\, sondern auch in der Auswahl der Fingerfoods. Wir freuen uns auf Dich!</p><p>bi.yourself ist unsere Gruppe für alle bis 27 Jahre\, die sich als bi oder pan identifizieren oder die sich auch ohne Label zu mehr als einem Geschlecht hingezogen fühlen.</p>
+DTEND:20260326T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260326T180000Z
+SUMMARY:bi.yourself Switch Abend
+UID:ca9b32b4-3be1-47c1-8018-1dfff17010c9@ca9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260423T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260423T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:43a20559-f192-43a4-89df-a194a5c12d51@43a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260528T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260528T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:6bba195a-4cb7-498b-ac40-bca157d40c50@6bba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260625T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260625T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:cfa88a29-0ad7-4942-a140-e6cb5900b7cd@cfa8.org
+END:VEVENT
+END:VCALENDAR

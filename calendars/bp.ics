@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260602T170000Z
+SUMMARY:BiPoC-Abend: BIPoC Abend Treffen
+UID:fb6259e1-2334-4abf-84b0-2da0f395af20@fb62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260407T170000Z
+SUMMARY:BiPoC-Abend: BIPoC Abend Treffen
+UID:1c987b1b-fd89-4db6-aa76-3aad67a972f6@1c98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260303T180000Z
+SUMMARY:BiPoC-Abend: BIPoC Abend Treffen
+UID:e48110d0-316c-45df-a195-553c5444cf21@e481.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260505T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260505T081100Z
+SUMMARY:BiPoC-Abend: BIPoC Abend Treffen
+UID:73235411-b933-426b-a852-9fc136867550@7323.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Wir laden alle BIPoCs herzlich ein\, gemeinsam mit uns Kunstwerke im Linoldruck zu erschaffen! Unter der Leitfrage „Wie sieht dein innerer Wohlfühlort aus?“ könnt ihr eurer Kreativität freien Lauf lassen und eure Antwort in einen einzigartigen Druck verwandeln.<br/>Es sind keine Vorkenntnisse erforderlich und alle Materialien werden vor Ort bereitgestellt. Im Anschluss haben wir die Möglichkeit\, die fertigen Werke in einer kleinen Vernissage gemeinsam zu bewundern.<br/>Anleitung auf Deutsch\, Englisch und Chinesisch. <br/></p><embed alt="Linolprint_IWGR_25" embedtype="image" format="fullwidth" id="1929"/><p></p>
+DTEND:20260322T160000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260322T130000Z
+SUMMARY:Linolprint Workshop mit Queersquad\, Sisterhood & diversity BIPoC-Abend
+UID:aa655130-f63b-4ab3-9b0f-68eb85ad05f5@aa65.org
+END:VEVENT
+END:VCALENDAR

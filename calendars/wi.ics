@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20260417T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20260417T170000Z
+SUMMARY:Wilma Karaoke
+UID:516ad597-0bd0-4cd2-b505-fe3e994c0108@516a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><br/>Es ist wieder soweit. Die JuLes und Wilmas kooperieren\, weil sie gemeinsam mit Dir am 8.3. streiken wollen. Dieses Jahr organisiert feminism unstoppable München eine Demo zum feministischen Kampftag\, denn noch immer werden Frauen* diskriminiert.  </p><p>Für die Demo möchten wir gemeinsam Schilder und Papierblumen basteln.  </p><p>Das besondere an diesem Treffen: <br/> Bring gerne deine Freund*innen mit\, die nicht in die JuLes &amp\; Wilma Kategorie fallen! <br/> Eingeladen sind sowohl queere als auch nicht-queere Freund*innen\, unabhängig vom Geschlecht. Um den Schutzraum als Jugendgruppe weiterhin zu gewährleisten\, öffnen wir das Alter um max. 4 Jahre (14 bis einschl. 31 Jahre). Das ist DIE Gelegenheit\, mit Freund*innen aus anderen diversity-Gruppen oder auch hetero Freund*innen einen schönen Abend gemeinsam im Jugendzentrum  zu verbringen! Es ist  auch eine gute Chance\, das erste Mal zum Treffen zu kommen und eine unterstützende nicht-Wilma/JuLes Person mitzunehmen! <br/> Natürlich darfst Du auch alleine kommen. Es finden sich genug Leute zum ratschen!</p><p>Die JuLes und Wilmas freuen sich auf einen kreativ-politischen Abend mit Dir und Deinen Freund*innen!</p>
+DTEND:20260305T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260305T180000Z
+SUMMARY:Wilma\, JuLes & Freund*innen: Schilder und Blumen für den feministischen Kampftag!
+UID:0ab53a09-de92-4e1d-824b-60f1fd1c6757@0ab5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20260604T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260604T170000Z
+SUMMARY:Wilma Gruppentreffen
+UID:4247ec59-55f2-4e18-be97-cc6422e16ef3@4247.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Sei laut\, stolz und bunt mit dem diversity München am internationalen feministischen Kampftag! Alle Feminist*innen sind willkommen dabei zu sein.</b></p><p>Am 8.3. Ist der feministische Kampftag - auch Weltfrauentag genannt. Feminism unstoppable München organisiert eine Demonstration unter dem Motto „Another world ist possible“ und das diversity nimmt mit Dir teil!</p><p></p><p>Wir treffen uns um <b>12:15 Uhr im Hof vom Jugendzentrum in der Blumenstr. 11 </b>und gehen um 12:45 Uhr gemeinsam zum Rindermarkt. Dort startet um 13:00 Uhr die Demonstration von feminism unstoppable.</p><p></p><p>Wir freuen uns auf Deine Unterstützung mit all Deinen queeren und nicht-queeren Freund*innen!</p>
+DTEND:20260308T150000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260308T111500Z
+SUMMARY:Wilma: Demobesuch feministischer Kampftag
+UID:f2f7e2e6-4703-494b-a22a-dcb3f2fcc6db@f2f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Beim großen Wilma Quizabend kannst Du in verschiedenen Kategorien Dein Wissen unter Beweis stellen. Es wird gemeinsam in Teams um den Titel gekämpft. Selbstverständlich gibt es kleine Preise zu gewinnen. Am Ende ist aber nur eins wichtig: der Spaß darf nicht zu kurz kommen! Bringe gerne ein einsatzbereites Smartphone mit. Sollte das nicht möglich sein\, ist es aber kein Problem\, denn pro Team reicht ein Handy.<br/><br/>Die Wilmas freuen sich auf einen lustig-rätseligen Abend mit Dir!<br/><br/><i>Alle Treffen hier im Jugendzentrum sind ehrenamtlich organisiert. Wenn Du Ideen hast oder gerne mal reinschnuppern und mithelfen möchtest\, melde dich gerne über unser Kontaktformular! Wir freuen uns über jede helfende Hand :)<br/><br/>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter wilma[at]diversity-muenchen.de bei uns. Wir geben unser Bestes\, eine Lösung für dich zu finden. </i></p>\n\n(Error: The event had an end date more than 7 days after the start date)
+DURATION:PT2H56M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260402T170000Z
+SUMMARY:Wilma Quizabend
+UID:5ba1732c-6faf-42c7-ba6c-384fe64b9d2f@5ba1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>\n\n(Error: The event had an invalid end date)
+DURATION:PT2H58M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260507T170000Z
+SUMMARY:Wilma: Bastelabend
+UID:057863e6-c5d6-4383-a4f3-0f19b2cbe599@0578.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen </p>
+DTEND:20260515T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20260515T170000Z
+SUMMARY:Wilma Gruppentreffen
+UID:5fbde4e8-f71d-418c-b02d-2ee56187229b@5fbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>The Wilmas are playing Mario Kart or Smash on the big screen! There will also be delicious cocktails (including non‑alcoholic ones). Feel free to bring your handheld so you can trade Pokémon\, visit other Animal Crossing islands\, or take care of your long‑forgotten Nintendogs during the waiting time between Mario Kart races or during breathers between dances! If you don’t have your own handheld console\, that’s of course no problem. The diversity has plenty of Nintendo Switch consoles to share.</p><p>The Wilmas are also looking forward to a pixel‑fun evening with you!<br/><br/></p>
+DTEND:20260320T210000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20260320T180000Z
+SUMMARY:Wilma Videospielabend
+UID:e24ee029-6153-4d65-9f82-0398d98708eb@e24e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20260619T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20260619T170000Z
+SUMMARY:Wilma Gruppentreffen
+UID:4624953b-3d3a-4cc6-99ac-a312e88e7575@4624.org
+END:VEVENT
+END:VCALENDAR
