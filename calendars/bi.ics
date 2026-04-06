@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260528T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260528T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:a944ddaf-acb7-4670-af2f-5351b0c8eca0@a944.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Wilma &amp\; bi.yourself laden zu einem ganz besonderen Abend ein. Bei unserer Bingo Night ist nicht nur Spaß garantiert\, Du kannst auch tolle Preise gewinnen! </p><p>Du hast noch nie Bingo gespielt? Kein Problem - sowohl Beginner\, als auch Bingo-Profis sind herzlich willkommen. Das schöne an Bingo ist\, es ist simpel und jeder* kann mitmachen! Also schnapp dir deine Freunde und komm ab 19 Uhr am 17.04. im diversity Jugendzentrum\, Blumenstraße 11\, vorbei! </p><p>Das Wilma &amp\; bi.yourself Team freut sich auf Dich! </p>
+DTEND:20260417T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260417T170000Z
+SUMMARY:WILMA & bi.yourself Bingo Night
+UID:75a6a466-c3ac-49dc-9b14-261a4094580b@75a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>VROOM VROOM!! Kommt da ein Auto um die Ecke? Nein\, es ist nur das nächste bi.yourself Treffen! Mit ein paar hitzigen Runden Mario Kart sausen wir gemeinsam in den Frühling und lassen die kalten Wintertage hinter uns. Mario Kart ist nichts für Dich? Dann kannst Du dir natürlich auch eines unserer anderen Switch Spiele aussuchen. Bei uns ist nicht nur was das Gaming angeht für jeden Geschmack etwas dabei\, sondern auch in der Auswahl der Fingerfoods. Wir freuen uns auf Dich!</p><p>bi.yourself ist unsere Gruppe für alle bis 27 Jahre\, die sich als bi oder pan identifizieren oder die sich auch ohne Label zu mehr als einem Geschlecht hingezogen fühlen.</p>
+DTEND:20260326T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260326T180000Z
+SUMMARY:bi.yourself Switch Abend
+UID:185788a4-9258-45b5-8f1c-da7c6c884578@1857.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260625T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260625T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:6deae8d3-8543-4823-afdf-0a2b739cf3a4@6dea.org
+END:VEVENT
+END:VCALENDAR

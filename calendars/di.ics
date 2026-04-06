@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p><b><i>Die DINOs sind unsere Gruppe für alle queeren Personen von 25 bis 32 Jahren.<br/></i></b><br/>Treffpunkt Eingang Pinakothek der Moderne\, Barer Str. 40<b><i><br/><br/></i></b>Lust auf Kunst\, Architektur\, Design und Grafik an einem Nachmittag? Dann komm mit den DINOs in die Pinakothek der Moderne und entdecke gemeinsam aktuelle Ausstellungen sowie spannende Werke aus verschiedenen Sammlungen.</p><p>Ob Du regelmäßig ins Museum gehst oder einfach neugierig bist: Bei diesem Treffen stehen Austausch\, queere Community und ein entspannter gemeinsamer Rundgang im Mittelpunkt. Du kannst Dich inspirieren lassen\, Deine Eindrücke teilen oder einfach die Atmosphäre genießen.</p><p>Der Eintritt kostet am Sonntag 1 €. Bitte kümmere Dich selbst um Dein Ticket. Wir treffen uns vor dem Eingang und gehen dann gemeinsam hinein.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20260315T130000Z
+SUMMARY:DINOs: Museumsbesuch in der Pinakothek der Moderne
+UID:5ec629a0-edac-4b0b-80ea-8b328c79066c@5ec6.org
+END:VEVENT
+END:VCALENDAR

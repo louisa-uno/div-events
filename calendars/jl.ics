@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.</i></p>
+DTEND:20260322T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260322T140000Z
+SUMMARY:JuLes: verschoben auf nächste Woche
+UID:2ecb31b1-f2f9-4c41-845b-3506522fb7a5@2ecb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädels* bis einschließlich 19 Jahre.</i></p>
+DTEND:20260412T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260412T130000Z
+SUMMARY:JuLes: Seriennachmittag
+UID:37798d16-6d77-46e5-876b-cb0bf7936f73@3779.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädels* bis einschließlich 19 Jahre.</i></p>
+DTEND:20260426T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260426T130000Z
+SUMMARY:JuLes: Bouldern mit den youngsters
+UID:f887b3f7-60b8-4d38-b0ff-ae627ab30a19@f887.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Am 08. März gehen JuLes und Wilma wieder gemeinsam auf die Straße und laden dich herzlich ein\, sie am feministischen Kampftag zu begleiten!</p><p>Wir treffen uns um 12:15 Uhr am diversity Jugendzentrum in der Blumenstraße 11 und laufen von dort gemeinsam zur Demo am Rindermarkt. Eingeladen sind alle Besuchenden der diversity-Gruppen sowie Freund*innen\, denn am 08. März wollen wir zusammen ein starkes und sichtbares Zeichen setzen.</p><p>Wer im Anschluss an die Demo noch Lust auf ein gemütliches Beisammensitzen hat\, ist herzlich zu unserem Café-Nachmittag eingeladen.</p><p>Die JuLes und Wilmas freuen sich sehr auf dich!</p><p><br/><i>Die JuLes sind die Gruppe für lesbische\, bisexuelle und neugierige Mädels* bis einschließlich 19 Jahren.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20260308T120000Z
+SUMMARY:JuLes: Demo zum Feministischen Kampftag
+UID:257c2673-df5b-414f-aa5d-91d77eaebf3e@257c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260524T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260524T130000Z
+SUMMARY:JuLes-Nachmittag
+UID:913332f2-5493-48dc-ac5e-9892581d8111@9133.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Der frühe Vogel fängt den Wurm - daher feiern wir diesen Sonntag als aller ersten Ostern\, um... äh... alle Ostereier zu... fAnGeN!!!<br/>Um den Osterhasen zu entlasten\, legt Onkel Devan dieses Jahr höchst persönlich die Eier selbst.<br/>Zusätzlich backen wir dazu in unserer veganen Metzgerei unser eigenes Osterlamm. Es lohnt sich also\, vorbeizukommen :D</p><p>Also bis Sonntag \;)</p><p></p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.</i></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis einschließlich 19 Jahre.</i></p>
+DTEND:20260329T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260329T130000Z
+SUMMARY:JuLes: Ostertreffen mit den youngsters
+UID:c4208042-d931-438c-9dfb-3aa0a64cff65@c420.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260510T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260510T130000Z
+SUMMARY:JuLes-Treffen
+UID:b745583d-e4e4-49f0-be3d-e3284bb7cfe3@b745.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Im April besuchen wir den Botanischen Garten München. Treffpunkt ist um 14 Uhr vor dem Haupteingang des Botanischen Gartens München. Der Eintritt wird nur 2€ für alle kosten. Für Schüler*innen sowie für Menschen mit Ehrenamtskarte oder München-Pass (Nachweis mitbringen!) ist der Eintritt frei. Wenn dich der Eintrittspreis von der Teilnahme abhalten sollte\, dann schreib uns<br/>über unser Kontaktformular hier auf der Website und wir finden eine Lösung. Nach dem Besuch gehen wir ab ca. 18 Uhr zurück ins Jugendzentrum.</p>
+DTEND:20260411T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260411T120000Z
+SUMMARY:frients Treffen im April: Botanischer Garten
+UID:6bbf261b-67be-439c-ae59-e4bfa8add01d@6bbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich am 26.05. nicht! Gute Erholung von der Freizeitfahrt. Am 13.06. um 14:00 Uhr und am 23.06. um 19:00 Uhr sehen wir uns in alter Frische.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260526T170000Z
+SUMMARY:!!!fällt aus!!! frients Abend im Mai
+UID:48643b34-9cf6-442b-abe8-99b30aa4bb61@4864.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Weitere Infos folgen... :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260613T120000Z
+SUMMARY:frients Treffen im Juni
+UID:66fd93fe-f25b-4019-92c8-866752fd60be@66fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> Im März veranstalten wir einen entspannten Nachmittag. Dort kannst Du mit anderen Besuchenden Dich schön unterhalten und neue Brettspiele ausprobieren. Von Codenames über Werwolf bis hin zu Skyjo ist alles dabei\, Du darfst aber auch gerne eigene Spiele mitnehmen und sie mit den Leuten dort zu spielen. Wenn Du keine Lust auf Brettspiele hast kannst Du Dich auch gerne an der Bar mit anderen Besuchenden unterhalten oder einfach im Kissenzimmer zu chillen. Es wird auch was Veganes zum essen geben. </p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260314T130000Z
+SUMMARY:frients Treffen im März Spielenachmittag
+UID:ab9c3170-5262-43c8-b376-9e1a4554fda3@ab9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260623T170000Z
+SUMMARY:frients Abend im Juni
+UID:027de59c-31d3-4373-9e1d-bedf48304bb5@027d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260324T180000Z
+SUMMARY:frients Abend im März
+UID:41db859f-737d-4b05-aef8-46cb6579682f@41db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260428T170000Z
+SUMMARY:frients Abend im April
+UID:70534d69-891a-45e7-a806-87a7ace398f9@7053.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Weitere Infos folgen... :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260509T120000Z
+SUMMARY:frients Treffen im Mai
+UID:173a7f41-6566-47a8-b6ca-0bbdbb0f46bc@173a.org
+END:VEVENT
+END:VCALENDAR

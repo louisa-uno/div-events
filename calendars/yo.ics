@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Sei laut\, stolz und bunt mit dem diversity München am internationalen feministischen Kampftag! Alle Feminist*innen sind willkommen dabei zu sein.</b></p><p>Am 8.3. Ist der feministische Kampftag - auch Weltfrauentag genannt. Feminism unstoppable München organisiert eine Demonstration unter dem Motto „Another world ist possible“ und das diversity nimmt mit Dir teil!</p><p>Der genaue Ablauf mit Treffpunkt folgt noch. Wir werden auf jeden Fall die Demonstration um 13:00 Uhr am Rindermarkt besuchen. </p><p>Wir freuen uns auf Deine Unterstützung mit all Deinen queeren und nicht-queeren Freund*innen!</p><p></p><p><i>Die youngsters sind die Gruppe für schwule\, bisexuelle und neugierige Jungs* bis einschließlich 19 Jahren.</i><br/><i>Die JuLes sind die Gruppe für lesbische\, bisexuelle und neugierige Mädels* bis einschließlich 19 Jahren.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20260308T120000Z
+SUMMARY:youngsters: Feministischer Kampftag
+UID:7e077a06-d532-4953-9e59-35ca7af12eb8@7e07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Der frühe Vogel fängt den Wurm - daher feiern wir diesen Sonntag als aller ersten Ostern\, um... äh... alle Ostereier zu... fAnGeN!!!<br/>Um den Osterhasen zu entlasten\, legt Onkel Devan dieses Jahr höchst persönlich die Eier selbst.<br/>Zusätzlich backen wir dazu in unserer veganen Metzgerei unser eigenes Osterlamm. Es lohnt sich also\, vorbeizukommen :D</p><p>Also bis Sonntag \;)</p><p></p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis 19 Jahre.</i></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis einschließlich 19 Jahre.</i></p>
+DTEND:20260329T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260329T130000Z
+SUMMARY:youngsters: Ostertreffen mit den JuLes
+UID:98a20096-57d0-43e7-afd1-728305fe7009@98a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260524T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260524T130000Z
+SUMMARY:youngsters-Treffen
+UID:49646b4b-182e-43da-8367-aeeab340336c@4964.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis einschließlich 19 Jahre.</i></p>
+DTEND:20260322T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260322T140000Z
+SUMMARY:youngsters: verschoben auf nächste Woche
+UID:c25ba3a5-47ba-497c-bb39-61d7d2988ae0@c25b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260510T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260510T130000Z
+SUMMARY:youngsters-Treffen
+UID:0a7fefaf-a5cd-49a7-a6ec-45dcac9adf0c@0a7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis einschließlich 19 Jahre.</i></p>
+DTEND:20260426T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260426T130000Z
+SUMMARY:youngsters: Bouldern mit den JuLes
+UID:97e3c0f4-bd3b-4a3e-9a38-c928f3653023@97e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis einschließlich 19 Jahre.</i></p>
+DTEND:20260412T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260412T130000Z
+SUMMARY:youngsters: Seriennachmittag mit den JuLes
+UID:602297e5-1320-486c-8181-2808a2d02917@6022.org
+END:VEVENT
+END:VCALENDAR
