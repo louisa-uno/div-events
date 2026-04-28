@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260528T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260528T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:7024a2e6-e9b0-46ae-a0b4-dc0586a1e1b2@7024.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Wilma &amp\; bi.yourself laden zu einem ganz besonderen Abend ein. Bei unserer Bingo Night ist nicht nur Spaß garantiert\, Du kannst auch tolle Preise gewinnen!</p><p>Du hast noch nie Bingo gespielt? Kein Problem - sowohl Beginner\, als auch Bingo-Profis sind herzlich willkommen. Das schöne an Bingo ist\, es ist simpel und jeder* kann mitmachen! Also schnapp dir deine Freunde und komm ab 19 Uhr am 17.04. im diversity Café\, Blumenstraße 29\, vorbei!</p><p>Das Wilma &amp\; bi.yourself Team freut sich auf Dich!</p>
+DTEND:20260417T210000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20260417T170000Z
+SUMMARY:WILMA & bi.yourself Bingo Night
+UID:9194451f-6d99-4c12-b963-c2d71b9bc9ba@9194.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260625T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260625T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:a91b012b-6891-4f1b-bad8-c05ba745279e@a91b.org
+END:VEVENT
+END:VCALENDAR
