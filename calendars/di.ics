@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p><b><i>Die DINOs sind unsere Gruppe für alle queeren Personen von 25 bis 32 Jahren.<br/></i></b><br/>Treffpunkt diversity Jugendzentrum\, Blumenstraße 11 80331 München<br/><br/>Komm doch vorbei und spiel mit beim Spielenachmittag im diversity Jugendzentrum.<br/>Vor Ort gibt es eine Auswahl an verschiedenen Spielen\, die Ihr gemeinsam ausprobieren könnt\, zum Beispiel Brett-\, Karten- oder Partyspiele\, hier ist für jede*n etwas dabei. Gerne kannst Du auch Deine eigenen Spiele mitbringen und sie mit anderen ausprobieren.</p>
+DTEND:20260503T170000Z
+DTSTART:20260503T120000Z
+SUMMARY:DINOs: Spielenachmittag
+UID:c89e38a6-2774-4ea1-be52-013a326df56c@c89e.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>diversity@school ist unser Bildungsprojekt\, in dem queere Referent*innen ehrenamtlich Workshops für Jugendliche\, junge Erwachsene und Multiplikator*innen durchführen sowie Infostände betreuen – zu den Themen sexuelle Orientierung und Geschlechtsidentität.</p><p>Du bist unter 27 und hast Lust\, mit uns Workshops über sexuelle und geschlechtliche Vielfalt an Schulen durchzuführen?<br/>Beim Neueinsteiger*innen-Abend wollen wir Dir gemeinsam mit anderen Neueinsteiger*innen die Möglichkeit geben\, diversity@school kennenzulernen. In einem entspannten Rahmen werden wir Dir das Projekt vorstellen und gemeinsam einen Workshop durchspielen. Wir bereiten für danach etwas Veganes zu Essen vor und können uns dann noch etwas austauschen.</p><hr/><p></p><p>Du weißt schon\, dass Du kommst? Dann melde Dich gerne an\, damit wir besser planen können:  <a href="https://events.diversity-muenchen.de/school/neas-26-7/">Neueinsteiger*innen-Abend von diversity@school - Juli 2026</a> </p><p>Ansonsten komm gerne auch spontan vorbei!</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260706T170000Z
+SUMMARY:Neueinsteiger*innen-Abend von diversity@school
+UID:9e3bcb5e-01e9-49d9-82b5-2494d0de776c@9e3b.org
+END:VEVENT
+END:VCALENDAR

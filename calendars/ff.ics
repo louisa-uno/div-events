@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p><b>!!!Treffpunkt um 14:00 Uhr am Botanischen Garten!!!</b></p><p>Im April besuchen wir den Botanischen Garten München. Treffpunkt ist um 14 Uhr vor dem Haupteingang des Botanischen Gartens München. Der Eintritt wird nur 2€ für alle kosten. Für Schüler*innen sowie für Menschen mit Ehrenamtskarte oder München-Pass (Nachweis mitbringen!) ist der Eintritt frei. Wenn dich der Eintrittspreis von der Teilnahme abhalten sollte\, dann schreib uns<br/>über unser Kontaktformular hier auf der Website und wir finden eine Lösung. Nach dem Besuch gehen wir ab ca. 18 Uhr zurück ins Jugendzentrum.</p>
+DTEND:20260411T200000Z
+DTSTART:20260411T120000Z
+SUMMARY:frients Treffen im April: Botanischer Garten
+UID:63f90973-04b6-48d0-8914-edc9760f00dd@63f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260623T170000Z
+SUMMARY:frients Abend im Juni
+UID:db5d9f80-85c7-4dce-8462-eb00b334e76c@db5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Weitere Infos folgen... :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260613T120000Z
+SUMMARY:frients Treffen im Juni
+UID:c87f9674-61e7-4023-a58c-52bb18ace3c7@c87f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich am 26.05. nicht! Gute Erholung von der Freizeitfahrt. Am 13.06. um 14:00 Uhr und am 23.06. um 19:00 Uhr sehen wir uns in alter Frische.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260526T170000Z
+SUMMARY:!!!fällt aus!!! frients Abend im Mai
+UID:5e8fb673-3ce3-48d5-b626-0e6467accb95@5e8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260428T170000Z
+SUMMARY:frients Abend im April
+UID:b717b844-00b8-4dcd-9e54-b3907b9df164@b717.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260728T170000Z
+SUMMARY:frients Abend im Juli
+UID:57ef351b-c746-4c15-919d-8dbab391d158@57ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Weitere Infos folgen... :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260711T120000Z
+SUMMARY:frients Treffen im Juli
+UID:f337e71d-a321-494c-8314-b6b332d134d4@f337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients teffen sich am Samstag den 9. Mai im Jugendzentrum zum Batiken und Belachen.<br/>Bring dafür ein Weißes Tshit odes etwas anderes fürs Batiken oder ein schwarzes bzw. sehr dunkles T-Shirt zum Bleachen mit.<br/>Solltest du das vergessen haben oder nichts passendes Leisten können\, haben die frients auch ein paar T-Shirts\, die sie zur Verfügung stellen können solange der Vorrat reicht.<br/>Man kann aber natürlich auch einfach im Jugenzentrum ratschen\, chillen und Brettspiele spielen. Abends wird es natürlich wie immer kostenloses Essen geben.</p><p>Die frients sind eine Freizeitgruppe für Menschen zwischen 14 und 27 Jahren\, die binär oder nichtbinär trans* sind oder ihre Geschlechtsidentität in Frage stellen. Sie schaffen einen Raum\, in dem sich junge trans* Personen entspannt treffen und miteinander Zeit verbringen können. Die frients sind keine Selbsthilfegruppe. Wenn du auf der Suche nach einem für dich passenden Angebot Hilfe benötigst\, wende dich gerne an unsere Beratung (Kontakt via Website).<br/></p>
+DTEND:20260509T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260509T120000Z
+SUMMARY:frients: Batiken und Bleachen
+UID:2ee75adf-6874-461c-97ce-fd3f56baa2b7@2ee7.org
+END:VEVENT
+END:VCALENDAR

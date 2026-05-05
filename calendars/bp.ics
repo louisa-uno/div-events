@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260602T170000Z
+SUMMARY:BiPoC-Abend: BIPoC Abend Treffen
+UID:57c7ca40-98af-442e-9ef2-ee791f753a3b@57c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Der BiPoC-Abend hat auch dieses Mal etwas Spannendes für euch geplant! Wir schaffen Raum für eure Ideen und laden euch zu unserer Creative Hour ein.<br/>Habt ihr ein Projekt\, das schon ewig halbfertig zu Hause rumliegt? Dann packt es ein und bringt es mit! Oder habt ihr einfach nur Lust\, mal wieder etwas mit den Händen zu machen? Dann fangt bei uns direkt etwas Neues an. Wir haben jede Menge Bastelkram vor Ort\, den ihr nutzen könnt. Wie immer gilt: Wer gerade keine Muse hat\, kann auch einfach nur zum Quatschen oder für eine Runde Brettspiele vorbeikommen.<br/></p>
+DTEND:20260505T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260505T170000Z
+SUMMARY:BiPoC-Abend: Creative Hour
+UID:5c88d526-8a17-408d-a230-e939ccea3d5f@5c88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260707T170000Z
+SUMMARY:BiPoC-Abend: BIPoC Abend Treffen
+UID:5a4e0e27-6b20-483e-9b2b-15d9e1370f81@5a4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260505T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260505T081100Z
+SUMMARY:BiPoC-Abend: BIPoC Abend Treffen
+UID:755d1fa3-83af-4d8f-ac98-6f1e4ba2bfea@755d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260407T170000Z
+SUMMARY:BiPoC-Abend: BIPoC Abend Treffen
+UID:b18b742e-e65c-42a8-b7e9-47bf9f2bfc3e@b18b.org
+END:VEVENT
+END:VCALENDAR

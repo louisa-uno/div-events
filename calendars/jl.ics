@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis einschließlich 19 Jahre.</i></p>
+DTEND:20260614T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260614T130000Z
+SUMMARY:JuLes: Gruppentreffen
+UID:2e4acac9-c9d3-4b8f-a1da-aa48237268ec@2e4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis einschließlich 19 Jahre.</i></p>
+DTEND:20260510T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260510T130000Z
+SUMMARY:JuLes: Schmuck und Buttons basteln
+UID:5be090d6-1cb5-43aa-beb5-0eba459c9ff2@5be0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Diesen Sonntag geht es hoch hinaus. Wobei so hoch dann doch auch wieder nicht. Die youngsters   gehen gemeinsam Bouldern und erklimmen dort die Wände.<br/></p><p>Egal ob absoluter Anfänger oder schon etwas fortgeschritten\, wir freuen uns auf Dich.<br/></p><p>Nimm bitte einen Teilnahmebetrag von 12 € mit\, den Rest sponsern wir.<br/></p><p>Ausrüstung brauchst Du keine\, nur bequeme Sportklamotten und etwas zu trinken. Wenn du bereits eigene Kletterschuhe hast\, kannst Du sie auch gerne mitbringen.<br/></p><p>Wir treffen uns um 15:00 Uhr am Jugendzentrum und brechen dann gemeinsam zur Boulderwelt Ost auf.<br/></p><p>Wenn die Zahlung des Teilnahmebeitrags Dich daran hindert an unserer Aktion teilzunehmen\, melde Dich bitte bei uns! In diesem Fall kann z.B. diversity Teile des Betrags oder den ganzen Beitrag übernehmen. Am besten erreichst du uns hierfür über unser das Kontaktformular auf unserer Homepage. Natürlich gehen wir damit vertraulich um.<br/></p><p>Wir freuen uns auf Dich! </p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädels* bis einschließlich 19 Jahre.</i></p>
+DTEND:20260426T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260426T130000Z
+SUMMARY:JuLes: Bouldern mit den youngsters
+UID:1d23a6c7-8ea8-4c64-9cfb-7f0d7a87a469@1d23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die JuLes treffen sich diese Sonntag mit den youngsters zum Seriennachmittag! Ab 15 Uhr bist Du herzlich eingeladen\, es dir mit Snacks im Kissenzimmer gemütlich zu machen.</p><p>Alle\, die keine Lust auf einen Serienmarathon haben\, können sich natürlich wie immer auch ein paar Spiele schnappen. Wir freuen uns auf dein Kommen!</p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädels* bis einschließlich 19 Jahre.</i></p>
+DTEND:20260412T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260412T130000Z
+SUMMARY:JuLes: Seriennachmittag
+UID:3ad07725-30ef-4634-ae37-1867e8b0b039@3ad0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die JuLes sind unsere Gruppe für lesbische\, bisexuelle und neugierige Mädls* bis einschließlich 19 Jahre.</i></p>
+DTEND:20260524T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260524T130000Z
+SUMMARY:JuLes: Spielenachmittag
+UID:fca974ba-bd6c-4327-b030-92373770137f@fca9.org
+END:VEVENT
+END:VCALENDAR

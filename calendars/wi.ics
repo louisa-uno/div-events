@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20260702T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260702T170000Z
+SUMMARY:Wilma Gruppentreffen
+UID:0f5f4f11-e3a1-4ffa-8ea4-05cf8e02c462@0f5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>WILMA spielt Minigolf (Anmeldung erforderlich!)</p><p>Ob Du ein großer Minigolf-Fan bist oder das erste mal den Schläger schwingst\, bei uns bist Du willkommen. Das Einzige was Du tun musst ist\, Dich über unsere Webseite anmelden und einen Eigenbeitrag von 3€ mitzubringen. Da die Minigolfanlage bis 20:00 auf hat treffen wir uns bereits um 17:45 an der U-Bahn Station Olympiazentrum. Nach dem Minigolfspiel besteht die Möglichkeit noch etwas im Olympiapark zu verweilen. Denke ggf. daran\, Dir noch eine kleine Stärkung einzupacken\, für ein paar Snacks ist gesorgt.</p><p>Treffpunkt ist am 15. Mai um 17:45 an der U-Bahn Station Olympiazentrum\, vor dem Ausgang zur BMW Welt</p><p>Anmeldung hier: https://events.diversity-muenchen.de/wilma/minigolf26/</p><p>Sollte das Wetter nicht mitspielen\, treffen wir uns für einen Spieleabend im Jugendzentrum.</p><p>Wenn die Zahlung des Teilnahmebeitrags Dich daran hindert an unserer Aktion teilzunehmen\, melde Dich bitte bei uns! In diesem Fall kann z.B. diversity Teile Deinen Beitrag übernehmen. Am besten erreichst Du uns hierfür über unser Kontaktformular. Natürlich gehen wir damit vertraulich um.</p><p>Die Wilmas freuen sich auf eine spannende Partie Minigolf mit Dir!</p>
+DTEND:20260515T200000Z
+DTSTART:20260515T154500Z
+SUMMARY:Wilma: Minigolf
+UID:822c44c9-bb0f-42f8-82ef-78dc5846f573@822c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Wilma &amp\; bi.yourself laden zu einem ganz besonderen Abend ein. Bei unserer Bingo Night ist nicht nur Spaß garantiert\, Du kannst auch tolle Preise gewinnen!</p><p></p><p>Du hast noch nie Bingo gespielt? Kein Problem - sowohl Beginner\, als auch Bingo-Profis sind herzlich willkommen. Das schöne an Bingo ist\, es ist simpel und jeder* kann mitmachen! Also schnapp dir deine Freunde und komm ab 19 Uhr am 17.04. im diversity Cafe\, Blumenstraße 29\, vorbei!</p><p></p><p>Das Wilma &amp\; bi.yourself Team freut sich auf Dich!</p>
+DTEND:20260417T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20260417T170000Z
+SUMMARY:Wilma & bi.yourself Bingo Night
+UID:22fd9a76-af96-44b5-a0ba-ef75c07c41c8@22fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Wilma wandert durchs Murnauer Moos (Anmeldung erforderlich)!<br/>Du musst mal wieder raus aus der Stadt? Genieße einen Tag mit Wilma in der Natur bei hoffentlich bestem Wetter. Der Weg führt durch das schöne Murnauer Moos\, ist leicht und ohne Wandererfahrung gut machbar. Eine gute Aussicht ist garantiert und gute Gesellschaft ebenso.</p><p></p><p>Treffpunkt ist am 31. Mai um 9 Uhr München Hbf\, vor Gleis 27 - Starnberger Flügel</p><p></p><p>Mehr Informationen und Anmeldung hier: https://events.diversity-muenchen.de/wilma/wandern26/</p><p></p><p>Wilma freut sich einen Tag die Natur mit Dir zu genießen!</p>
+DTEND:20260531T153000Z
+DTSTART:20260531T070000Z
+SUMMARY:Wilma: Wanderung
+UID:45a8b7c9-1bd8-4cee-ad3e-6320a24ca57a@45a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20260619T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20260619T170000Z
+SUMMARY:Wilma Gruppentreffen
+UID:6ecde7c7-ae2d-4de0-81f6-b52a86611fac@6ecd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen </p>
+DTEND:20260717T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20260717T170000Z
+SUMMARY:Wilma Gruppentreffen
+UID:7722894a-2939-49ac-b989-8b8969caae99@7722.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20260604T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260604T170000Z
+SUMMARY:Wilma Treffen entfällt
+UID:c963564c-6f2f-40b6-afce-e802208cf1d2@c963.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><br/>An diesem Wilma treffen kannst Du Dich kreativ austoben! Wir schnitzen Linolplatten\, mit der Du Dein Bild auf Papierkarten\, Stofftaschen oder Ähnliches drucken kannst!<br/>Für alle\, die lieber von Hand malen\, haben wir natürlich auch Pinsel da.<br/> Wie immer gibts auch den offenen Spieleschrank und Getränke zu günstigen Juzpreisen.</p><p><br/>Wilma freut sich auf einen farbig-kreativen Abend mit Dir!<br/><br/></p>\n\n(Error: The event had an invalid end date)
+DURATION:PT2H58M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260507T170000Z
+SUMMARY:Wilma: Linoldruck & Taschen bemalen
+UID:55a95120-9273-43d3-b4cd-a8d8e2e17e22@55a9.org
+END:VEVENT
+END:VCALENDAR
