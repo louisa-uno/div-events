@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>AroSpAce und DINOs möchten mit Dir von Warngau bis Miesbach wandern.</p><p>Auf der etwa 15 km langen Strecke mit wenigen Höhenmetern gibt es unter anderem</p><p>den Aussichtspunkt Taubenberg\, das Wasserschloss Reisach\, sowie die Gotzinger Hangquellfassung\, die für die Fassung eines Großteils des Münchner Trinkwassers verantwortlich ist.</p><p></p><p>Genauere Details gibt es in der für die Teilnahme erforderlichen Anmeldung: <a href="https://go.diversity-muenchen.de/wandern26">https://go.diversity-muenchen.de/wandern26</a></p><p></p><p>AroSpAce ist unsere Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\,</p><p>die sich auf dem aromantischen und/oder asexuellen Spektrum befinden oder ihre Identität dahingehend hinterfragen.</p><p></p><p>Die DINOs sind unsere Gruppe für alle queeren Personen von 25 bis 32 Jahren.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+DTSTART:20260830T064000Z
+SUMMARY:AroSpAce und DINOs: Wandertag
+UID:6756ba28-26b5-4e66-b19a-f2aa2108c548@6756.org
+END:VEVENT
+END:VCALENDAR

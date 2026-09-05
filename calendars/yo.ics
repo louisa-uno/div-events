@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Wir suchen Teamende! Sprich uns doch gerne vor Ort an oder schreibe uns eine Mail über das Kontaktformular.</i></p>
+DTEND:20260913T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260913T130000Z
+SUMMARY:youngsters Treffen
+UID:9fee0632-e439-433c-8076-2eb63728e767@9fee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Bock auf eine entspannte Pause vom Alltag\, gute Gespräche und jede Menge Leckereien? Dann bist du hier genau richtig! Die youngsters und die JuLes tun sich zusammen und verwandeln das diversity Jugendzentrum in die ultimative Chill-Oase.</p><p>Egal\, ob du schon Stammgast bei uns bist oder zum allerersten Mal vorbeischaust: Pack deine Freund*innen ein oder komm alleine vorbei – wir freuen uns auf dich!</p><p></p><p><i>Die youngster sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis einschließlich 19 Jahren.</i></p><p><i>Wir suchen Teamende! Sprich uns doch gerne vor Ort an oder schreibe uns eine Mail über das Kontaktformular.</i></p>
+DTEND:20260809T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260809T130000Z
+SUMMARY:youngsters: Chill-day
+UID:aadcc942-1577-42ef-8443-5caf475a9bc9@aadc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Diesen Sonntag wollen wir mit dir unsere eigene youngsters-Spielesammlung gestalten! Dafür bemalen wir Jengasteine\, beglitzern unsere Spielkarten und denken uns unser eigenes Brettspiel aus ✂️✨<br/>Mitbringen musst du dafür nichts\, alle Materialien haben wir vor Ort im Jugendzentrum. Und wenn du es dir lieber nur im Kissenzimmer gemütlich machen willst\, bist du natürlich wie immer auch herzlich willkommen! 🌈<br/>Die youngsters-Orga freut sich schon auf dich!</p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.</i></p>
+DTEND:20260823T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260823T130000Z
+SUMMARY:youngsters: Eigene Spiele bedazzlen
+UID:73f4d27e-b4db-455f-a755-26bc655c856c@73f4.org
+END:VEVENT
+END:VCALENDAR

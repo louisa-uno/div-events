@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Lust auf einen entspannten Sommerabend mit Deinen Freund*innen? Dann ist unser Super Trouper Mega Picknick genau das richtige für Dich. Es gibt nicht nur Snacks und Outdoorspiele\, sondern auch die Gelegenheit\, diese mit deinen Freund*innen aus anderen Gruppen (AroSpAce\, enBees\, frients\, Wilma) zu genießen. Bringe gerne eine Picknickdecke und deine Lieblingssnacks oder Essen\, das für dein perfektes Picknick nicht fehlen darf mit.</p><p></p><p>Wir treffen uns an der Tram-Haltestelle „Nationalmuseum/Haus der Kunst“ und suchen uns gemeinsam einen Platz im Englischen Garten. Bei Regen findet das Picknick im Jugendzentrum (Blumenstraße 11) statt.</p>
+DTEND:20260827T190000Z
+DTSTART:20260827T160000Z
+SUMMARY:bi.yourself: Super Trouper Mega Picknick
+UID:3cd21101-792a-4c4d-a0dd-667cae5e3411@3cd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20261022T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261022T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:ae8896f6-404e-49b3-83a3-bc7b7bc4e7ea@ae88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20260924T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260924T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:81d675e1-c64a-46e3-8f5b-f49cf152d63e@81d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20261126T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261126T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:448cfc7c-24f6-40b1-b872-a1ec39ccd5d9@448c.org
+END:VEVENT
+END:VCALENDAR
