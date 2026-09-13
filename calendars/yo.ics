@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Diesen Sonntag wollen wir mit dir unsere eigene youngsters-Spielesammlung gestalten! Dafür bemalen wir Jengasteine\, beglitzern unsere Spielkarten und denken uns unser eigenes Brettspiel aus ✂️✨<br/>Mitbringen musst du dafür nichts\, alle Materialien haben wir vor Ort im Jugendzentrum. Und wenn du es dir lieber nur im Kissenzimmer gemütlich machen willst\, bist du natürlich wie immer auch herzlich willkommen! 🌈<br/>Die youngsters-Orga freut sich schon auf dich!</p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.</i></p>
+DTEND:20260823T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260823T130000Z
+SUMMARY:youngsters: Eigene Spiele bedazzlen
+UID:0f33d35a-98a3-4a59-9063-ec229ad470b6@0f33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Jetzt wird es haarig!<br/> Zusammen mit den JuLes besuchen wir die aktuelle Ausstellung der Kunsthalle. Dort dreht sich gerade alles ums Thema Haare.</p><p>Dafür treffen wir uns um pünktlich 15 Uhr im Jugendzentrum und fahren dann gemeinsam in das Museum.</p><p>Melde dich kurz unter folgendem Link kurz an\, wenn Du mitkommen willst:<br/>https://events.diversity-muenchen.de/jules/Kunsthalle/</p><p>Nimm bitte 2 Euro mit\, den Rest den Eintrittpreises übernehmen wir. Falls das ein Problem für Dich darstellt\, melde Dich kurz über <i>das</i> <a href="https://diversity-muenchen.de/de/gruppen/jules/kontakt/"><i>Kontaktformular</i></a>\, wir finden eine Lösung :)</p><p>Bitte denke an eine gültige Fahrkarte und einen Schüler/Studenten/Ausbildungs Nachweis.</p><p>Wir freuen uns auf Dich!</p><p></p><p><i>Die Youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.</i></p><p></p><p><i>Wir suchen Teamende! Sprich uns doch gerne vor Ort an oder schreibe uns eine Mail über das</i> <a href="https://diversity-muenchen.de/de/gruppen/jules/kontakt/"><i>Kontaktformular</i></a><i>. In unserem Orga-Team sind alle schwulen\, bisexuellen und neugierigen Personen bis 27 willkommen :)</i></p>
+DTEND:20260913T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260913T130000Z
+SUMMARY:youngsters: Besuch Kunsthalle
+UID:20a62a33-463c-4cc9-b800-62b58fb2e901@20a6.org
+END:VEVENT
+END:VCALENDAR
