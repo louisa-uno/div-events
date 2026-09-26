@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261222T180000Z
+SUMMARY:frients Abend im Dezember
+UID:8a75c551-d4ec-4b13-841b-16bc726c141d@8a75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261027T180000Z
+SUMMARY:frients Abend im Oktober
+UID:b85ba251-20dd-4a2d-8161-d641882e8c46@b85b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Im September geht es für die frients ins deutsche Museum. Sie wollen dort einige Stunden verbringen danach geht es wie gewohnt ins Jugendzentrum wo es ein Abendessen und Spiele und Getränke geben wird um den Abend ausklingen zu lassen.<br/> Achtung! Der Treffpunkt ist trotzdem im Hof des Jugendzentrums\, sie laufen von dort gemeinsam zum Museum (max. 15 Minuten Fußweg).<br/> Der Eintrittspreis beträgt 5€ für alle die als Teil der Gruppe in die Ausstellung gehen. Wenn Du später ins Museum nachkommen möchtest kostet der ermäßigte Eintritt 9€ und der reguläre 16€.<br/> Wer erst nach dem Museum dazukommen möchte\, kann ab 17:30 Uhr zum Jugendzentrum kommen.<br/> Wenn Dich die Zahlung des Teilnahmebeitrags daran hindert an unserer Aktion teilzunehmen\, melde Dich bitte bei uns! In diesem Fall kann z.B. diversity Teile des Betrags oder den ganzen Beitrag übernehmen. Am besten erreichst du uns hierfür über unser Kontaktformular. Natürlich gehen wir damit vertraulich um.Im September geht es für die frients ins deutsche Museum. Sie wollen dort einige Stunden verbringen danach geht es wie gewohnt ins Jugendzentrum wo es ein Abendessen und Spiele und Getränke geben wird um den Abend ausklingen zu lassen.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260912T120000Z
+SUMMARY:frients Ausflug ins Deutsche Museum
+UID:131bee54-2fd1-4705-88c2-3f74deea4878@131b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Weitere Infos folgen... :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261114T130000Z
+SUMMARY:frients Treffen im November
+UID:b9586915-6dc0-4027-a555-04a636b98cdb@b958.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261124T180000Z
+SUMMARY:frients Abend im November
+UID:48dc5107-f1a5-428e-894b-00b646fc3529@48dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Weitere Infos folgen... :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261010T120000Z
+SUMMARY:frients: trans*talk im Oktober
+UID:d3ebb34d-802a-4e43-a176-98839f32bdd6@d3eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Weitere Infos folgen... :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261212T130000Z
+SUMMARY:frients Treffen im Dezember
+UID:d9f6dd11-f97e-4034-8e49-fa000bb589ae@d9f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260922T170000Z
+SUMMARY:frients Abend im September
+UID:20ffcb89-4a28-4949-a251-1883d7c59e72@20ff.org
+END:VEVENT
+END:VCALENDAR

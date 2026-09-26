@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20261022T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261022T170000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:3f626e75-0ae8-48ad-b9c3-4527c7db97af@3f62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20261224T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261224T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:2109c989-704b-4b74-b74d-580e8de4bbd0@2109.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Um den kürzer werdenden Tagen und dem kälteren Wetter entgegenzuwirken wollen wir es uns mit Dir zum Herbstanfang erstmal richtig gemütlich. Beim Septembertreffen wird es bei uns Waffeln mit Toppings verschiedener Art geben. Um danach die Welt draußen ein bisschen auszublenden und den Kopf freizukriegen wird das Lego ausgepackt und es kann nach Lust und Laune gebaut werden.</p><p></p><p>bi.yourself ist unsere Gruppe für alle bis 27 Jahre\, die sich als bi oder pan identifizieren oder die sich auch ohne Label zu mehr als einem Geschlecht hingezogen fühlen.</p>
+DTEND:20260924T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260924T170000Z
+SUMMARY:Waffeln und Lego mit bi.yourself
+UID:b626d8cb-9a6c-4fbd-99b7-68645db083a1@b626.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20261126T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261126T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:56e0a6dc-fc32-4619-84cd-757845018964@56e0.org
+END:VEVENT
+END:VCALENDAR
