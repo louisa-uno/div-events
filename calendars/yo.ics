@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Jetzt wird es haarig!<br/> Zusammen mit den JuLes besuchen wir die aktuelle Ausstellung der Kunsthalle. Dort dreht sich gerade alles ums Thema Haare.</p><p>Dafür treffen wir uns um pünktlich 15 Uhr im Jugendzentrum und fahren dann gemeinsam in das Museum.</p><p>Melde dich kurz unter folgendem Link kurz an\, wenn Du mitkommen willst:<br/>https://events.diversity-muenchen.de/jules/Kunsthalle/</p><p>Nimm bitte 2 Euro mit\, den Rest den Eintrittpreises übernehmen wir. Falls das ein Problem für Dich darstellt\, melde Dich kurz über <i>das</i> <a href="https://diversity-muenchen.de/de/gruppen/jules/kontakt/"><i>Kontaktformular</i></a>\, wir finden eine Lösung :)</p><p>Bitte denke an eine gültige Fahrkarte und einen Schüler/Studenten/Ausbildungs Nachweis.</p><p>Wir freuen uns auf Dich!</p><p></p><p><i>Die Youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.</i></p><p></p><p><i>Wir suchen Teamende! Sprich uns doch gerne vor Ort an oder schreibe uns eine Mail über das</i> <a href="https://diversity-muenchen.de/de/gruppen/jules/kontakt/"><i>Kontaktformular</i></a><i>. In unserem Orga-Team sind alle schwulen\, bisexuellen und neugierigen Personen bis 27 willkommen :)</i></p>
+DTEND:20260913T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260913T130000Z
+SUMMARY:youngsters: Besuch Kunsthalle
+UID:679e5d4d-3988-4bc6-bf6a-1b4ca86aa04b@679e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die JuLes vermissen ihre Lieblings-Datingshow jetzt schon!! 🥲 Und die youngsters sind da natürlich solidarisch und leisten Beistand! Gemeinsam wollen wir also diesen Sonntag alle Princess Charming Vibes in unser Jugendzentrum bringen ✨🌈<br/>Dazu wollen die youngsters und JuLes mit dir einen Mini-Malwettbewerb veranstalten und natürlich gibt es dabei für alle auch Preise zu gewinnen!! 🏆👩🏼‍❤️‍👩🏽<br/>Los geht&#x27\;s dafür wie gewohnt um 15 Uhr in der Blumenstraße 11. Die youngsters und JuLes freuen sich über alle neuen und bekannten Gesichter 🦄</p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.</i></p>
+DTEND:20260927T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260927T130000Z
+SUMMARY:youngsters: Princess Charming Nachmittag
+UID:e54144b3-c4fc-45fc-b781-81e2df7eedec@e541.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngsters suchen neue Ehrenamtliche! Wenn du Lust hast\, unser Orgateam näher kennenzulernen\, dann schreib uns doch gerne über das </i><a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/"><i>Kontaktformular</i></a><i>.</i></p>
+DTEND:20261011T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261011T130000Z
+SUMMARY:youngsters: Kleidertausch mit den JuLes
+UID:49c8f043-b6d2-4476-9ec6-c3ca2c441ef6@49c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngster suchen nach neuen Ehrenamtlichen! Wenn du Lust hast\, dir unsere Orga mal anzuschauen\, dann melde dich doch gerne über das </i><a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/"><i>Kontaktformular</i></a><i> oder sprich uns vor Ort an :)</i></p>
+DTEND:20261108T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261108T140000Z
+SUMMARY:youngsters: Gruppentreffen
+UID:d0ec44ce-37f3-4c32-875b-ac2522a782f0@d0ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngsters suchen nach neuen Ehrenamtlichen! Wenn du Lust hast\, dir unsere Orga mal anzuschauen\, dann melde dich doch gerne über das </i><a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/"><i>Kontaktformular</i></a><i> oder sprich uns vor Ort an :)</i></p>
+DTEND:20261025T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261025T140000Z
+SUMMARY:youngsters: Halloween Gruseltreffen
+UID:5fa4a1b7-4441-4088-a270-8afc52c34437@5fa4.org
+END:VEVENT
+END:VCALENDAR
