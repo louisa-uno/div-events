@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Weitere Infos folgen. :)</b></p><p><i>AroSpAce ist die Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\, die sich auf dem aromantischen und/oder asexuellen Spektrum befinden (d.h. auch Demi-\, Grey- etc.). Du identifizierst dich auf einem oder beiden der Spektren oder hinterfragst deine Identität diesbezüglich\, dann bist du herzlich zu unserem Treffen eingeladen!</i></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261208T180000Z
+SUMMARY:AroSpAce: im Dezember
+UID:de2dcaa4-fb8c-419c-837b-d1def9d85ade@de2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p><br/>Jetzt\, da die dunkle Jahreszeit beginnt\, lädt AroSpAce Dich herzlich zum gemeinsamen Teelichter basteln am 13.10. um 19 Uhr ein\, um uns die kalten Tage etwas zu verschönern. Bastelmaterialien werden gestellt\, es wird auch wieder vegan gekocht. Wenn Du Dich einfach nur mit netten Menschen unterhalten oder Spiele spielen will\, bist Du natürlich auch herzlich willkommen.</p><p></p><p><i>AroSpAce ist die Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\, die sich auf dem aromantischen und/oder asexuellen Spektrum befinden (d.h. auch Demi-\, Grey- etc.). Du identifizierst dich auf einem oder beiden der Spektren oder hinterfragst deine Identität diesbezüglich\, dann bist du herzlich zu unserem Treffen eingeladen!</i></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261013T170000Z
+SUMMARY:AroSpAce: Teelichter basteln
+UID:da06b013-0a3e-4831-b305-c3eaccc872d0@da06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Weitere Infos folgen. :)</b></p><p><i>AroSpAce ist die Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\, die sich auf dem aromantischen und/oder asexuellen Spektrum befinden (d.h. auch Demi-\, Grey- etc.). Du identifizierst dich auf einem oder beiden der Spektren oder hinterfragst deine Identität diesbezüglich\, dann bist du herzlich zu unserem Treffen eingeladen!</i></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261110T180000Z
+SUMMARY:AroSpAce: im November
+UID:e41e887e-b333-4071-aa18-f6f30e6266ed@e41e.org
+END:VEVENT
+END:VCALENDAR
