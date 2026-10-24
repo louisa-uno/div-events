@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Weitere Infos folgen... :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20270109T130000Z
+SUMMARY:frients Treffen im Januar
+UID:48de88e8-80e3-4b15-9f53-f52eecf752a6@48de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Weitere Infos folgen :)</p>
+DTEND:20261128T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261128T140000Z
+SUMMARY:frients: Koop mit enBees: Kleiderkreisel
+UID:9348af35-67b6-452f-b515-a61c0fc7dfbb@9348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die Frients treffen sich zum trans* Talk im Jugendzentrum. Beim trans* Talk gibt es die Möglichkeit anonym Fragen zu medizinischen\, sozialen und rechtlichen Themen zu stellen. Außerdem gibt es wie immer die Möglichkeit\, Spiele zu spielen\, Limo zu trinken und abends ein veganes Essen zu genießen.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261010T120000Z
+SUMMARY:frients: trans*talk im Oktober
+UID:3fbb8abc-1824-4f46-8dbc-3610c8e62ecb@3fbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261027T180000Z
+SUMMARY:frients Abend im Oktober
+UID:6e109422-31f4-44e4-a7be-708faac1382c@6e10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Das frients Treffen im November entfällt. Am 28. November wird es eine Kleiderkreisel-Kooperation mit den enBees geben. Bis dann!</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261114T130000Z
+SUMMARY:!!!Entfällt!!! frients Treffen im November
+UID:ff6ec627-b29a-4086-9dc2-e9666202d85f@ff6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261222T180000Z
+SUMMARY:frients Abend im Dezember
+UID:1fd5a46c-b67b-40b0-93cb-8a38fcff398b@1fd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Die frients treffen sich zum gemütlichen Beisammensein im Jugendzentrum am Dienstag abend. Gemeinsam eine Limo trinken\, Spiele spielen\, reden\, die Möglichkeiten sind unendlich. Ab 19:00 Uhr geht es los.</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261124T180000Z
+SUMMARY:frients Abend im November
+UID:637c503f-2d69-4329-b18f-0cad8e5ee340@637c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Weitere Infos folgen... :)</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261212T130000Z
+SUMMARY:frients Treffen im Dezember: wichteln
+UID:cc61343a-d114-4635-ba93-5c3896d7f9d0@cc61.org
+END:VEVENT
+END:VCALENDAR

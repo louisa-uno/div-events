@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p> </p><p>Tanzen macht glücklich - zusammen noch mehr als allein! Aus diesem Grund laden wir euch am 21.07. ein\, eure tänzerischen Fähigkeiten beim gemeinsamen &#x27\;Just Dance&#x27\; - Spielen unter Beweis zu stellen. 🕺</p><p>Los geht es wie immer um 19 Uhr. </p><p>Die Wilmas freuen sich auf einen lustig-bewegten Abend mit euch!</p>
+DTEND:20261016T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20261016T170000Z
+SUMMARY:Wilma spielt Just Dance
+UID:f387add2-07f8-4239-9af9-c1acbb604bca@f387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> </p><p>Herbstzeit ist Kürbiszeit!</p><p>Beim allerersten Wilma-Treffen vor etwa zwölf Jahren wurde Kürbissuppe gekocht. Daraus hat sich die schöne Tradition entwickelt\, dass wir jedes Jahr im Herbst gemeinsam Kürbissuppe kochen. Das wollen wir auch dieses Jahr wieder tun. </p><p>Bitte bring zum Kürbisschnitzen deinen eigenen Kürbis mit! Werkzeug haben wir genug \;) <br/><br/>Die Wilmas freuen sich auf einen kürbis-herbstlichen Abend mit Dir!</p>
+DTEND:20261001T200000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261001T170000Z
+SUMMARY:Wilma Kürbisschnitzen und Kürbissuppe
+UID:a1fa32d1-79cb-4413-8847-50f95fb5349a@a1fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20261105T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261105T180000Z
+SUMMARY:Wilma Sonnenfänger basteln
+UID:51779caa-6815-45ef-8aac-7dedee5c9bd3@5177.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20261218T210000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20261218T180000Z
+SUMMARY:Wilma Gruppentreffen
+UID:cfe3d7bf-e690-439c-bdc8-402aab628832@cfe3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Was macht man in der dunklen Zeit? In die Sterne schauen! Gemeinsam mit Dir möchte Wilma in die Münchner Volkssternwarte gehen\, um durch die Teleskope zu schauen und mehr über die Sterne zu lernen. Da wir die Pläze kostenpflichtig reservieren müssen\, folgt hier noch eine Anmeldung bis spätestens 13.11. Also schreibs Dir in Deinen Kalender und schau regelmäßig hier\, auf Insta oder die Telegramgruppe für die Anmeldung!</p><p>Die Wilmas freuen sich auf einen sternig-schlauen Abend mit Dir!</p>
+DTEND:20261120T220000Z
+DTSTART:20261120T183000Z
+SUMMARY:Wilma geht zur Sternwarte (event mit Anmeldung)
+UID:bfb89ba2-dd98-4220-b939-a9816b5ec9a3@bfb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20261203T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261203T180000Z
+SUMMARY:Wilma Plätzchen backen
+UID:feaa6ee6-baef-4482-b1d9-d5406144f632@feaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p> Du hast jetzt für den Herbst Deinen Kleiderschrank aussortiert und weißt nicht wohin mit deinen früheren Lieblingspieces? Oder Du brauchst dringend neuen Lesestoff für die kalte Jahreszeit? Dann bist Du diesen Sonntag bei uns im Jugendzentrum genau richtig! 🍁<br/>Die JuLes\, youngsters\, Jungs und Wilmas laden dich zu einer großen Koop ein\, bei der Du Deine Bücher und Kleidungsstücke zum Tauschen mitbringen kannst. 📙 Achte bitte darauf\, dass Mitgebrachtes in einem guten Zustand ist und bringe nur gewaschene Kleidung zum Tauschen mit.🧣<br/>Das Orga-Team freut sich schon auf Dein Kommen! </p>
+DTEND:20261011T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261011T130000Z
+SUMMARY:Wilma: Kleider- und Büchertausch
+UID:d791d63e-de0f-4db6-bb6d-363afb333812@d791.org
+END:VEVENT
+END:VCALENDAR

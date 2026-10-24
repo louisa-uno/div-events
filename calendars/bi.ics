@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20261126T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261126T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:33177c68-c818-4e6b-b04f-66faed531d8b@3317.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Um den kürzer werdenden Tagen und dem kälteren Wetter entgegenzuwirken wollen wir es uns mit Dir zum Herbstanfang erstmal richtig gemütlich. Beim Septembertreffen wird es bei uns Waffeln mit Toppings verschiedener Art geben. Um danach die Welt draußen ein bisschen auszublenden und den Kopf freizukriegen wird das Lego ausgepackt und es kann nach Lust und Laune gebaut werden.</p><p></p><p>bi.yourself ist unsere Gruppe für alle bis 27 Jahre\, die sich als bi oder pan identifizieren oder die sich auch ohne Label zu mehr als einem Geschlecht hingezogen fühlen.</p>
+DTEND:20260924T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20260924T170000Z
+SUMMARY:Waffeln und Lego mit bi.yourself
+UID:fbbb937a-5c2b-420d-ae7c-9f916147f26d@fbbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>So langsam hält das Herbstwetter Einzug und wir möchten ein paar kreative Stunden mit Dir verbringen. Beim Oktobertreffen werden wir Tontöpfe auf verschiedenste Arten gestalten. Du hast die freie Wahl zwischen Farbe\, Mosaiksteinen\, buntem Papier oder allem auf einmal. Um die Kreativität so richtig anzukurbeln darf natürlich auch das passende Essen nicht fehlen\, weswegen es Kürbissuppe und Kräuterbaguette dazu gibt. Wir freuen uns auf Dich!</p><p>bi.yourself ist unsere Gruppe für alle bis 27 Jahre\, die sich als bi oder pan identifizieren oder die sich auch ohne Label zu mehr als einem Geschlecht hingezogen fühlen.</p>
+DTEND:20261022T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261022T170000Z
+SUMMARY:bi.yourself Tontöpfe bemalen
+UID:823bb795-c744-489e-818c-67ccc6c7e31d@823b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20261224T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261224T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:cca71d16-0837-41e5-b660-cf2728d26094@cca7.org
+END:VEVENT
+END:VCALENDAR
