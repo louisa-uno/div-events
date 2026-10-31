@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Wir gehen gemeinsam zum Queer Film Festival München und schauen uns <b>„Flesh and Fuel“</b> an. Eine queere Liebesgeschichte zwischen zwei Fernfahrern. (Regie Director—Pierre Le Gall</p><p>Spielfilm Feature\, FR/PL 2026—91min—18+</p><p>Französische\, englische und polnische Originalversion mit deutschen Untertiteln)</p><p>Donnerstag\, 22. Oktober 2026</p><p>Theatiner Filmtheater\, München</p><p>Filmbeginn: 19:00 Uhr</p><p>Treffpunkt: 18:45 Uhr im Eingangsbereich des Kinos</p><p><b>Bitte besorgt euch eure Tickets vorab selbst online für die Vorstellung.</b> Programm\, Triggerwarnungen und Tickets findet ihr auf qffm.de bzw. https://rausgegangen.de/s/h-mlnnc9PGmDyGnivRYxkA/</p><p>Wir freuen uns auf einen gemeinsamen Kinoabend mit euch!</p>
+DTEND:20261022T191500Z
+DTSTART:20261022T164500Z
+SUMMARY:DINOs: Gemeinsam ins Kino zu „Flesh and Fuel“
+UID:84f22d5c-2197-44cc-b832-31a2ae4bfd02@84f2.org
+END:VEVENT
+END:VCALENDAR

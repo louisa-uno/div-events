@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p><b>Infos folgen...</b></p><p><i>Die youngster suchen nach neuen Ehrenamtlichen! Wenn du Lust hast\, dir unsere Orga mal anzuschauen\, dann melde dich doch gerne über das </i><a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/"><i>Kontaktformular</i></a><i> oder sprich uns vor Ort an :)</i></p>
+DTEND:20261108T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261108T140000Z
+SUMMARY:youngsters: Gruppentreffen
+UID:e99905c0-6385-421d-8b5e-ca6359f438f7@e999.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Gemeinsam gay gruseln? Die JuLes und die youngsters feiern zusammen Halloween! Doch das steht unter einem tragischen Stern- Fenja wurde vom bösen bösen Drachen Luca entführt und soll nun als Hexe verbrannt werden und nur die JuLes und youngsters können sie retten! Ein verzwicktes Rätsel wartet auf Dich…</p><p>Komm für das Spektakel gerne verkleidet\, zum Beispiel als Hexe*r\, Priester*in oder in einem ganz anderen gruseligen Kostüm\, Du bist aber auch in Alltagsklamotten willkommen :)</p><p>Wenn der Grusel Dir zu viel wird\, kannst Du auch im Kissenzimmer entspannen oder Dir ein Spiel schnappen.</p><p>Wir freuen uns auf Dich! 👻🎃</p><p><i>Die JuLes suchen neue Ehrenamtliche! Wenn du Lust hast\, dir unser Orga-Team mal unverbindlich anzuschauen\, melde dich doch gerne über das</i> <a href="https://diversity-muenchen.de/de/gruppen/jules/kontakt/"><i>Kontaktformular</i></a><i>. In unserem Orga-Team sind alle lesbischen und bisexuellen Personen bis 27 willkommen :)</i></p><p><i>Die youngsters suchen nach neuen Ehrenamtlichen! Wenn du Lust hast\, dir unsere Orga mal anzuschauen\, dann melde dich doch gerne über das</i> <a href="https://diversity-muenchen.de/de/gruppen/youngsters/kontakt/"><i>Kontaktformular</i></a><i> oder sprich uns vor Ort an :)</i></p>
+DTEND:20261025T180000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261025T140000Z
+SUMMARY:youngsters: Halloween Gruseltreffen
+UID:cc5fdb6c-f61e-4260-948f-d194a1af0b62@cc5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Du hast jetzt für den Herbst deinen Kleiderschrank aussortiert und weißt nicht wohin mit deinen früheren Lieblingspieces? Oder du brauchst dringend neuen Lesestoff für die kalte Jahreszeit? Dann bist du diesen Sonntag bei uns im Jugendzentrum genau richtig! 🍁<br/>Die JuLes\, youngsters\, Jungs und Wilmas laden dich zu einer großen Koop ein\, bei der ihr eure Bücher und Kleidungsstücke zum Tauschen mitbringen könnt. 📙 Achte bitte darauf\, dass Mitgebrachtes in einem guten Zustand sein sollte und bringe nur gewaschene Kleidung zum Tauschen mit.🧣<br/>Das Orga-Team freut sich schon auf dein Kommen!</p><p><i>Die youngsters sind unsere Gruppe für schwule\, bisexuelle und neugierige Jungs* bis 19 Jahre.</i></p>
+DTEND:20261011T170000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261011T130000Z
+SUMMARY:youngsters: Kleider- & Büchertausch
+UID:6b029fac-58a8-4c5d-8662-375057cd113f@6b02.org
+END:VEVENT
+END:VCALENDAR
