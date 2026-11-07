@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p><p></p><p>Da am 24.12. Heiligabend ist\, treffen wir uns nicht wie immer am vierten Donnerstag des Monats\, sondern dritten Donnerstag: <b>am 17.12. :)</b></p>
+DTEND:20261217T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261217T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:e2d7c73c-d71c-412c-9e13-c6dfbb91f0ab@e2d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>So langsam hält das Herbstwetter Einzug und wir möchten ein paar kreative Stunden mit Dir verbringen. Beim Oktobertreffen werden wir Tontöpfe auf verschiedenste Arten gestalten. Du hast die freie Wahl zwischen Farbe\, Mosaiksteinen\, buntem Papier oder allem auf einmal. Um die Kreativität so richtig anzukurbeln darf natürlich auch das passende Essen nicht fehlen\, weswegen es Kürbissuppe und Kräuterbaguette dazu gibt. Wir freuen uns auf Dich!</p><p>bi.yourself ist unsere Gruppe für alle bis 27 Jahre\, die sich als bi oder pan identifizieren oder die sich auch ohne Label zu mehr als einem Geschlecht hingezogen fühlen.</p>
+DTEND:20261022T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261022T170000Z
+SUMMARY:bi.yourself Tontöpfe bemalen
+UID:3930a2d1-b87e-494d-9c80-9a9905d004a5@3930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>
+DTEND:20261126T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261126T180000Z
+SUMMARY:bi.yourself Filmabend
+UID:d510988b-57f7-423d-bc22-15100fe5d7bf@d510.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen :)</p>
+DTEND:20270128T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20270128T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:8dd0d360-96a1-43e2-934f-14675af5fc4b@8dd0.org
+END:VEVENT
+END:VCALENDAR
