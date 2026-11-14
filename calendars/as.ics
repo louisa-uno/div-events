@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>Du wolltest schon immer mal AroSpAce ein Thema vorstellen über das du Dich auskennst – oder zumindest versuchen zu wirken\, als wüsstest Du\, worum es geht – dann beweise Dein Improvisationstalent beim AroSpAce PowerPoint Karaoke und lass Dich überraschen\, was Dich überrascht. Du kannst auch Deine eigenen Präsentationen ins Rennen schicken (an arospace[at]diversity-muenchen.de senden)\, die dann von anderen präsentiert werden.</p><p>Natürlich kannst Du auch nur zuhören oder mit anderen Spiele spielen und dich unterhalten.<br/></p><p><i>AroSpAce ist die Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\, die sich auf dem aromantischen und/oder asexuellen Spektrum befinden (d.h. auch Demi-\, Grey- etc.). Du identifizierst dich auf einem oder beiden der Spektren oder hinterfragst deine Identität diesbezüglich\, dann bist du herzlich zu unserem Treffen eingeladen!</i></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261110T180000Z
+SUMMARY:AroSpAce: PowerPoint Karaoke
+UID:1602b733-8ccf-4fc1-b000-9dc5b3137d25@1602.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p><b>Weitere Infos folgen. :)</b></p><p><i>AroSpAce ist die Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\, die sich auf dem aromantischen und/oder asexuellen Spektrum befinden (d.h. auch Demi-\, Grey- etc.). Du identifizierst dich auf einem oder beiden der Spektren oder hinterfragst deine Identität diesbezüglich\, dann bist du herzlich zu unserem Treffen eingeladen!</i></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261208T180000Z
+SUMMARY:AroSpAce: im Dezember
+UID:dfe5a8e8-c64f-47ec-817d-e400278bd288@dfe5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p></p><p>AroSpAce wird fünf Jahre alt\, was wir mit Dir feiern wollen. Im diversity Café kannst du über die alten Zeiten oder neue Entwicklungen reden\, dich mit aktuellen und ehemaligen Mitgliedern austauschen – es gibt daher keine Altersbeschränkung – oder einfach einen entspannten Abend mit besonderem Anlass verbringen. Weitere Infos folgen noch separat.<br/></p><p><i>AroSpAce ist die Gruppe für Jugendliche und junge Erwachsene von 14 bis 27 Jahre\, die sich auf dem aromantischen und/oder asexuellen Spektrum befinden (d.h. auch Demi-\, Grey- etc.). Du identifizierst dich auf einem oder beiden der Spektren oder hinterfragst deine Identität diesbezüglich\, dann bist du herzlich zu unserem Treffen eingeladen!</i></p><p><i>Unser Jugendzentrum ist leider nicht barrierefrei. Solltest du auf Barrierefreiheit angewiesen sein\, melde dich bitte vorher unter arospace[at]diversity-muenchen.de bei uns. Eventuell können wir eine kurzfristige Lösung finden.</i></p>
+DTEND:20261129T230000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261129T230000Z
+SUMMARY:AroSpAce: 5 Jahre Jubiläum
+UID:b70ed509-512e-4c8e-88f6-e9f3782363a2@b70e.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20261105T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261105T180000Z
+SUMMARY:Wilma Sonnenfänger basteln
+UID:2669fb53-b758-4eb3-ad42-1a0f3330fbe9@2669.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p> </p><p>Tanzen macht glücklich - zusammen noch mehr als allein! Aus diesem Grund laden wir euch am 21.07. ein\, eure tänzerischen Fähigkeiten beim gemeinsamen &#x27\;Just Dance&#x27\; - Spielen unter Beweis zu stellen. 🕺</p><p>Los geht es wie immer um 19 Uhr. </p><p>Die Wilmas freuen sich auf einen lustig-bewegten Abend mit euch!</p>
+DTEND:20261016T200000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20261016T170000Z
+SUMMARY:Wilma spielt Just Dance
+UID:13d1a7c3-ba27-4941-a3a0-4b1f74f786cd@13d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20261218T210000Z
+LOCATION:diversity Café\, Blumenstraße 29\, 80331\, München
+DTSTART:20261218T180000Z
+SUMMARY:Wilma Gruppentreffen
+UID:f2926d7a-80b8-4c87-acba-9fbc75c2dedf@f292.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Genaue Informationen folgen</p>
+DTEND:20261203T210000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261203T180000Z
+SUMMARY:Wilma Plätzchen backen
+UID:dadd6a90-2c6a-494d-ad46-fee77396de31@dadd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Was macht man in der dunklen Zeit? In die Sterne schauen! Gemeinsam mit Dir möchten Wilma\, JuLes und youngsters in die Münchner Volkssternwarte gehen\, um durch die Teleskope zu schauen und mehr über die Sterne zu lernen. Da wir die Pläze kostenpflichtig reservieren müssen\, melde dich bitte über diesen Link bis spätestens 13.11. an:</p><p><a href="https://events.diversity-muenchen.de/wilma/Sternwarte/">https://events.diversity-muenchen.de/wilma/Sternwarte/</a></p><p>Die genauen Infos zum Treffpunkt erhältst du in der Bestätigungsmail. Alle Infos im Anmeldelink \;)</p><p>Die Wilmas\, JuLes and youngsters freuen sich auf einen kosmischen Abend mit Dir!</p>
+DTEND:20261120T214500Z
+DTSTART:20261120T183000Z
+SUMMARY:Wilma geht zur Sternwarte (Anmeldung bis 13.11. verpflichtend)
+UID:c522abd4-84a9-4752-96ca-f123db1881ea@c522.org
+END:VEVENT
+END:VCALENDAR
