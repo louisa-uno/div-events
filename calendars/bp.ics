@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261101T180000Z
+SUMMARY:BiPoC-Abend: BIPoC Abend Treffen
+UID:093462cf-3a6a-4e4d-874c-028c9c1b881f@0934.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p>\n\n(Error: The event had no end date)
+DURATION:PT2H57M
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261103T180000Z
+SUMMARY:BiPoC-Abend: BIPoC Abend Treffen
+UID:0b1caa62-6be7-4ba5-8315-07e3f0cd9b34@0b1c.org
+END:VEVENT
+END:VCALENDAR
