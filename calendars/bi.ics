@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen...</p><p></p><p>Da am 24.12. Heiligabend ist\, treffen wir uns nicht wie immer am vierten Donnerstag des Monats\, sondern dritten Donnerstag: <b>am 17.12. :)</b></p>
+DTEND:20261217T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261217T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:f39c78ea-42ef-4ae4-87ad-4213fe94e7fd@f39c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen :)</p>
+DTEND:20270128T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20270128T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:b926aa86-74ed-43f1-a081-14defc3cb6d1@b926.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Film ab! Wir laden dich diesen Donnerstag zu einem gemütlichen Filmabend ein. Wenn draußen das schlechte Wetter tobt\, kehrt im Jugendzentrum mit Dir und Deinen Freund*innen bei „Rattatouille“ Ruhe ein. Falls von den leckeren Gerichten im Film Dein Appetit zu groß wird kannst Du Dich an Pizzaschnecken und anderen Snacks sattessen. </p><p>Der Film wird auf Englisch mit deutschen Untertiteln gezeigt werden. Sollte das für Dich ein Problem sein\, sag bitte vorher über das Kontaktformular Bescheid\, damit wir eine Lösung finden können. </p><p>Wir freuen uns auf Dich!</p>
+DTEND:20261126T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20261126T180000Z
+SUMMARY:bi.yourself Filmabend
+UID:ec10927c-53d4-46d3-b3b5-9af1f2f80bf9@ec10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<p>Infos folgen!</p>
+DTEND:20270225T220000Z
+LOCATION:diversity München Jugendzentrum\, Blumenstraße 11\, 80331\, München
+DTSTART:20270225T180000Z
+SUMMARY:bi.yourself Gruppentreffen
+UID:d08d52c2-378a-4a84-9b7f-6af82f70049b@d08d.org
+END:VEVENT
+END:VCALENDAR
